@@ -1,4 +1,4 @@
-id_solicitante,id_solicitacao_emprestimo,id_historico_banco,id_solicitante,idade,salario,situacao_imovel,tempo_trabalho,id_solicitacao_emprestimo,motivo,pontuacao,valor_total_solicitado,taxa_juros,possibilidade_inadiplencia,renda_percentual,id_historico_banco,inadiplencia_anteior,tempo_primeira_solicitacao
+id_solicitante,id_solicitacao_emprestimo,id_historico_banco,id_solicitante,idade,salario,situacao_imovel,tempo_trabalho,id_solicitacao_emprestimo,motivo,pontuacao,valor_total_solicitado,taxa_juros,possibilidade_inadimplencia,renda_percentual,id_historico_banco,inadiplencia_anteior,tempo_primeira_solicitacao
 G49EeF9u-WyZ9,7LNQP12X-9PKR,9B8Mx7NQ-TeIz,G49EeF9u-WyZ9,54,50000,Aluguel,14,7LNQP12X-9PKR,Pagamento_debitos,A,20000,7.9,1,0.4,9B8Mx7NQ-TeIz,N,20
 RBpWezyP-M84E,8buJ57Ff-dLdL,DiLOMMlk-ZTBR,RBpWezyP-M84E,30,20000,Aluguel,4,8buJ57Ff-dLdL,"Pessoal ",C,6800,12.84,1,0.34,DiLOMMlk-ZTBR,N,6
 HMcitIlC-nlMs,HQgYuDGP-5SSk,QaNk7vtW-rWsh,HMcitIlC-nlMs,22,54500,Hipoteca,6,HQgYuDGP-5SSk,"Educativo ",B,21000,NULL,1,NULL,QaNk7vtW-rWsh,S,9
