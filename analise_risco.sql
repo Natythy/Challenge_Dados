@@ -15,7 +15,7 @@ alter table emprestimos change loan_intent motivo varchar(32);
 alter table emprestimos change loan_grade pontuacao varchar(1);
 alter table emprestimos change loan_amnt valor_total_solicitado int;
 alter table emprestimos change loan_int_rate taxa_juros double;
-alter table emprestimos change loan_status possibilidade_inadiplencia int;
+alter table emprestimos change loan_status possibilidade_inadimplencia int;
 alter table emprestimos change loan_percent_income renda_percentual double;
 
 select * from historicos_banco;
