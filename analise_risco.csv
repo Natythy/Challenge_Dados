@@ -1,0 +1,1001 @@
+id_solicitante,id_solicitacao_emprestimo,id_historico_banco,id_solicitante,idade,salario,situacao_imovel,tempo_trabalho,id_solicitacao_emprestimo,motivo,pontuacao,valor_total_solicitado,taxa_juros,possibilidade_inadiplencia,renda_percentual,id_historico_banco,inadiplencia_anteior,tempo_primeira_solicitacao
+G49EeF9u-WyZ9,7LNQP12X-9PKR,9B8Mx7NQ-TeIz,G49EeF9u-WyZ9,54,50000,Aluguel,14,7LNQP12X-9PKR,Pagamento_debitos,A,20000,7.9,1,0.4,9B8Mx7NQ-TeIz,N,20
+RBpWezyP-M84E,8buJ57Ff-dLdL,DiLOMMlk-ZTBR,RBpWezyP-M84E,30,20000,Aluguel,4,8buJ57Ff-dLdL,"Pessoal ",C,6800,12.84,1,0.34,DiLOMMlk-ZTBR,N,6
+HMcitIlC-nlMs,HQgYuDGP-5SSk,QaNk7vtW-rWsh,HMcitIlC-nlMs,22,54500,Hipoteca,6,HQgYuDGP-5SSk,"Educativo ",B,21000,NULL,1,NULL,QaNk7vtW-rWsh,S,9
+B66UpA4s-jWpY,kYIRAsWr-XB6H,PjUjuBgu-bLrF,B66UpA4s-jWpY,24,74600,Hipoteca,3,kYIRAsWr-XB6H,Pagamento_debitos,E,20000,17.51,1,0.27,PjUjuBgu-bLrF,N,3
+hkYb9lyA-S9Dd,10WfN8Wo-QYp1,3kClciZK-WJmG,hkYb9lyA-S9Dd,22,30000,Aluguel,1,10WfN8Wo-QYp1,Pagamento_debitos,E,6400,16,1,0.21,3kClciZK-WJmG,N,3
+yIfwX5cc-tRMu,QrgTPJmG-KDrG,OLGcliQ7-B90C,yIfwX5cc-tRMu,25,74800,Aluguel,2,QrgTPJmG-KDrG,"Medico ",B,5000,12.69,NULL,NULL,OLGcliQ7-B90C,N,3
+l7iybTIB-uOAM,5RrHrAtv-8F6p,POC6Blgt-dhRP,l7iybTIB-uOAM,42,38400,Aluguel,4,5RrHrAtv-8F6p,"Medico ",B,13000,NULL,1,0.34,POC6Blgt-dhRP,N,17
+gEL6Dv0l-D5K1,zqpMWuTi-pHbq,mL9RqhKf-MGew,gEL6Dv0l-D5K1,22,58000,Aluguel,3,zqpMWuTi-pHbq,"Medico ",B,12000,NULL,1,0.21,mL9RqhKf-MGew,N,3
+wMp1ZyKP-gOyI,Jd2B5kU3-exrp,hgn0rKnu-w36h,wMp1ZyKP-gOyI,31,15000,Aluguel,2,Jd2B5kU3-exrp,"Empreendimento ",B,4000,11.49,1,0.27,hgn0rKnu-w36h,N,6
+kEC8nGra-Mzua,oQmzYBBt-zLjw,OcLo7QYr-lfiN,kEC8nGra-Mzua,23,18000,Aluguel,1,oQmzYBBt-zLjw,"Pessoal ",A,7000,7.88,1,0.39,OcLo7QYr-lfiN,N,4
+tcAWcziL-wNSu,EDyo6sXN-c7D9,QiNRqkyv-nSem,tcAWcziL-wNSu,22,20796,Aluguel,1,EDyo6sXN-c7D9,Pagamento_debitos,D,10775,15.37,1,0.52,QiNRqkyv-nSem,S,2
+HL6F8pRx-YBTT,gSBt0dQS-rAMT,KHuF2jS5-8rEQ,HL6F8pRx-YBTT,27,39000,Hipoteca,11,gSBt0dQS-rAMT,Melhora_lar,E,5000,18.79,1,0.13,KHuF2jS5-8rEQ,S,10
+wcZaL1CD-QC0A,bortZX8p-qQ1X,uljlwh2E-iL9m,wcZaL1CD-QC0A,27,14400,Aluguel,3,bortZX8p-qQ1X,"Educativo ",F,2500,18.3,1,0.17,uljlwh2E-iL9m,N,7
+e93zIfty-MEl2,9LunPmQM-Uhph,Ilf17Wjy-Ef1Z,e93zIfty-MEl2,26,51000,Aluguel,10,9LunPmQM-Uhph,"Pessoal ",B,5000,12.42,1,0.1,Ilf17Wjy-Ef1Z,N,2
+GF79eYM4-xcMP,UJDU4wt1-yGWW,DOMft98J-Z3qm,GF79eYM4-xcMP,22,32000,Aluguel,1,UJDU4wt1-yGWW,"Educativo ",D,5400,16.29,1,0.17,DOMft98J-Z3qm,S,2
+dejgBgka-cvSN,Y7yIUHWQ-138k,WNto6491-J99J,dejgBgka-cvSN,25,12996,Propria,1,Y7yIUHWQ-138k,"Medico ",D,3600,14.59,1,0.28,WNto6491-J99J,N,3
+2T5bdmKT-g3A8,NxQe2AJZ-PXcI,XBINNigH-WW1t,2T5bdmKT-g3A8,30,48996,Aluguel,1,NxQe2AJZ-PXcI,Melhora_lar,E,10000,15.45,1,0.2,XBINNigH-WW1t,N,8
+mLg7mk92-eiF0,RiZz30mh-9JDI,m8sZ296C-4Adx,mLg7mk92-eiF0,24,72000,Hipoteca,8,RiZz30mh-9JDI,"Educativo ",C,14000,14.65,1,0.19,m8sZ296C-4Adx,S,4
+EtWcObc2-aKNM,ogbrgb5F-avnr,YLvM6cHD-ERnb,EtWcObc2-aKNM,29,48000,Aluguel,2,ogbrgb5F-avnr,"Pessoal ",B,15000,11.36,1,0.31,YLvM6cHD-ERnb,N,8
+WXg2X7ay-4bg1,WXzIIE8A-nTiU,1luoSXcH-95hi,WXg2X7ay-4bg1,34,120000,Aluguel,NULL,WXzIIE8A-nTiU,Pagamento_debitos,A,2000,NULL,NULL,0.04,1luoSXcH-95hi,N,3
+UL7urKNr-WyXK,QkNWByAF-esJp,mgKDvUKR-HKEu,UL7urKNr-WyXK,NULL,19992,Aluguel,12,QkNWByAF-esJp,"Educativo ",A,7750,10.38,1,0.14,mgKDvUKR-HKEu,N,4
+2RvCEIwH-SIU9,cRtQ1u0q-ANrb,Y2NnXs35-LYWc,2RvCEIwH-SIU9,42,64464,Hipoteca,13,cRtQ1u0q-ANrb,"Medico ",E,30000,19.03,1,0.4,Y2NnXs35-LYWc,N,14
+QXI8vJSm-lQdJ,oLByZNpg-RCFB,HmULBLlN-JuYf,QXI8vJSm-lQdJ,31,46000,Aluguel,6,oLByZNpg-RCFB,"Medico ",D,9600,14.46,1,0.21,HmULBLlN-JuYf,S,5
+11AQ6WU8-zX72,IGF3vhnz-KGpp,8TcnN4qC-wZCF,11AQ6WU8-zX72,24,73000,Aluguel,6,IGF3vhnz-KGpp,Pagamento_debitos,D,12500,6,1,0.17,8TcnN4qC-wZCF,N,2
+IdH2E9Hp-IqBZ,iz1mOcTL-GWx0,7Ox5qblX-13O1,IdH2E9Hp-IqBZ,28,54000,Aluguel,2,iz1mOcTL-GWx0,Melhora_lar,D,12000,15.31,1,0.22,7Ox5qblX-13O1,N,6
+CNGYSTsr-R1z8,BINB4wmU-JKdr,o3ESgEgy-2BNR,CNGYSTsr-R1z8,22,15360,Propria,7,BINB4wmU-JKdr,Melhora_lar,B,2500,12.53,1,0.16,o3ESgEgy-2BNR,N,3
+QXApAv5c-EJjO,vBCuoXp2-m1bX,NyWboA7q-mQ5b,QXApAv5c-EJjO,27,78300,Hipoteca,11,vBCuoXp2-m1bX,Melhora_lar,B,9000,NULL,1,0.11,NyWboA7q-mQ5b,N,5
+4vhHsPtm-Ps4p,u4uChgOd-Yk5T,PkNtgD1s-zLEs,4vhHsPtm-Ps4p,21,36000,Aluguel,5,u4uChgOd-Yk5T,Melhora_lar,C,4000,12.99,1,0.11,PkNtgD1s-zLEs,N,4
+mtKsQFYC-LKKm,IDluiXvd-GiaF,GC5pNzCD-5LGU,mtKsQFYC-LKKm,26,35000,Aluguel,10,IDluiXvd-GiaF,"Educativo ",B,12875,NULL,1,0.37,GC5pNzCD-5LGU,N,3
+rSWNRDQz-Qkgp,ysrr2IYN-eRKo,WcTaAPbZ-1CxW,rSWNRDQz-Qkgp,31,59000,Aluguel,14,ysrr2IYN-eRKo,Pagamento_debitos,A,20000,7.51,1,0.34,WcTaAPbZ-1CxW,N,10
+FXnK22Cc-orMB,zYMOmfN1-F0dA,pf8GSEBd-hOW7,FXnK22Cc-orMB,35,54996,Aluguel,12,zYMOmfN1-F0dA,Melhora_lar,A,20000,6.62,1,0.36,pf8GSEBd-hOW7,N,9
+G2yWS2lz-M9sA,DFxPZSD2-Zwho,4NMRRIOW-n1rl,G2yWS2lz-M9sA,22,21000,Aluguel,4,DFxPZSD2-Zwho,"Educativo ",C,10000,13.72,1,0.48,4NMRRIOW-n1rl,S,2
+1yiiuvWp-QWex,vbrg5URv-zgBR,gWlpPDug-TqxY,1yiiuvWp-QWex,55,54000,Aluguel,4,vbrg5URv-zgBR,Pagamento_debitos,C,1000,13.99,1,0.02,gWlpPDug-TqxY,N,27
+JlUHLUZA-rfPy,woPqremP-ROOh,kXb3MoC4-CC80,JlUHLUZA-rfPy,24,64000,Hipoteca,8,woPqremP-ROOh,"Educativo ",A,5000,7.88,1,0.08,kXb3MoC4-CC80,N,4
+5Iyo0Ojr-Xixe,3kKDHz03-tHX8,sH1dwjlo-uK2k,5Iyo0Ojr-Xixe,38,18000,Aluguel,4,3kKDHz03-tHX8,"Pessoal ",C,3000,13.23,1,0.17,sH1dwjlo-uK2k,N,17
+LcyCTCWU-5pJX,8H01XPY1-Yoqw,RCktzCz7-PpKe,LcyCTCWU-5pJX,25,39000,Aluguel,9,8H01XPY1-Yoqw,"Empreendimento ",D,15200,16,1,0.39,RCktzCz7-PpKe,N,3
+HSkhhmSp-4btk,9n6bcWxz-6Yzt,N9kDNhLb-pCSI,HSkhhmSp-4btk,22,100580,Aluguel,6,9n6bcWxz-6Yzt,Pagamento_debitos,D,25000,14.96,1,0.25,N9kDNhLb-pCSI,S,2
+Zh1Ov9Hn-1ZH0,cQ4BSi1f-8X5H,O8M4k2hD-jxfz,Zh1Ov9Hn-1ZH0,35,26000,Aluguel,3,cQ4BSi1f-8X5H,"Pessoal ",A,8000,7.9,1,0.31,O8M4k2hD-jxfz,N,6
+it0Rn4bd-u6Ov,YOE439hO-acgc,GrSI6zwL-fPy0,it0Rn4bd-u6Ov,25,18840,Hipoteca,5,YOE439hO-acgc,"Educativo ",B,3000,9.91,1,0.16,GrSI6zwL-fPy0,N,2
+YN5kxCt0-0vEk,GJQZHfN3-13GB,CBHnyc9m-OT4m,YN5kxCt0-0vEk,40,28800,Aluguel,3,GJQZHfN3-13GB,"Pessoal ",C,4200,14.72,1,0.15,CBHnyc9m-OT4m,S,16
+ZJfjtaCn-lEga,FkJd73eX-ndDo,xv90w5QJ-d199,ZJfjtaCn-lEga,NULL,83400,Hipoteca,2,FkJd73eX-ndDo,Pagamento_debitos,C,2200,7.49,1,NULL,xv90w5QJ-d199,N,6
+h84YuIKR-WzOn,q5FOJAEN-Xl7R,jXtkglSM-keYt,h84YuIKR-WzOn,36,25000,Aluguel,2,q5FOJAEN-Xl7R,"Pessoal ",B,6200,9.91,1,0.25,jXtkglSM-keYt,N,14
+mBfSbp46-yZFd,6r940j6C-xKkU,6hzt9yiG-yOAk,mBfSbp46-yZFd,26,48000,Aluguel,2,6r940j6C-xKkU,"Educativo ",B,25000,9.64,1,0.52,6hzt9yiG-yOAk,N,4
+vX0220AL-N1Xc,2OuPu8qh-deSt,KSWNLJ5O-9B30,vX0220AL-N1Xc,28,48000,Aluguel,5,2OuPu8qh-deSt,Pagamento_debitos,B,15000,11.99,1,0.31,KSWNLJ5O-9B30,N,10
+8QH2ejgc-wwOT,GLTEE8Nz-E2uh,h9uuzwBv-EPC2,8QH2ejgc-wwOT,23,48000,Hipoteca,8,GLTEE8Nz-E2uh,"Medico ",D,1400,14.83,1,0.03,h9uuzwBv-EPC2,S,2
+42LtRtXE-rL0e,tpdTSCpY-Kz7M,ISauZKeR-H4iW,42LtRtXE-rL0e,25,56950,Aluguel,9,tpdTSCpY-Kz7M,"Medico ",C,5000,13.92,1,0.07,ISauZKeR-H4iW,N,4
+LmwskARR-HyA3,0YpSbTgj-CZKT,j3jnnG3T-iF3N,LmwskARR-HyA3,21,41900,Aluguel,2,0YpSbTgj-CZKT,"Empreendimento ",C,16000,12.84,1,0.38,j3jnnG3T-iF3N,S,2
+mSpOhThS-WzqZ,ozUdOvFM-tTcZ,sgFCOBcW-IgIg,mSpOhThS-WzqZ,24,62900,Aluguel,1,ozUdOvFM-tTcZ,"Medico ",D,16800,15.65,1,0.23,sgFCOBcW-IgIg,N,4
+FAtQtTri-eraY,BH8WdzBF-25wh,gze4W38H-fH69,FAtQtTri-eraY,27,16800,Aluguel,3,BH8WdzBF-25wh,Pagamento_debitos,B,6500,11.99,1,0.39,gze4W38H-fH69,N,8
+jKzBhTxh-o0s9,UDHqLcP5-MKTb,ZtFXywsl-Yy0D,jKzBhTxh-o0s9,34,33666,Aluguel,4,UDHqLcP5-MKTb,Pagamento_debitos,D,8000,17.49,1,0.24,ZtFXywsl-Yy0D,S,5
+zCdM74Pg-wS2U,N5uz5gn2-LLr5,RNQnTqpr-qYSX,zCdM74Pg-wS2U,23,51840,Aluguel,1,N5uz5gn2-LLr5,Pagamento_debitos,D,12000,15.95,1,0.23,RNQnTqpr-qYSX,S,3
+ymCxqYGx-Effb,hNq9wGDA-A1wJ,rrcGO8hf-EkDy,ymCxqYGx-Effb,24,101000,Hipoteca,3,hNq9wGDA-A1wJ,"Educativo ",A,7000,NULL,1,0.07,rrcGO8hf-EkDy,N,4
+njGBnugm-85Dv,QKDlpIm7-sqMC,ObEkaKZr-9MDa,njGBnugm-85Dv,30,110400,Aluguel,1,QKDlpIm7-sqMC,"Empreendimento ",D,14000,16.89,1,0.13,ObEkaKZr-9MDa,N,6
+WqgH0WAS-oyzU,uoezEWJq-SLXA,cpNNIy77-kuMX,WqgH0WAS-oyzU,24,60000,Aluguel,2,uoezEWJq-SLXA,Pagamento_debitos,E,25000,NULL,1,0.42,cpNNIy77-kuMX,S,2
+QKzq12N2-0Uo7,vv8LOgKL-Y2uQ,yS78z9o8-R5gM,QKzq12N2-0Uo7,23,19200,Propria,NULL,vv8LOgKL-Y2uQ,Melhora_lar,A,6000,6.54,1,0.31,yS78z9o8-R5gM,N,4
+noSvkcI9-CZvw,81hQhevO-NCOK,0ltmMNcA-4JDc,noSvkcI9-CZvw,24,35364,Aluguel,1,81hQhevO-NCOK,"Medico ",B,20000,12.53,1,0.57,0ltmMNcA-4JDc,N,4
+nOCHCG3B-oirj,I9iO5CpP-BLfZ,bAAi9tQ0-jCMx,nOCHCG3B-oirj,37,6000,Propria,3,I9iO5CpP-BLfZ,"Empreendimento ",A,1300,6.03,1,0.22,bAAi9tQ0-jCMx,N,11
+f6Lr8Gys-r19w,GhDl5ChM-AsPl,D5gkcoO1-tH03,f6Lr8Gys-r19w,34,60500,Aluguel,3,GhDl5ChM-AsPl,Pagamento_debitos,D,11200,15.62,1,0.19,D5gkcoO1-tH03,S,10
+Ow5he9Bh-kgMs,w5fAxnpM-lC3t,SYKGZRea-dTWs,Ow5he9Bh-kgMs,22,56000,Hipoteca,5,w5fAxnpM-lC3t,"Medico ",E,15000,16,1,0.27,SYKGZRea-dTWs,S,4
+e7sUWbxP-2dTw,QERc111F-YazF,MXQnh47W-adhB,e7sUWbxP-2dTw,22,36000,Hipoteca,NULL,QERc111F-YazF,"Educativo ",A,7500,NULL,1,NULL,MXQnh47W-adhB,S,2
+pMtksNGj-Yq49,x8DWXu0i-mAMt,Jkdca0Ar-PEiO,pMtksNGj-Yq49,63,37000,Aluguel,24,x8DWXu0i-mAMt,Pagamento_debitos,C,5450,15.96,1,0.15,Jkdca0Ar-PEiO,N,22
+mwEWEfTR-Gpf0,UjEfssJk-RzRj,gmQuAlIm-qx28,mwEWEfTR-Gpf0,38,58000,Aluguel,4,UjEfssJk-RzRj,"Medico ",E,9500,16.35,1,0.16,gmQuAlIm-qx28,S,16
+3iEYC8WP-eM4E,oamXX8gM-JnAs,8YdLPWzM-576k,3iEYC8WP-eM4E,29,30108,Hipoteca,NULL,oamXX8gM-JnAs,"Educativo ",A,1400,8.9,1,0.05,8YdLPWzM-576k,N,9
+RkI3kURq-UFXf,ek4m7BYg-T6jZ,tCSHFMhL-o2Wt,RkI3kURq-UFXf,28,52000,Aluguel,12,ek4m7BYg-T6jZ,Melhora_lar,B,5000,11.36,1,0.1,tCSHFMhL-o2Wt,N,7
+kigNs6r5-eE71,9lGPyqP2-hJsi,cGQpuS8W-tfFa,kigNs6r5-eE71,22,60350,Hipoteca,6,9lGPyqP2-hJsi,"Medico ",D,35000,16.89,1,0.49,cGQpuS8W-tfFa,N,3
+uhoTm6sf-eMyr,BPwQZxLO-2wg2,vCjDmWK7-XB2N,uhoTm6sf-eMyr,24,33996,Aluguel,2,BPwQZxLO-2wg2,"Educativo ",D,5000,14.96,1,0.15,vCjDmWK7-XB2N,S,4
+RsyyA5i7-ESMo,tgCaixmr-uXTM,NIiAAX4o-qo55,RsyyA5i7-ESMo,27,74700,Hipoteca,7,tgCaixmr-uXTM,Melhora_lar,B,5000,11.49,1,0.07,NIiAAX4o-qo55,N,6
+TccooMuS-9WMJ,R3iJsWIz-nEQ2,tgWAqObp-d8sA,TccooMuS-9WMJ,21,21600,Aluguel,NULL,R3iJsWIz-nEQ2,Pagamento_debitos,A,6700,6.92,1,0.31,tgWAqObp-d8sA,N,4
+AN0Tv8Sl-Jdw9,K35HQxvr-EgfQ,050HN82m-mgF4,AN0Tv8Sl-Jdw9,24,9600,Aluguel,3,K35HQxvr-EgfQ,"Educativo ",C,1300,12.73,1,0.14,050HN82m-mgF4,N,2
+kUHUlive-kcKp,M5aQ3j2S-l2K8,sTDQpDg1-q6iY,kUHUlive-kcKp,26,38000,Aluguel,3,M5aQ3j2S-l2K8,"Educativo ",B,13400,9.99,1,0.35,sTDQpDg1-q6iY,N,2
+spZKWaah-CnpH,aQ8pGJKU-E1aW,AFhkvfv3-smX3,spZKWaah-CnpH,29,26004,Aluguel,5,aQ8pGJKU-E1aW,"Educativo ",B,4000,10,1,0.15,AFhkvfv3-smX3,N,7
+FDOo8RjS-hm3I,nbtp0Mzk-2qck,FuZskhaf-IMPJ,FDOo8RjS-hm3I,30,54000,Aluguel,13,nbtp0Mzk-2qck,"Medico ",B,25000,10.74,1,0.46,FuZskhaf-IMPJ,N,6
+zGFOoqXu-b5hx,KHyBcn07-c4j3,AsuGeRgH-sksZ,zGFOoqXu-b5hx,33,100000,Hipoteca,16,KHyBcn07-c4j3,"Medico ",B,6000,8.94,NULL,NULL,AsuGeRgH-sksZ,N,12
+WUf7AE5v-Bn1Y,DBz5tBbR-bKxN,d2sLoQc3-bwca,WUf7AE5v-Bn1Y,26,22000,Aluguel,10,DBz5tBbR-bKxN,"Empreendimento ",B,10000,9.63,1,0.45,d2sLoQc3-bwca,N,4
+YtYvr4Cj-bxpq,0lmyftrm-4bcR,SDXBWm4G-EPIP,YtYvr4Cj-bxpq,30,232050,Hipoteca,14,0lmyftrm-4bcR,"Medico ",E,25000,17.93,1,0.09,SDXBWm4G-EPIP,S,9
+yBFou9Nl-UWg0,XWdQwrf8-DTR1,bqlE469j-Aj4f,yBFou9Nl-UWg0,26,24996,Aluguel,2,XWdQwrf8-DTR1,"Pessoal ",B,10000,NULL,1,0.4,bqlE469j-Aj4f,N,4
+BQh2UH1M-eKJD,mlml1vB6-HnK2,hQ9qTMoa-lxwp,BQh2UH1M-eKJD,34,78000,Aluguel,9,mlml1vB6-HnK2,Pagamento_debitos,E,15000,16.4,1,0.19,hQ9qTMoa-lxwp,N,5
+gbLzlMF9-kHDf,NrK7jAmv-tdLd,TACSdk65-yeyj,gbLzlMF9-kHDf,35,62000,Hipoteca,9,NrK7jAmv-tdLd,Melhora_lar,B,13000,9.25,1,0.21,TACSdk65-yeyj,N,10
+3nivdstW-Kre1,K61rQ8oj-PR0t,1sEL6JfY-QWyc,3nivdstW-Kre1,33,68000,Hipoteca,NULL,K61rQ8oj-PR0t,"Pessoal ",B,5000,NULL,1,0.08,1sEL6JfY-QWyc,N,16
+0ukL0auq-BYJI,rQokG9sY-x6tH,rmQ42xtt-QMEc,0ukL0auq-BYJI,41,33000,Aluguel,2,rQokG9sY-x6tH,"Medico ",C,13750,13.79,1,0.42,rmQ42xtt-QMEc,S,11
+N4HGuN45-6pda,TiIONiEf-RZLZ,rnigGvLw-aW1P,N4HGuN45-6pda,30,96053,Hipoteca,15,TiIONiEf-RZLZ,"Medico ",D,30000,15.62,1,0.27,rnigGvLw-aW1P,N,5
+SNNf47vL-a82o,yrIU7jwE-BmF3,Y22eDQ81-yRfo,SNNf47vL-a82o,22,24900,Hipoteca,1,yrIU7jwE-BmF3,"Medico ",C,5500,13.16,1,0.22,Y22eDQ81-yRfo,N,2
+lJ3RrRDr-nBLm,5MsNMdbh-6Byo,bLNhwyWC-dnkb,lJ3RrRDr-nBLm,42,54000,Aluguel,4,5MsNMdbh-6Byo,Pagamento_debitos,C,16000,12.87,1,0.3,bLNhwyWC-dnkb,S,14
+duaNutsR-3WUc,x5vU1QNy-Ef7b,FQ6lnvgr-2l6q,duaNutsR-3WUc,28,61000,Aluguel,9,x5vU1QNy-Ef7b,"Pessoal ",B,25000,9.91,1,0.41,FQ6lnvgr-2l6q,N,7
+QkytDvfl-N1uF,TeoZgXFq-ZzjL,xETsrsND-hvp4,QkytDvfl-N1uF,24,79050,Aluguel,2,TeoZgXFq-ZzjL,"Medico ",B,2100,9.91,1,0.02,xETsrsND-hvp4,N,4
+wROS8AN3-L7bY,eHHAOT4I-FdEq,5lvWgdpz-8Ily,wROS8AN3-L7bY,23,61000,Hipoteca,7,eHHAOT4I-FdEq,Melhora_lar,C,18000,12.09,1,0.3,5lvWgdpz-8Ily,S,3
+pI7XYjvw-M7pZ,Gw81Gmj9-MM0o,hAwxkeIx-x1hm,pI7XYjvw-M7pZ,27,34900,Aluguel,3,Gw81Gmj9-MM0o,"Medico ",E,5000,16.7,1,0.14,hAwxkeIx-x1hm,S,9
+m0EsrCQA-UxF8,ybSH8enN-9zbG,9UdFSUoj-JTbn,m0EsrCQA-UxF8,23,74000,Aluguel,3,ybSH8enN-9zbG,"Medico ",B,25000,10.36,1,0.34,9UdFSUoj-JTbn,N,2
+3nRhlR8i-oOAS,Hxa2IflD-IM3I,7UlWWDkw-NBig,3nRhlR8i-oOAS,52,25000,Aluguel,23,Hxa2IflD-IM3I,"Medico ",D,5000,12.61,1,0.2,7UlWWDkw-NBig,S,22
+SniIxJ44-alJb,eJ081Ayo-Frym,jOfMS80i-Zg5v,SniIxJ44-alJb,23,34000,Aluguel,7,eJ081Ayo-Frym,"Educativo ",B,10000,10.36,1,0.29,jOfMS80i-Zg5v,N,4
+3Fn6Bsv2-lENb,eWgmMLkK-ZBt8,En3WPrh1-l38m,3Fn6Bsv2-lENb,22,42996,Aluguel,2,eWgmMLkK-ZBt8,Pagamento_debitos,C,14400,NULL,1,0.33,En3WPrh1-l38m,S,4
+U3gSlG9i-Wn8g,sv85BbHe-li59,XdWUUbdU-pY84,U3gSlG9i-Wn8g,44,82000,Hipoteca,5,sv85BbHe-li59,Pagamento_debitos,C,8400,12.84,1,0.1,XdWUUbdU-pY84,S,17
+Sk7ptRsI-zX1p,4UhWuGrp-kbn9,cg31AksU-KKvm,Sk7ptRsI-zX1p,28,64900,Hipoteca,12,4UhWuGrp-kbn9,Pagamento_debitos,D,25000,15.37,1,0.39,cg31AksU-KKvm,N,6
+k9yN0XhB-mOhY,npYpRPsF-7TUf,f5aoiDdb-J2kK,k9yN0XhB-mOhY,22,108000,Aluguel,6,npYpRPsF-7TUf,"Educativo ",B,28000,NULL,1,0.26,f5aoiDdb-J2kK,N,4
+SjqYgmfa-ykaI,B8cjyEpK-h1eg,nw27JFCw-lDpl,SjqYgmfa-ykaI,24,78000,Aluguel,1,B8cjyEpK-h1eg,Pagamento_debitos,B,3500,11.83,1,0.04,nw27JFCw-lDpl,N,3
+1EdlwFH4-6qQa,ZsBkLvxa-c8q4,h9dI5OQt-gsev,1EdlwFH4-6qQa,25,42000,Aluguel,2,ZsBkLvxa-c8q4,"Medico ",D,6750,17.27,1,0.16,h9dI5OQt-gsev,N,2
+Xno32HqX-3JxQ,aLZH7Rym-MeuY,djiyTBX5-kHfu,Xno32HqX-3JxQ,25,50950,Aluguel,5,aLZH7Rym-MeuY,Melhora_lar,B,20000,11.48,1,0.39,djiyTBX5-kHfu,N,3
+MBg8Sndd-NSF5,6S9XmOX6-BFnY,dcP6KL1I-J2o0,MBg8Sndd-NSF5,22,66300,Aluguel,3,6S9XmOX6-BFnY,"Medico ",D,7500,14.96,1,0.1,dcP6KL1I-J2o0,N,2
+6DBp9Aw5-uqXc,aD4lLEhf-2AGj,riLdus0G-swn1,6DBp9Aw5-uqXc,25,34800,Aluguel,2,aD4lLEhf-2AGj,"Pessoal ",D,5000,16.02,1,0.14,riLdus0G-swn1,S,3
+LPJtJljb-WNZf,Y7e6kCFG-j3tQ,6yBzF0fS-cPMl,LPJtJljb-WNZf,26,108160,Aluguel,4,Y7e6kCFG-j3tQ,"Educativo ",E,35000,18.39,1,0.32,6yBzF0fS-cPMl,N,4
+FB8Mbd1s-keAt,f8ajILh1-jJBz,yIuOMK6f-SKNQ,FB8Mbd1s-keAt,32,44000,Aluguel,4,f8ajILh1-jJBz,"Pessoal ",G,5000,20.17,1,0.11,yIuOMK6f-SKNQ,N,10
+ulk1Ksv5-lSoJ,AICFPW2P-7n8K,IS1B2GRp-poWK,ulk1Ksv5-lSoJ,22,42000,Aluguel,6,AICFPW2P-7n8K,"Medico ",D,25000,14.59,1,0.6,IS1B2GRp-poWK,S,2
+gPzGTvzd-YCHw,FptECc0u-OiGF,ME0OTs5h-qjMp,gPzGTvzd-YCHw,22,29000,Aluguel,2,FptECc0u-OiGF,"Educativo ",B,10500,9.99,1,0.36,ME0OTs5h-qjMp,N,3
+LoDeL90q-JecM,OBqNtCyQ-u4fn,XulvfQIW-P07z,LoDeL90q-JecM,24,48000,Aluguel,8,OBqNtCyQ-u4fn,"Medico ",C,4000,5.99,NULL,0.07,XulvfQIW-P07z,N,6
+gYjoo3jD-emAd,uDlmyeNO-dbNN,CAcJauAz-ctJX,gYjoo3jD-emAd,25,44000,Hipoteca,4,uDlmyeNO-dbNN,"Medico ",D,5550,14.11,1,0.13,CAcJauAz-ctJX,S,4
+S1kTdP05-gTR2,Q4L3vglR-w9ev,c5mbkv4o-si92,S1kTdP05-gTR2,28,54000,Aluguel,5,Q4L3vglR-w9ev,Pagamento_debitos,B,12700,11.71,1,0.24,c5mbkv4o-si92,N,7
+pd2rEj4U-lTMZ,mRwfDLrW-kM3k,FaOv3bwq-zCIC,pd2rEj4U-lTMZ,22,27000,Aluguel,3,mRwfDLrW-kM3k,Pagamento_debitos,A,2800,7.51,1,0.1,FaOv3bwq-zCIC,N,3
+9n6XeDpD-zA76,vuv9BwOl-wkBu,r9Bgg2IY-F30Y,9n6XeDpD-zA76,NULL,40000,Aluguel,NULL,vuv9BwOl-wkBu,"Empreendimento ",B,4500,14.74,1,0.1,r9Bgg2IY-F30Y,N,10
+MCo0wGTR-GKYT,vmeawZxI-dAJv,dIPQI91u-28oR,MCo0wGTR-GKYT,22,22560,Aluguel,3,vmeawZxI-dAJv,"Pessoal ",D,4200,15.2,1,0.19,dIPQI91u-28oR,S,4
+guFdcytZ-qpxP,RYDNSh6F-uKnJ,YUSJvJ6Z-Z1dH,guFdcytZ-qpxP,29,33996,Aluguel,11,RYDNSh6F-uKnJ,"Educativo ",C,4000,13.47,1,0.12,YUSJvJ6Z-Z1dH,N,7
+8WNWiQ81-IDAI,J0ZkvMRH-ze1t,M6Ig4iR4-ykpF,8WNWiQ81-IDAI,33,51000,Aluguel,17,J0ZkvMRH-ze1t,"Medico ",D,5000,14.96,1,0.1,M6Ig4iR4-ykpF,S,9
+TenczLdH-GbAY,X75IPvzb-zEnl,wHtKRCa0-NR75,TenczLdH-GbAY,21,24996,Aluguel,2,X75IPvzb-zEnl,"Educativo ",E,5000,16.45,1,0.2,wHtKRCa0-NR75,N,4
+kRHnuMNM-64K3,9RqGiFzp-HnBL,gygsUZSw-79bT,kRHnuMNM-64K3,31,72250,Outros,6,9RqGiFzp-HnBL,"Medico ",F,25000,17.03,1,0.29,gygsUZSw-79bT,S,5
+uibGCsfz-Ckan,ppcT0kM2-xeaD,d8SYuDlD-1hxK,uibGCsfz-Ckan,28,31200,Aluguel,5,ppcT0kM2-xeaD,"Medico ",B,15000,11.83,1,0.48,d8SYuDlD-1hxK,N,9
+yrL27Gzn-imvW,zjwERmLe-r97O,uQdCArAk-ISO3,yrL27Gzn-imvW,31,65000,Hipoteca,3,zjwERmLe-r97O,Pagamento_debitos,A,10000,11.03,NULL,NULL,uQdCArAk-ISO3,N,3
+WOKqy5xS-HwK0,crrA9Z57-nLgE,PjRmHkEW-a57F,WOKqy5xS-HwK0,22,29100,Aluguel,2,crrA9Z57-nLgE,"Pessoal ",D,6250,16.07,1,0.21,PjRmHkEW-a57F,S,3
+xSghh8QG-lqvd,QlcSw2B2-DFpZ,km4kGepq-bsil,xSghh8QG-lqvd,21,18000,Aluguel,1,QlcSw2B2-DFpZ,"Pessoal ",A,3200,8.49,1,0.18,km4kGepq-bsil,N,3
+L4tJfeUK-oUnj,23YEIwxM-kuzf,vDW1x0Bt-YB8W,L4tJfeUK-oUnj,27,108000,Hipoteca,11,23YEIwxM-kuzf,Pagamento_debitos,D,25000,14.96,1,0.23,vDW1x0Bt-YB8W,S,9
+1PlUc0s7-34sy,kHGYRJS1-zX72,cnsI41OI-cHxY,1PlUc0s7-34sy,24,87996,Aluguel,8,kHGYRJS1-zX72,Pagamento_debitos,D,10000,14.84,1,0.11,cnsI41OI-cHxY,S,2
+KLcpYROU-OAOY,5e5poCmS-XDCu,cNMJ267m-tQI2,KLcpYROU-OAOY,27,75860,Aluguel,9,5e5poCmS-XDCu,"Medico ",B,24000,10.99,1,0.32,cNMJ267m-tQI2,N,5
+WS5U2tKu-iGtE,nZJqWH9s-yKAW,fJ0KRNk3-k0Rx,WS5U2tKu-iGtE,22,43000,Aluguel,1,nZJqWH9s-yKAW,"Empreendimento ",D,7500,14.96,1,0.17,fJ0KRNk3-k0Rx,N,3
+JUFNPjwk-aC8W,5ojlBSwG-GKI8,43JjwnEd-i6oe,JUFNPjwk-aC8W,30,30000,Aluguel,1,5ojlBSwG-GKI8,"Pessoal ",B,14500,NULL,1,0.48,43JjwnEd-i6oe,N,8
+wD9y60rl-UJQh,FzeqsUSQ-td2e,nYo1wal8-ei17,wD9y60rl-UJQh,32,91800,Hipoteca,8,FzeqsUSQ-td2e,"Medico ",E,24625,14.07,1,0.23,nYo1wal8-ei17,S,7
+Ae2Iso56-MPL9,3OGldMkq-IpdO,0XwiAmtf-YOjt,Ae2Iso56-MPL9,24,100000,Aluguel,5,3OGldMkq-IpdO,Melhora_lar,A,NULL,13.85,NULL,0.08,0XwiAmtf-YOjt,S,6
+lauNZJlQ-u39w,yq8ssxtb-RyWb,ILjwWhKD-ROA4,lauNZJlQ-u39w,23,44400,Aluguel,2,yq8ssxtb-RyWb,Pagamento_debitos,A,7100,6.99,1,0.16,ILjwWhKD-ROA4,N,3
+CT45wQp5-9DAW,D5DtOeaN-b1zk,OQDzEmNu-8Xca,CT45wQp5-9DAW,24,70000,Hipoteca,8,D5DtOeaN-b1zk,"Empreendimento ",A,18050,10,NULL,NULL,OQDzEmNu-8Xca,N,7
+5mRksQM9-eExJ,EWKeCA52-k771,AE9jiGaA-WlNL,5mRksQM9-eExJ,23,35500,Aluguel,2,EWKeCA52-k771,Melhora_lar,D,9000,15.99,1,0.25,AE9jiGaA-WlNL,S,2
+Ej9Zd67P-FDr8,4htLU98v-aNhT,GoQ5GdDH-5FG6,Ej9Zd67P-FDr8,22,50000,Aluguel,6,4htLU98v-aNhT,"Empreendimento ",C,18000,13.79,1,0.36,GoQ5GdDH-5FG6,N,2
+SnrbfMiJ-cAj7,uPPLniuT-Inpn,nnYZCAfP-PPND,SnrbfMiJ-cAj7,23,44400,Aluguel,4,uPPLniuT-Inpn,"Empreendimento ",D,5000,16.29,1,0.11,nnYZCAfP-PPND,S,4
+DHFQCaZ6-efIB,8KwoXehU-8ihO,3lC5fUi0-vSJ6,DHFQCaZ6-efIB,22,41000,Hipoteca,6,8KwoXehU-8ihO,Melhora_lar,A,7000,7.9,1,0.17,3lC5fUi0-vSJ6,N,2
+C3wGmChB-h9aJ,5mgZTuy1-8Qzw,sL5cZZwn-xWhB,C3wGmChB-h9aJ,21,44000,Aluguel,6,5mgZTuy1-8Qzw,"Educativo ",D,8000,15.21,1,0.18,sL5cZZwn-xWhB,N,2
+F0L9G9WG-mRPJ,WBTK7Tsq-dS5c,LIRU0Gft-icm1,F0L9G9WG-mRPJ,24,68000,Hipoteca,7,WBTK7Tsq-dS5c,"Educativo ",A,5000,11.86,NULL,NULL,LIRU0Gft-icm1,N,10
+PuHablXS-Hxuw,owRMcEkb-PjFz,5GUaEeuo-X55y,PuHablXS-Hxuw,28,47004,Hipoteca,12,owRMcEkb-PjFz,"Pessoal ",C,10000,13.61,1,0.21,5GUaEeuo-X55y,S,6
+MQphIdqY-DDI4,GM5QsbmU-dpqh,XKYWTX1z-wWM0,MQphIdqY-DDI4,25,47000,Aluguel,9,GM5QsbmU-dpqh,Melhora_lar,D,19750,15.7,1,0.42,XKYWTX1z-wWM0,N,4
+DKUmvKQa-CgUh,Xv1oeB8m-DxF3,o3SnTKo1-885k,DKUmvKQa-CgUh,33,34000,Aluguel,17,Xv1oeB8m-DxF3,Pagamento_debitos,D,11175,14.96,1,0.33,o3SnTKo1-885k,N,8
+tE2MMb33-ZtT7,j6eaWF98-rxdq,oJM66DQo-WPHF,tE2MMb33-ZtT7,34,89000,Aluguel,3,j6eaWF98-rxdq,Melhora_lar,D,35000,18.25,1,0.39,oJM66DQo-WPHF,N,8
+Axshj3aE-So3M,MdihKa93-YLpP,W2X5wyRc-cm5B,Axshj3aE-So3M,23,54000,Aluguel,7,MdihKa93-YLpP,"Educativo ",C,5000,12.84,1,0.09,W2X5wyRc-cm5B,S,2
+DyBB8Cp2-QhqM,xYMD3yPU-9lWZ,QzBLOCnr-SR1R,DyBB8Cp2-QhqM,24,50000,Aluguel,8,xYMD3yPU-9lWZ,"Empreendimento ",B,16000,10.62,1,0.32,QzBLOCnr-SR1R,N,2
+wCxMe3HK-N1vQ,TRkIZFSl-FggZ,FXn0CHYr-2Hh6,wCxMe3HK-N1vQ,34,42000,Aluguel,5,TRkIZFSl-FggZ,"Medico ",A,18825,7.9,1,0.45,FXn0CHYr-2Hh6,N,9
+RWyFarvs-XYQX,IjW3GEpE-XMbn,ltChIKnS-Plum,RWyFarvs-XYQX,30,39000,Aluguel,NULL,IjW3GEpE-XMbn,Pagamento_debitos,A,1500,7.51,1,0.04,ltChIKnS-Plum,N,9
+ocMtL5Rv-hwIv,3tftvIMw-X1rU,1MjNFD4p-pM2T,ocMtL5Rv-hwIv,25,46800,Aluguel,5,3tftvIMw-X1rU,Melhora_lar,C,12000,13.11,1,0.26,1MjNFD4p-pM2T,S,4
+yuc3qfdx-Onja,4kkDYjoH-lbFt,401KANYb-30fK,yuc3qfdx-Onja,27,91800,Hipoteca,4,4kkDYjoH-lbFt,"Medico ",D,25000,16.07,1,0.23,401KANYb-30fK,N,9
+X903mTEJ-9dWf,JOZcDbCE-kmRc,03are8os-KRAX,X903mTEJ-9dWf,37,35000,Aluguel,5,JOZcDbCE-kmRc,"Medico ",A,4000,9.32,1,0.11,03are8os-KRAX,N,16
+y8p9IhYh-HWOZ,LjhCZI6K-fN9l,iqNHAGy9-AK1P,y8p9IhYh-HWOZ,24,44000,Aluguel,1,LjhCZI6K-fN9l,"Empreendimento ",D,10000,NULL,1,0.23,iqNHAGy9-AK1P,S,3
+9NbWLZYG-sM7a,ZaA2B0qh-KGAw,SdUzuD36-cEhE,9NbWLZYG-sM7a,22,20008,Aluguel,2,ZaA2B0qh-KGAw,"Educativo ",B,10000,10.95,1,0.5,SdUzuD36-cEhE,N,2
+tRF1wZ55-Z7Ko,r6J3pnRp-Q4J5,I268JN3h-g1CY,tRF1wZ55-Z7Ko,52,NULL,Hipoteca,6,r6J3pnRp-Q4J5,"Pessoal ",B,7000,NULL,1,0.13,I268JN3h-g1CY,S,12
+nlgQ2mjj-cW7Q,ppL2I9xU-NMDl,9q03rPJu-sHbx,nlgQ2mjj-cW7Q,28,47000,Hipoteca,5,ppL2I9xU-NMDl,Melhora_lar,B,6000,8.88,1,0.13,9q03rPJu-sHbx,N,6
+SDSk8Xhv-NdaW,qbvc29nj-3WpO,nEDp6Swl-1U5I,SDSk8Xhv-NdaW,34,69600,Aluguel,10,qbvc29nj-3WpO,"Empreendimento ",A,22650,NULL,1,0.33,nEDp6Swl-1U5I,N,6
+51HJ4SxY-rbyp,zj6Jvng9-1CXz,fmEA0lMY-JZFc,51HJ4SxY-rbyp,24,39000,Aluguel,3,zj6Jvng9-1CXz,"Educativo ",A,1500,8.49,1,0.04,fmEA0lMY-JZFc,N,3
+AnRdR6bU-SWBh,ZndGjDc7-fHCr,2XL7aKrx-9231,AnRdR6bU-SWBh,21,36140,Aluguel,5,ZndGjDc7-fHCr,"Educativo ",A,9000,8.94,1,0.25,2XL7aKrx-9231,N,2
+aDePz3n3-XgSU,I5kQnZGr-OU62,17Efjazr-1Eke,aDePz3n3-XgSU,27,34000,Aluguel,4,I5kQnZGr-OU62,"Medico ",G,14000,19.82,1,0.41,17Efjazr-1Eke,N,10
+byqNuvCR-wCl2,Lr5SHeZM-aUub,DGGIKUXv-IK29,byqNuvCR-wCl2,33,24000,Aluguel,NULL,Lr5SHeZM-aUub,Pagamento_debitos,D,1000,14.91,1,0.04,DGGIKUXv-IK29,S,10
+JIlR1RIs-NRoz,QY1714Zy-XPot,KiSuIUYv-e7mK,JIlR1RIs-NRoz,21,50000,Aluguel,2,QY1714Zy-XPot,"Educativo ",D,18000,14.74,1,0.36,KiSuIUYv-e7mK,N,2
+eEKOajo3-Ko2T,p5XnJF7g-KGmF,90EzPSPz-CogJ,eEKOajo3-Ko2T,23,36000,Hipoteca,7,p5XnJF7g-KGmF,Melhora_lar,B,6725,11.49,1,0.19,90EzPSPz-CogJ,N,2
+cTDz17U9-opsU,I2apZ8Lj-bzS9,nXUKnwZO-T6qG,cTDz17U9-opsU,38,48000,Hipoteca,23,I2apZ8Lj-bzS9,"Medico ",D,9000,15.21,1,0.19,nXUKnwZO-T6qG,S,15
+Xh97SmmR-T8tM,DXyOidv7-gdbk,eHQDoQMi-dat8,Xh97SmmR-T8tM,24,54500,Hipoteca,7,DXyOidv7-gdbk,"Medico ",D,8000,17.49,1,0.15,eHQDoQMi-dat8,N,4
+F8dcE07I-JSyn,ujUEkIBx-qq7C,UowSa7cN-Njmb,F8dcE07I-JSyn,25,52000,Aluguel,1,ujUEkIBx-qq7C,"Educativo ",B,20000,11.36,1,0.38,UowSa7cN-Njmb,N,4
+q1bh1c3G-nBmk,qO1T9C2A-pkDg,3XmDm6nt-uwHO,q1bh1c3G-nBmk,27,49500,Hipoteca,7,qO1T9C2A-pkDg,"Empreendimento ",C,4750,15.27,1,0.1,3XmDm6nt-uwHO,N,7
+qh4GBaHo-nCri,YQOlZ2vp-DAGy,u1wLbeMz-xU2r,qh4GBaHo-nCri,21,31200,Aluguel,1,YQOlZ2vp-DAGy,Pagamento_debitos,D,6000,16.89,1,0.19,u1wLbeMz-xU2r,N,3
+SjU61N77-1oa1,PO1kHAdl-Q1Cx,u8G8FpOz-Jnav,SjU61N77-1oa1,21,46000,Aluguel,2,PO1kHAdl-Q1Cx,"Pessoal ",D,5200,17.27,1,0.11,u8G8FpOz-Jnav,S,3
+MKM7QJze-OyuM,ct6W8N79-J8vq,T5OBOp5W-rW6G,MKM7QJze-OyuM,25,54000,Hipoteca,9,ct6W8N79-J8vq,Pagamento_debitos,B,12000,12.53,1,0.22,T5OBOp5W-rW6G,N,4
+mkJAQK0M-U2mm,0vGenoEb-eXej,p6BebspM-LiJH,mkJAQK0M-U2mm,24,42000,Aluguel,2,0vGenoEb-eXej,"Educativo ",C,4800,15.23,1,0.11,p6BebspM-LiJH,S,2
+ZW6peJmZ-zuKe,h0sMk4Ki-KRNr,PND19UWb-czty,ZW6peJmZ-zuKe,35,59000,Aluguel,5,h0sMk4Ki-KRNr,"Pessoal ",C,10000,13.49,1,0.17,PND19UWb-czty,S,10
+iGrAFwIx-0cQQ,7PL7CQfY-KDO6,9wM9NIcS-StHF,iGrAFwIx-0cQQ,26,28800,Aluguel,10,7PL7CQfY-KDO6,"Medico ",B,15000,10,1,0.52,9wM9NIcS-StHF,N,3
+ATWus0Mh-PWQ9,aEUb2M00-eset,uhq86SCF-D8eP,ATWus0Mh-PWQ9,23,34320,Aluguel,5,aEUb2M00-eset,Pagamento_debitos,F,7000,18.3,1,0.2,uhq86SCF-D8eP,S,3
+LsyN5b4Z-XzFG,LjMbzTjl-U0LR,rcO7KQXw-7h6n,LsyN5b4Z-XzFG,21,19968,Aluguel,4,LjMbzTjl-U0LR,"Medico ",C,5000,NULL,1,0.25,rcO7KQXw-7h6n,N,3
+6b2w9ujK-f93t,ITuk3QGM-22Ye,ziZMe43g-D9J9,6b2w9ujK-f93t,23,44000,Aluguel,7,ITuk3QGM-22Ye,"Medico ",C,9800,13.11,1,0.22,ziZMe43g-D9J9,N,2
+4ndUUTH8-3D3O,047e829O-Ujl5,H5gtfQdR-OTGk,4ndUUTH8-3D3O,23,33500,Aluguel,2,047e829O-Ujl5,"Educativo ",E,2500,15.68,1,0.07,H5gtfQdR-OTGk,S,4
+Wv23TsM5-AzWi,ncAdWNSA-A6lA,iKmrygwg-T16d,Wv23TsM5-AzWi,40,13273,Aluguel,3,ncAdWNSA-A6lA,Pagamento_debitos,B,3850,9.99,1,0.29,iKmrygwg-T16d,N,12
+j0vwErh0-pUfx,tLkf40md-OWsZ,byIR9pdO-jUxb,j0vwErh0-pUfx,32,24000,Propria,5,tLkf40md-OWsZ,"Educativo ",B,18000,13.11,1,NULL,byIR9pdO-jUxb,S,3
+dO8sz8HM-nJOP,KtllTECc-C0Mx,gYbTiAxe-wU9v,dO8sz8HM-nJOP,21,12540,Aluguel,NULL,KtllTECc-C0Mx,Melhora_lar,A,2500,7.88,1,0.2,gYbTiAxe-wU9v,N,2
+fRBCWpt8-1gxm,kA3vYlQZ-XM25,W2YUIQqe-bye5,fRBCWpt8-1gxm,23,76042,Aluguel,6,kA3vYlQZ-XM25,Melhora_lar,D,20000,15.05,1,0.26,W2YUIQqe-bye5,S,4
+plcplj1W-w7gr,TQ6aSIKY-vAsx,TDP3K8WJ-kNCz,plcplj1W-w7gr,21,24000,Aluguel,5,TQ6aSIKY-vAsx,"Educativo ",A,10000,NULL,1,0.42,TDP3K8WJ-kNCz,N,2
+UAfTUJN6-gqB9,e3KZNgJD-02eZ,9eJYKZTb-T2UN,UAfTUJN6-gqB9,27,58650,Hipoteca,11,e3KZNgJD-02eZ,"Medico ",A,4000,5.42,1,0.06,9eJYKZTb-T2UN,N,6
+x08Ho4Kj-6zXR,2Mz6hDjD-lt85,Qfg0l7nz-bpym,x08Ho4Kj-6zXR,28,70910,Aluguel,8,2Mz6hDjD-lt85,"Medico ",E,3000,17.44,1,0.04,Qfg0l7nz-bpym,S,5
+GSyg48mh-dcqT,sqks9Xsg-BPeH,73pMNaS7-FKbq,GSyg48mh-dcqT,22,28800,Aluguel,2,sqks9Xsg-BPeH,"Empreendimento ",A,14000,7.9,1,0.49,73pMNaS7-FKbq,N,2
+hnwv0bTw-IWR5,9z4O4r07-i2F3,JEIz5j4M-ApWE,hnwv0bTw-IWR5,42,36000,Aluguel,8,9z4O4r07-i2F3,"Medico ",C,13000,12.73,1,0.36,JEIz5j4M-ApWE,S,16
+O5mzA8KN-wtKC,LMaq9jH1-vlN0,ynZydWAO-txtl,O5mzA8KN-wtKC,35,273700,Hipoteca,8,LMaq9jH1-vlN0,"Medico ",D,25000,14.59,1,0.08,ynZydWAO-txtl,N,6
+ihtMb0CH-UC7j,x37mzvSh-Q8Bt,BIFvfmg1-Eo2S,ihtMb0CH-UC7j,23,14898,Aluguel,NULL,x37mzvSh-Q8Bt,"Empreendimento ",C,6250,15.27,1,0.42,BIFvfmg1-Eo2S,N,2
+RxO4l7Zj-SOh2,J0BpQcKc-DmuW,I3S4a7Yt-2rPa,RxO4l7Zj-SOh2,25,12000,Aluguel,NULL,J0BpQcKc-DmuW,Pagamento_debitos,B,3600,9.62,1,0.3,I3S4a7Yt-2rPa,N,2
+5nTF5kSt-Li5j,tJMeRNEu-HKdW,3NE9mfrA-zFKp,5nTF5kSt-Li5j,23,24000,Hipoteca,2,tJMeRNEu-HKdW,"Medico ",D,5000,15.99,1,0.21,3NE9mfrA-zFKp,S,2
+9oXdgps0-JS4I,lHJyf1H8-48iq,dl06GuPo-mc2q,9oXdgps0-JS4I,25,26000,Aluguel,4,lHJyf1H8-48iq,"Medico ",C,8000,12.87,1,0.31,dl06GuPo-mc2q,S,3
+rJkBzlv8-512z,dTq8foon-sDOw,PKHw3ekm-1vl5,rJkBzlv8-512z,37,35000,Aluguel,NULL,dTq8foon-sDOw,Pagamento_debitos,D,8000,5.42,NULL,0.36,PKHw3ekm-1vl5,N,4
+HaKLi4jT-M5wS,a33Pwu1m-UB71,77WaNrsw-Knsq,HaKLi4jT-M5wS,28,44000,Aluguel,7,a33Pwu1m-UB71,Pagamento_debitos,F,14000,19.04,1,0.32,77WaNrsw-Knsq,N,10
+77ulfLkP-kTqJ,OmHTalPf-XUtd,w6rZgHlD-M5tJ,77ulfLkP-kTqJ,30,49000,Aluguel,13,OmHTalPf-XUtd,"Educativo ",B,5000,10.74,1,0.1,w6rZgHlD-M5tJ,N,10
+DlQ8DEEy-xXE0,1ZZObmsF-iEzX,3laTr3Cm-WeZ1,DlQ8DEEy-xXE0,27,66300,Aluguel,1,1ZZObmsF-iEzX,"Medico ",D,9600,NULL,1,0.12,3laTr3Cm-WeZ1,N,7
+GcZhtond-jP4s,WWSKshGg-oppj,Fwt4od5n-v70Y,GcZhtond-jP4s,27,258000,Aluguel,11,WWSKshGg-oppj,"Educativo ",E,35000,18.64,1,0.14,Fwt4od5n-v70Y,S,7
+AyRnlhYs-2sWu,FYsX8als-cQBj,nChtLOUU-h0IL,AyRnlhYs-2sWu,37,14400,Aluguel,2,FYsX8als-cQBj,"Pessoal ",A,6950,7.66,1,0.48,nChtLOUU-h0IL,N,13
+UOqyub4Q-QGrc,FLP6m5qA-BkUF,OORCZIHy-rSqQ,UOqyub4Q-QGrc,31,10800,Aluguel,4,FLP6m5qA-BkUF,"Medico ",C,2000,14.72,1,0.19,OORCZIHy-rSqQ,S,6
+fPYDDx23-QriF,lts9Wky7-Fz3b,5U9nFSn7-ICtJ,fPYDDx23-QriF,24,47292,Aluguel,4,lts9Wky7-Fz3b,"Medico ",D,10000,16.32,1,0.21,5U9nFSn7-ICtJ,S,3
+9rOwdewg-dscR,tAECKApG-BwoQ,J3Hcv8DE-ZaPY,9rOwdewg-dscR,22,22292,Aluguel,5,tAECKApG-BwoQ,Pagamento_debitos,D,3500,16.49,1,0.16,J3Hcv8DE-ZaPY,N,3
+nIMvecfo-Q3Er,KZZ0BZZR-nhso,QDcxebvS-7azr,nIMvecfo-Q3Er,24,36000,Aluguel,1,KZZ0BZZR-nhso,"Pessoal ",B,8000,12.12,1,0.22,QDcxebvS-7azr,N,4
+GOABmkNk-XdQC,fT81TpqF-e4Iw,TkdMCWCd-NOhr,GOABmkNk-XdQC,21,18000,Propria,5,fT81TpqF-e4Iw,"Empreendimento ",B,3375,NULL,1,0.19,TkdMCWCd-NOhr,N,2
+y8bO2Cwc-NeT3,GqhghpxX-bzE8,2OvxPDKh-Tl5G,y8bO2Cwc-NeT3,21,26400,Aluguel,6,GqhghpxX-bzE8,Pagamento_debitos,A,3500,8.49,1,0.13,2OvxPDKh-Tl5G,N,3
+vOuxnAZO-BdG2,hUl9JgBu-z62y,DFi2Lvrr-MzXr,vOuxnAZO-BdG2,39,33100,Aluguel,3,hUl9JgBu-z62y,Pagamento_debitos,C,8000,14.26,1,0.24,DFi2Lvrr-MzXr,S,12
+4wMpudKW-Azry,AeI0T8mt-yO03,ncvUCH1Q-ybWh,4wMpudKW-Azry,27,39000,Aluguel,4,AeI0T8mt-yO03,Pagamento_debitos,B,7200,10.65,1,0.18,ncvUCH1Q-ybWh,N,5
+JvI9ZqDY-DWDJ,qc25Tpjb-YBv6,rKdRFlC7-UC2t,JvI9ZqDY-DWDJ,40,108000,Hipoteca,7,qc25Tpjb-YBv6,Pagamento_debitos,D,6000,17.27,1,0.06,rKdRFlC7-UC2t,N,16
+PWssJR75-znHR,CO3Boxxl-8vAB,bcHsqRut-as0k,PWssJR75-znHR,24,32304,Aluguel,8,CO3Boxxl-8vAB,"Medico ",B,1500,9.91,1,0.05,bcHsqRut-as0k,N,3
+ZY1UpKrt-ttu4,YB7q14n0-WfrE,FXDDLUJ2-iWbC,ZY1UpKrt-ttu4,38,59475,Hipoteca,10,YB7q14n0-WfrE,"Medico ",D,18125,14.84,1,0.26,FXDDLUJ2-iWbC,S,13
+lYACUeps-EMRE,GMJUW1D0-IJ6w,NW5u1JmK-0oN5,lYACUeps-EMRE,24,61200,Hipoteca,9,GMJUW1D0-IJ6w,"Medico ",B,13500,10.83,1,0.19,NW5u1JmK-0oN5,N,2
+X5sLBe45-oCX4,DttNX5Ti-K0jK,fZbBIdZw-m7re,X5sLBe45-oCX4,21,28000,Aluguel,3,DttNX5Ti-K0jK,"Educativo ",B,8000,10.99,1,0.29,fZbBIdZw-m7re,N,2
+rvL3ElMh-k0bF,CIiqEqbD-FZD0,jG6GxMab-cDyO,rvL3ElMh-k0bF,22,42000,Aluguel,2,CIiqEqbD-FZD0,"Medico ",D,12000,15.65,1,0.29,jG6GxMab-cDyO,S,3
+llrBpbhc-ZUY5,v69U1Sm2-8qXK,1NjeT1dZ-S2we,llrBpbhc-ZUY5,24,78000,Aluguel,4,v69U1Sm2-8qXK,Pagamento_debitos,D,30000,NULL,1,0.38,1NjeT1dZ-S2we,S,4
+T8jzUGBd-DwbF,W1BWSE5a-wY2X,dvqj2IX0-c2uD,T8jzUGBd-DwbF,28,78200,Hipoteca,12,W1BWSE5a-wY2X,"Medico ",D,20000,NULL,1,0.22,dvqj2IX0-c2uD,S,5
+AUZMEThu-PM5H,RBKLJttd-WAmj,2Pig713b-ut6o,AUZMEThu-PM5H,25,50000,Aluguel,2,RBKLJttd-WAmj,"Medico ",E,7000,15.57,1,0.14,2Pig713b-ut6o,N,3
+UjWau6ze-ZGBj,Q5DmyShC-z4MM,c1Es9hwF-88Zj,UjWau6ze-ZGBj,31,18000,Aluguel,6,Q5DmyShC-z4MM,"Educativo ",C,4000,12.84,1,0.22,c1Es9hwF-88Zj,N,5
+Raw3qNz6-sp5J,4YNBjFt8-2L1w,gwnxd465-zNqp,Raw3qNz6-sp5J,27,62900,Hipoteca,1,4YNBjFt8-2L1w,"Medico ",B,8000,11.46,1,0.11,gwnxd465-zNqp,N,8
+eD6jokmx-efjz,Nu62Ju84-CTHb,KbxA4yj8-hHoX,eD6jokmx-efjz,34,35000,Aluguel,2,Nu62Ju84-CTHb,"Empreendimento ",B,15000,10.99,1,0.43,KbxA4yj8-hHoX,N,5
+F54DfAwW-tsT6,I3c5KamP-P5R8,p3pIvLDZ-k8QI,F54DfAwW-tsT6,24,52000,Hipoteca,8,I3c5KamP-P5R8,"Educativo ",D,5000,15.28,1,0.1,p3pIvLDZ-k8QI,N,4
+txNhZjSU-JBot,OF7biIUe-M94S,mXcojD74-pHki,txNhZjSU-JBot,22,41000,Aluguel,3,OF7biIUe-M94S,Pagamento_debitos,C,15000,12.73,1,0.37,mXcojD74-pHki,N,3
+wBIlOptl-jfvn,4qWQT7R6-qzXP,GmrY0YvB-GNOA,wBIlOptl-jfvn,22,44582,Aluguel,6,4qWQT7R6-qzXP,Melhora_lar,A,4000,5.99,1,0.09,GmrY0YvB-GNOA,N,4
+50MlXshr-1y7D,YkYyRcOX-fLMD,ASF9xjnc-k0rD,50MlXshr-1y7D,23,74800,Aluguel,1,YkYyRcOX-fLMD,"Medico ",E,20000,17.04,1,0.23,ASF9xjnc-k0rD,S,3
+rd9CXZum-qLeO,nSDWxcON-2MRi,prXHzn2X-3Dsa,rd9CXZum-qLeO,21,12000,Aluguel,NULL,nSDWxcON-2MRi,"Empreendimento ",B,3200,11.49,1,0.27,prXHzn2X-3Dsa,N,2
+3iQxLIgC-FdLr,wbzKmHxr-CTgj,JndcNrtl-RaMz,3iQxLIgC-FdLr,40,96050,Aluguel,3,wbzKmHxr-CTgj,"Medico ",D,11000,16.77,1,0.1,JndcNrtl-RaMz,N,16
+pfdpiWbW-H1u5,yfPZQYDl-qIFF,qgQKK5Pz-IoMz,pfdpiWbW-H1u5,30,111000,Hipoteca,2,yfPZQYDl-qIFF,Melhora_lar,G,12500,19.04,1,0.11,qgQKK5Pz-IoMz,N,8
+tYDTXscR-kGUp,h3fOAvY4-ipTC,DevAg5Tx-DOkb,tYDTXscR-kGUp,26,50000,Aluguel,7,h3fOAvY4-ipTC,"Empreendimento ",A,20500,7.49,1,0.41,DevAg5Tx-DOkb,N,3
+BGEXfF3I-MPDw,pcC2Kx3I-lbHI,Re7Gtml0-8aAj,BGEXfF3I-MPDw,28,15000,Propria,2,pcC2Kx3I-lbHI,"Pessoal ",B,4375,12.42,1,0.29,Re7Gtml0-8aAj,N,9
+XU6EK79e-k92m,W80GHQGW-bQrU,ykcwl8xb-iYRi,XU6EK79e-k92m,26,52703,Hipoteca,5,W80GHQGW-bQrU,"Medico ",B,4000,11.89,1,0.06,ykcwl8xb-iYRi,N,4
+Q2JrejmJ-pRmb,m0Jx92BZ-zb6C,rsJeTWdq-ApGo,Q2JrejmJ-pRmb,23,76268,Hipoteca,7,m0Jx92BZ-zb6C,Pagamento_debitos,B,15000,11.89,1,0.2,rsJeTWdq-ApGo,N,2
+mBSCKQG7-0367,vsm8jyTg-wQpg,b5Ec3pNz-fYpl,mBSCKQG7-0367,25,59000,Hipoteca,9,vsm8jyTg-wQpg,Pagamento_debitos,A,5000,6.03,1,0.08,b5Ec3pNz-fYpl,N,2
+fXzRzb2U-y7md,u0zWNl2D-cH3f,Bwru7b4u-AyoI,fXzRzb2U-y7md,22,26000,Aluguel,NULL,u0zWNl2D-cH3f,"Educativo ",A,8500,6.17,1,0.33,Bwru7b4u-AyoI,N,3
+Ja6p8ZIz-2t1U,sCG95lLH-qMqU,2eQsfnfl-N6Zn,Ja6p8ZIz-2t1U,34,31800,Hipoteca,NULL,sCG95lLH-qMqU,"Pessoal ",A,1700,NULL,1,0.05,2eQsfnfl-N6Zn,N,9
+ShAfsNmp-0DuU,t6gDj5k7-2oIY,oekaUoTF-Z2XI,ShAfsNmp-0DuU,28,54600,Hipoteca,13,t6gDj5k7-2oIY,"Educativo ",B,20000,11.89,1,0.37,oekaUoTF-Z2XI,N,5
+OcNDxbPM-rlN8,XBMi1q45-tNO5,1YrBakc2-y77Y,OcNDxbPM-rlN8,21,32000,Aluguel,6,XBMi1q45-tNO5,"Pessoal ",C,15000,15.27,1,0.47,1YrBakc2-y77Y,S,3
+Rb8rEG8L-xyuB,vW426mon-LqX0,gNAdjrzH-Nhnc,Rb8rEG8L-xyuB,23,53950,Hipoteca,8,vW426mon-LqX0,"Educativo ",E,15000,16.63,1,0.28,gNAdjrzH-Nhnc,S,2
+LWD4fqKB-Yrfj,7gy2kSyK-20fZ,04dHxNbw-Gt7l,LWD4fqKB-Yrfj,26,46000,Hipoteca,8,7gy2kSyK-20fZ,Pagamento_debitos,B,7000,9.99,1,0.15,04dHxNbw-Gt7l,N,4
+NzHApq0s-P7Of,A8TABTs3-PsNA,nTuT8idv-F2jL,NzHApq0s-P7Of,40,83000,Hipoteca,7,A8TABTs3-PsNA,"Educativo ",B,2800,12.18,1,0.03,nTuT8idv-F2jL,N,13
+CPQLLGId-3EL6,k0ohZHMG-ehQH,1a5pKn8a-2Urw,CPQLLGId-3EL6,22,37000,Aluguel,2,k0ohZHMG-ehQH,Melhora_lar,D,2500,17.49,1,0.07,1a5pKn8a-2Urw,N,3
+0f4kqpKJ-Ipqs,Ujfw8w2s-BFRl,liXtMSX5-Mfa5,0f4kqpKJ-Ipqs,31,69000,Aluguel,1,Ujfw8w2s-BFRl,Pagamento_debitos,D,22000,13.67,1,0.32,liXtMSX5-Mfa5,S,7
+RhQzk67X-HPm5,GTo49Xds-YfuI,23BYYUvS-Lrmt,RhQzk67X-HPm5,23,15000,Propria,4,GTo49Xds-YfuI,"Empreendimento ",B,4600,10.99,1,0.31,23BYYUvS-Lrmt,N,2
+H7wNAEEJ-1ISN,yuJgxuE6-aeoM,u14BNxJD-itOU,H7wNAEEJ-1ISN,32,44004,Aluguel,2,yuJgxuE6-aeoM,Pagamento_debitos,F,5000,18.25,1,0.11,u14BNxJD-itOU,N,5
+y4hPR1Lh-FO69,byp8Xgyn-yKBX,UkBb8z3S-GUCa,y4hPR1Lh-FO69,27,48000,Aluguel,2,byp8Xgyn-yKBX,Melhora_lar,A,4000,6.03,1,0.08,UkBb8z3S-GUCa,N,6
+HLIRNcdC-1xtg,a7QrDuMf-tbai,oTxF6urt-iTA7,HLIRNcdC-1xtg,36,24168,Aluguel,2,a7QrDuMf-tbai,"Medico ",C,9925,13.06,1,0.41,oTxF6urt-iTA7,N,13
+Cfwj73yK-7PIA,QcZ8Eaq6-IKU8,QHZpeFZs-NHH6,Cfwj73yK-7PIA,24,40000,Aluguel,4,QcZ8Eaq6-IKU8,"Medico ",A,14000,6.03,1,0.35,QHZpeFZs-NHH6,N,2
+jc2EiPxO-DtJU,BKC0RP7U-GtWK,XUykbwGg-qdf9,jc2EiPxO-DtJU,26,77100,Aluguel,8,BKC0RP7U-GtWK,"Educativo ",B,35000,12.42,1,0.45,XUykbwGg-qdf9,N,3
+8GMQ1WUF-WPc9,EFbopAdv-SGfr,5mzkiiSk-2dJG,8GMQ1WUF-WPc9,25,43633,Hipoteca,3,EFbopAdv-SGfr,Pagamento_debitos,D,9000,15.62,1,0.21,5mzkiiSk-2dJG,N,3
+egDrZj0e-ctwv,N57L7WmD-P6ew,iJ23p7gy-xJYf,egDrZj0e-ctwv,24,80400,Hipoteca,8,N57L7WmD-P6ew,"Pessoal ",C,10000,11.66,1,0.12,iJ23p7gy-xJYf,N,2
+BP994WvD-b8by,bu0iZDpc-YUjx,mJIrbvjo-5NtA,BP994WvD-b8by,24,88000,Hipoteca,5,bu0iZDpc-YUjx,Pagamento_debitos,E,24000,19.69,1,0.27,mJIrbvjo-5NtA,N,2
+pMwsMDHR-aOTx,PqP1ejuL-Ki6o,Z47p22ls-rt6I,pMwsMDHR-aOTx,30,9600,Aluguel,1,PqP1ejuL-Ki6o,Pagamento_debitos,C,1500,12.73,1,0.16,Z47p22ls-rt6I,S,9
+ZzjMu3Ax-Zn6U,5UehHITe-EICG,nMmTtwUf-MEoq,ZzjMu3Ax-Zn6U,40,52479,Aluguel,17,5UehHITe-EICG,"Pessoal ",D,6600,14.54,1,0.13,nMmTtwUf-MEoq,N,13
+lWMbJKJZ-kuv0,PuFYLnvO-P02c,RAySGwMU-tsHU,lWMbJKJZ-kuv0,25,85584,Hipoteca,10,PuFYLnvO-P02c,Pagamento_debitos,E,24000,17.19,1,0.28,RAySGwMU-tsHU,S,2
+hTFKIhFz-CdEg,JrZT7ikq-klWM,EKFFE68g-W6rG,hTFKIhFz-CdEg,25,73000,Aluguel,2,JrZT7ikq-klWM,"Empreendimento ",E,12000,NULL,1,0.16,EKFFE68g-W6rG,N,2
+1kyLwKow-mqqO,5kpH1omu-JQcP,5x89styz-jN5i,1kyLwKow-mqqO,25,45600,Aluguel,3,5kpH1omu-JQcP,"Medico ",D,12250,14.84,1,0.27,5x89styz-jN5i,N,3
+dYoE39RU-b55U,gTl9I4ZQ-qeTR,t3yheQ7t-dinf,dYoE39RU-b55U,22,86000,Hipoteca,7,gTl9I4ZQ-qeTR,"Educativo ",C,18000,13.48,1,0.21,t3yheQ7t-dinf,N,2
+KjsADDPl-RTgN,z6qCuJaX-h9sZ,XPCNqZAx-fifc,KjsADDPl-RTgN,28,44000,Aluguel,9,z6qCuJaX-h9sZ,"Empreendimento ",C,1000,14.17,1,0.02,XPCNqZAx-fifc,N,9
+MCTnkovx-OkZI,wQFS87yA-69IY,1BNbfBPb-9no0,MCTnkovx-OkZI,26,59600,Hipoteca,9,wQFS87yA-69IY,"Empreendimento ",E,21000,16.45,1,0.35,1BNbfBPb-9no0,N,2
+Z75Y8vW5-jIcu,jDDx6Rxb-HANc,S1kvkeCU-qLIz,Z75Y8vW5-jIcu,32,78500,Aluguel,4,jDDx6Rxb-HANc,"Educativo ",B,15000,NULL,1,0.19,S1kvkeCU-qLIz,N,7
+4T3u1PXw-ieGm,Nu22nmrQ-AwsS,rgWe7HGl-RQaM,4T3u1PXw-ieGm,23,56500,Aluguel,7,Nu22nmrQ-AwsS,Pagamento_debitos,D,3000,14.84,1,0.05,rgWe7HGl-RQaM,S,3
+UerqNoSL-Hqkx,6vjhZAF9-BWns,zBFRqmhp-ZKKX,UerqNoSL-Hqkx,42,13200,Aluguel,4,6vjhZAF9-BWns,Pagamento_debitos,C,2500,NULL,1,0.19,zBFRqmhp-ZKKX,S,14
+wfoF4hsy-sPIH,yI3nJJWF-1GpQ,gXsECNoE-7d2r,wfoF4hsy-sPIH,32,40277,Aluguel,5,yI3nJJWF-1GpQ,"Medico ",B,15000,11.71,1,0.37,gXsECNoE-7d2r,N,8
+SUCPb6aY-QZw1,51RW6fOw-FU0v,az7Awumg-ZUPg,SUCPb6aY-QZw1,34,30636,Aluguel,4,51RW6fOw-FU0v,Pagamento_debitos,B,10000,10.37,1,0.33,az7Awumg-ZUPg,N,10
+ME0HheTt-cgFs,A0iQLQmM-mhUg,x26XMF1A-i2hy,ME0HheTt-cgFs,22,88000,Aluguel,6,A0iQLQmM-mhUg,Pagamento_debitos,D,25000,15.58,1,0.28,x26XMF1A-i2hy,S,2
+afUGYAJA-8THN,Xtexq4d0-pd79,SY92sdBq-Xz1c,afUGYAJA-8THN,23,72250,Hipoteca,7,Xtexq4d0-pd79,"Medico ",D,35000,15.99,1,0.41,SY92sdBq-Xz1c,N,2
+pHMe94rs-JfyL,Hz13AvI9-vnOK,Eq07hbpN-lpMf,pHMe94rs-JfyL,32,60000,Aluguel,5,Hz13AvI9-vnOK,"Empreendimento ",B,18800,9.99,1,0.31,Eq07hbpN-lpMf,N,7
+g8P9eB38-v1bs,57p1yG6N-81si,ErsQCbdr-Uvko,g8P9eB38-v1bs,32,32004,Aluguel,10,57p1yG6N-81si,Pagamento_debitos,C,10400,15.27,1,0.32,ErsQCbdr-Uvko,N,9
+742P2kiF-vDy2,Cr954EpI-O5eu,kyoIncDE-xCIx,742P2kiF-vDy2,26,16000,Aluguel,1,Cr954EpI-O5eu,"Empreendimento ",D,2450,NULL,1,0.15,kyoIncDE-xCIx,S,2
+KR2yvjwf-d3dW,IL8PiEfC-8z2m,Gw1DWC08-tKge,KR2yvjwf-d3dW,25,66143,Aluguel,9,IL8PiEfC-8z2m,"Educativo ",A,24000,6.99,1,0.36,Gw1DWC08-tKge,N,3
+ySGnK6Kf-wGSh,crTzPL6G-ER3c,iMIm07tx-6s0C,ySGnK6Kf-wGSh,25,39000,Aluguel,3,crTzPL6G-ER3c,Melhora_lar,A,2000,7.66,1,0.05,iMIm07tx-6s0C,N,4
+EFjRdEU4-OUlf,ySGKI5d0-4IcM,6198aGbx-bkdh,EFjRdEU4-OUlf,23,60000,Aluguel,7,ySGKI5d0-4IcM,Pagamento_debitos,B,25000,10.25,1,0.42,6198aGbx-bkdh,N,2
+SwH8aOdB-mDks,3RHWP134-PBF9,TMwsDhfF-KneY,SwH8aOdB-mDks,29,59000,Aluguel,3,3RHWP134-PBF9,Melhora_lar,B,7500,9.99,1,0.13,TMwsDhfF-KneY,N,8
+pG4y0DNB-Uto7,erbGMSdT-RB1S,71c2s5i8-n9E7,pG4y0DNB-Uto7,26,66000,Hipoteca,2,erbGMSdT-RB1S,Melhora_lar,D,12000,NULL,1,0.18,71c2s5i8-n9E7,N,3
+B33sgWqu-praF,8bv9ccLd-PaN2,v9wQaOoA-B09R,B33sgWqu-praF,22,44004,Hipoteca,3,8bv9ccLd-PaN2,"Educativo ",D,9000,14.11,1,0.2,v9wQaOoA-B09R,N,4
+2L5nUmdc-8H1a,mYjCc8ks-tnrq,63PyS9DD-bUUL,2L5nUmdc-8H1a,44,35000,Aluguel,4,mYjCc8ks-tnrq,Pagamento_debitos,B,10825,10.65,1,0.31,63PyS9DD-bUUL,N,12
+7AezrqOq-1xY5,SdEpLfOQ-xxsA,iNzAdlEW-rrti,7AezrqOq-1xY5,38,27600,Aluguel,3,SdEpLfOQ-xxsA,"Medico ",D,5000,14.59,1,0.18,iNzAdlEW-rrti,S,16
+Zj7Len04-sJOM,4jNSP9cZ-qPhI,kmsEXjPr-ZfoU,Zj7Len04-sJOM,31,50000,Aluguel,13,4jNSP9cZ-qPhI,Pagamento_debitos,D,8000,14.09,1,0.16,kmsEXjPr-ZfoU,S,8
+Fznbjia2-2nh6,5EeTJlXg-JtZr,bPABDDCP-OWM9,Fznbjia2-2nh6,24,33996,Aluguel,1,5EeTJlXg-JtZr,"Educativo ",E,9000,16,1,0.26,bPABDDCP-OWM9,S,2
+guv1HXdS-gvCB,o6HjCfkq-hguu,K1mBdx69-CY7W,guv1HXdS-gvCB,27,61200,Hipoteca,3,o6HjCfkq-hguu,"Medico ",A,13000,8.49,1,0.18,K1mBdx69-CY7W,N,10
+UpY0J5re-StBH,HLL1pMIn-Bz4e,i3aoca5K-GnsE,UpY0J5re-StBH,35,44000,Aluguel,3,HLL1pMIn-Bz4e,"Pessoal ",E,5000,16.95,1,0.11,i3aoca5K-GnsE,S,9
+3iEW4gfU-wQAv,avki3EuO-U8xX,dYbZs8tO-2JCu,3iEW4gfU-wQAv,31,74000,Hipoteca,13,avki3EuO-U8xX,"Empreendimento ",C,1500,12.68,1,0.02,dYbZs8tO-2JCu,N,10
+7Oj8Xtat-oQpx,a3cJ54Ed-GQ2a,RBlt2bMw-IHzx,7Oj8Xtat-oQpx,28,46000,Aluguel,3,a3cJ54Ed-GQ2a,Pagamento_debitos,E,9000,17.56,1,0.2,RBlt2bMw-IHzx,S,7
+WXlHUkcs-n2yW,NGZm9oM7-LtI7,T6YMzFmX-vbG9,WXlHUkcs-n2yW,22,44000,Hipoteca,6,NGZm9oM7-LtI7,"Empreendimento ",D,6400,15.99,1,0.15,T6YMzFmX-vbG9,S,2
+KXHOntxO-DEic,ZOnUddtv-Ecql,ALQC32Rc-m1gn,KXHOntxO-DEic,41,34560,Aluguel,8,ZOnUddtv-Ecql,Pagamento_debitos,D,7550,16.89,1,0.22,ALQC32Rc-m1gn,N,14
+zMdjRruT-GUba,HTQrxxpl-EUwo,6PtIOzw1-zEdu,zMdjRruT-GUba,37,44004,Aluguel,2,HTQrxxpl-EUwo,"Pessoal ",C,9200,12.84,1,0.21,6PtIOzw1-zEdu,N,13
+1RMIbIlG-NUYK,FAdZK3Zt-LHcp,ZSD1g55v-vz2f,1RMIbIlG-NUYK,28,49861,Aluguel,2,FAdZK3Zt-LHcp,"Medico ",C,25000,13.11,1,0.5,ZSD1g55v-vz2f,S,7
+oRyIuaFB-oIAC,1Tk6zOPX-i7j2,zvhRqtHS-IDJx,oRyIuaFB-oIAC,26,74000,Hipoteca,8,1Tk6zOPX-i7j2,"Educativo ",B,15000,9.91,1,0.2,zvhRqtHS-IDJx,N,3
+oHi3aLmt-QE1P,qUwNHuD1-JiLE,95TIe3ew-tiTO,oHi3aLmt-QE1P,34,62900,Hipoteca,11,qUwNHuD1-JiLE,"Medico ",A,18000,8.94,1,0.24,95TIe3ew-tiTO,N,5
+lHgTKClK-RweS,g6oZWqfw-5oml,ERzx9nME-qQ0D,lHgTKClK-RweS,25,39000,Aluguel,1,g6oZWqfw-5oml,Melhora_lar,E,16050,17.14,1,0.41,ERzx9nME-qQ0D,S,3
+56N9OCEy-PmBv,CF0AoZWD-D2PY,0vZ3EB3S-rStT,56N9OCEy-PmBv,33,36000,Aluguel,5,CF0AoZWD-D2PY,"Pessoal ",B,5600,11.99,1,0.16,0vZ3EB3S-rStT,N,7
+BOvWAfDz-CDHa,q0xTHeUi-eyaz,PqQPZ9p5-Ox1X,BOvWAfDz-CDHa,26,34320,Aluguel,2,q0xTHeUi-eyaz,"Educativo ",A,9000,6.62,1,0.26,PqQPZ9p5-Ox1X,N,2
+PjUX1ztq-uAx9,J4FgsdDg-uxqX,92AwYjiH-0QCs,PjUX1ztq-uAx9,22,34404,Aluguel,2,J4FgsdDg-uxqX,Pagamento_debitos,D,7500,15.05,1,0.22,92AwYjiH-0QCs,S,2
+pShnHU3d-zMSH,g5v32Jip-R6Y9,UcFfRWza-PuaM,pShnHU3d-zMSH,22,43600,Hipoteca,4,g5v32Jip-R6Y9,Pagamento_debitos,D,10000,14.96,1,0.23,UcFfRWza-PuaM,N,2
+XnTAv8M8-yGwU,QkH3QAkT-a32f,cverlhwc-qeyX,XnTAv8M8-yGwU,30,54000,Aluguel,1,QkH3QAkT-a32f,"Educativo ",E,16000,17.99,1,0.3,cverlhwc-qeyX,S,10
+BXDmZlzI-hCfA,hTF38CQA-KfCY,tBbY8DAB-6LKH,BXDmZlzI-hCfA,35,38760,Aluguel,2,hTF38CQA-KfCY,"Medico ",F,8000,18.09,1,0.21,tBbY8DAB-6LKH,S,7
+q6kvcxFH-pfd8,IGyUM4cv-CskH,GxGoptNW-00x8,q6kvcxFH-pfd8,22,48500,Aluguel,1,IGyUM4cv-CskH,"Empreendimento ",B,20000,11.36,1,0.41,GxGoptNW-00x8,N,4
+KASvHwWA-jsur,f16SIr0O-QJhd,KZuocLns-qau0,KASvHwWA-jsur,23,26400,Aluguel,3,f16SIr0O-QJhd,Pagamento_debitos,C,1200,14.35,1,0.05,KZuocLns-qau0,S,4
+eNJ3kKhL-SF5g,q7j4wloc-2MG1,YZSx4gA6-rYmG,eNJ3kKhL-SF5g,24,39000,Hipoteca,3,q7j4wloc-2MG1,Pagamento_debitos,D,4150,17.58,1,0.11,YZSx4gA6-rYmG,S,2
+4L017dhj-zjd4,KuhT8MW0-tzFK,cl9dz1Js-QsyH,4L017dhj-zjd4,24,44000,Hipoteca,NULL,KuhT8MW0-tzFK,"Medico ",B,5000,11.99,1,0.11,cl9dz1Js-QsyH,N,3
+1SiDLMTc-8xfw,PlOxEH7l-Rcdk,1H56TEta-fzFP,1SiDLMTc-8xfw,26,45000,Aluguel,10,PlOxEH7l-Rcdk,Pagamento_debitos,A,15000,7.29,1,0.33,1H56TEta-fzFP,N,4
+DXarql1B-lhXg,YnWyZCUJ-Qpay,ft6vxoxr-QY7C,DXarql1B-lhXg,21,31680,Aluguel,5,YnWyZCUJ-Qpay,"Empreendimento ",C,15000,12.61,1,0.47,ft6vxoxr-QY7C,S,2
+uCSzWofh-TCTH,a2fGoxfW-y2Hm,2oqzc1GT-rEL0,uCSzWofh-TCTH,29,18000,Aluguel,5,a2fGoxfW-y2Hm,Melhora_lar,B,5375,12.69,1,0.3,2oqzc1GT-rEL0,N,9
+nteG9fM8-TtDF,dqkACUAx-NAmy,CRqBQhkH-DDSH,nteG9fM8-TtDF,22,19200,Aluguel,6,dqkACUAx-NAmy,"Pessoal ",B,4400,11.49,1,0.23,CRqBQhkH-DDSH,N,2
+vHeTDKsr-JzaR,8CtbWpOM-LUM9,k6iDNKve-q8qz,vHeTDKsr-JzaR,25,133000,Hipoteca,8,8CtbWpOM-LUM9,Pagamento_debitos,F,3000,17.9,1,0.02,k6iDNKve-q8qz,S,2
+WqLJrtiu-NWgM,jRul0P2g-zky4,cALnmHnW-3Jcz,WqLJrtiu-NWgM,22,85992,Hipoteca,6,jRul0P2g-zky4,Pagamento_debitos,D,3500,14.74,1,0.04,cALnmHnW-3Jcz,S,3
+hspjFhNQ-NKdS,QQkMedQL-MEnl,Eg6gYFw8-vKAs,hspjFhNQ-NKdS,24,32000,Aluguel,4,QQkMedQL-MEnl,Melhora_lar,B,12800,12.42,1,0.4,Eg6gYFw8-vKAs,N,3
+qkxnyxoo-msOq,oIejMTNf-DpPi,F5kpzNr6-M7sL,qkxnyxoo-msOq,22,NULL,Hipoteca,NULL,oIejMTNf-DpPi,"Pessoal ",B,2000,13.8,1,0.06,F5kpzNr6-M7sL,N,2
+MYu1CMWu-QDw0,P0qEX5n0-aS3K,TBAcLhi7-QXl3,MYu1CMWu-QDw0,27,44000,Aluguel,1,P0qEX5n0-aS3K,"Empreendimento ",D,5000,16.89,1,0.11,TBAcLhi7-QXl3,S,10
+quqIf4nM-Rxrq,o0vf0s6i-hzzU,efTR9iEN-bkdi,quqIf4nM-Rxrq,32,56000,Aluguel,1,o0vf0s6i-hzzU,"Medico ",D,9000,15.05,1,0.16,efTR9iEN-bkdi,S,6
+qPPg57lv-hUtO,lKl2Xjna-AYsP,df3RJYFw-2tvy,qPPg57lv-hUtO,22,18700,Aluguel,3,lKl2Xjna-AYsP,"Educativo ",A,3600,8.9,1,0.19,df3RJYFw-2tvy,N,4
+h9t1ka0W-hADu,hW4nxmu3-TGi9,NKYZZLbC-tXFL,h9t1ka0W-hADu,24,70000,Hipoteca,2,hW4nxmu3-TGi9,Melhora_lar,A,NULL,12.99,NULL,0.29,NKYZZLbC-tXFL,N,3
+uiynvhGC-FteG,DcmOojFw-fdnU,54ykyP7X-kIFL,uiynvhGC-FteG,28,12000,Propria,NULL,DcmOojFw-fdnU,"Medico ",B,2000,10.75,1,0.17,54ykyP7X-kIFL,N,6
+A50QLHNw-sioZ,1Bv9tO3Z-mxgZ,3fksO6AD-SrYZ,A50QLHNw-sioZ,32,25000,Outros,3,1Bv9tO3Z-mxgZ,Pagamento_debitos,A,11200,7.88,1,0.45,3fksO6AD-SrYZ,N,5
+YxRYgne9-CjwE,b9Sohwac-N5yL,Yh4rjGSM-o4aL,YxRYgne9-CjwE,24,19200,Hipoteca,NULL,b9Sohwac-N5yL,Melhora_lar,A,7000,5.99,1,0.36,Yh4rjGSM-o4aL,N,4
+D1ZH8tHo-hdG8,oYhzkQE2-g4cB,vyzY9O9Z-a4GL,D1ZH8tHo-hdG8,29,14400,Aluguel,3,oYhzkQE2-g4cB,"Educativo ",D,1000,16.32,1,0.07,vyzY9O9Z-a4GL,S,8
+cF7X84Dt-wT6i,M8ZB2pbw-7XrN,8HPBFAYs-vU49,cF7X84Dt-wT6i,24,39875,Aluguel,7,M8ZB2pbw-7XrN,"Pessoal ",D,13300,16,1,0.33,8HPBFAYs-vU49,S,4
+dFTySiJq-qNIH,kvDwn9M0-jEfG,eet72Cdb-HlS1,dFTySiJq-qNIH,30,49000,Propria,NULL,kvDwn9M0-jEfG,"Medico ",A,12000,14.27,NULL,0.16,eet72Cdb-HlS1,S,2
+NzsjcEnb-M4Ck,Yigun4n2-xXpQ,oD4S5Hcb-oRMl,NzsjcEnb-M4Ck,24,54000,Aluguel,5,Yigun4n2-xXpQ,"Empreendimento ",C,21600,13.49,1,0.4,oD4S5Hcb-oRMl,N,2
+xasAeOAF-n5Gs,3fL78seR-dK2J,cMoMqUhX-qByE,xasAeOAF-n5Gs,38,40000,Aluguel,4,3fL78seR-dK2J,"Educativo ",B,18225,12.42,1,0.46,cMoMqUhX-qByE,N,17
+MZ0cd5Xa-WIqu,srpn4mxK-zCYL,QtvogXxk-8uaD,MZ0cd5Xa-WIqu,25,37700,Hipoteca,7,srpn4mxK-zCYL,"Educativo ",B,9000,11.58,1,0.24,QtvogXxk-8uaD,N,2
+9er6jenm-yK30,ITgzi8YU-YRys,W4LWX9ld-XmKG,9er6jenm-yK30,28,69000,Aluguel,1,ITgzi8YU-YRys,"Empreendimento ",D,12000,14.46,1,0.17,W4LWX9ld-XmKG,N,9
+RWMjKKFZ-HoOg,hnI6L3cW-eIvm,4qv2yeEi-JaU7,RWMjKKFZ-HoOg,22,44000,Aluguel,2,hnI6L3cW-eIvm,"Empreendimento ",D,10000,15.58,1,0.23,4qv2yeEi-JaU7,N,3
+bqd2T7x4-wXZR,udh0h5Xn-a8Zy,Lb0HvyAU-9yNw,bqd2T7x4-wXZR,36,171870,Hipoteca,4,udh0h5Xn-a8Zy,"Medico ",D,9400,15.62,1,0.05,Lb0HvyAU-9yNw,S,11
+xbiymZaK-LlCl,BqWaLRJM-fpv4,0y7L61U3-1inS,xbiymZaK-LlCl,22,70000,Aluguel,3,BqWaLRJM-fpv4,"Educativo ",B,22000,11.36,1,0.31,0y7L61U3-1inS,N,4
+KK5IiYRi-Ks9j,eUyA1Gcg-hNM1,a77oyz7a-mpdT,KK5IiYRi-Ks9j,26,39900,Aluguel,1,eUyA1Gcg-hNM1,Pagamento_debitos,B,14000,10.37,1,0.35,a77oyz7a-mpdT,N,3
+d10HdjX9-xlsy,Y35IUP7q-3ApP,6E2FlXRc-5h6X,d10HdjX9-xlsy,24,41000,Aluguel,4,Y35IUP7q-3ApP,"Medico ",C,15600,12.87,1,0.38,6E2FlXRc-5h6X,S,3
+yR8jTlwO-iO5o,XOCEfFBJ-sAkU,XLRd6uOB-7fhD,yR8jTlwO-iO5o,35,123000,Aluguel,2,XOCEfFBJ-sAkU,Melhora_lar,E,25000,17.19,1,0.2,XLRd6uOB-7fhD,N,6
+kLroLzmr-dlfN,f0IZmW8o-FYMm,Tu3OvWda-pKiQ,kLroLzmr-dlfN,24,30000,Aluguel,1,f0IZmW8o-FYMm,"Empreendimento ",C,9500,13.92,1,0.32,Tu3OvWda-pKiQ,N,2
+20tvM7fX-6NGi,bkvtE3O1-xMNU,o8zzElvX-qaMz,20tvM7fX-6NGi,28,56100,Aluguel,9,bkvtE3O1-xMNU,"Medico ",D,20000,14.59,1,0.3,o8zzElvX-qaMz,S,5
+pB5rAN48-2B0p,UXGCKLhW-fXfi,DxKh4dYh-w2we,pB5rAN48-2B0p,26,36000,Aluguel,NULL,UXGCKLhW-fXfi,"Medico ",C,7000,13.98,1,0.19,DxKh4dYh-w2we,S,2
+WAnsdxUY-LQAr,14qiCwYB-1lMd,KMSIwp2i-ylBZ,WAnsdxUY-LQAr,25,44000,Hipoteca,9,14qiCwYB-1lMd,Pagamento_debitos,D,15000,NULL,1,0.34,KMSIwp2i-ylBZ,S,2
+XCbrgYym-8vBz,OgzHs8n2-nLyG,EoQ6W7UM-uMAp,XCbrgYym-8vBz,25,48996,Aluguel,9,OgzHs8n2-nLyG,"Medico ",D,10000,14.54,1,0.2,EoQ6W7UM-uMAp,S,2
+d97x29ws-xw5g,tXG3NRfh-7Zh7,pGnefx0u-qxEr,d97x29ws-xw5g,24,49600,Hipoteca,NULL,tXG3NRfh-7Zh7,Melhora_lar,A,NULL,16.82,1,0.1,pGnefx0u-qxEr,S,24
+FCZl3tlz-1Epo,wFgC4wMg-CuaL,uxuIdTUA-awp2,FCZl3tlz-1Epo,23,86000,Hipoteca,7,wFgC4wMg-CuaL,Pagamento_debitos,D,4800,16,1,0.06,uxuIdTUA-awp2,S,3
+LX1aKsbE-BwZQ,n6njHBGy-nmHv,W0nqhev0-DooJ,LX1aKsbE-BwZQ,28,29000,Hipoteca,6,n6njHBGy-nmHv,Pagamento_debitos,C,5600,NULL,1,0.19,W0nqhev0-DooJ,N,5
+yAGCgGEB-pbTD,K07zQGZI-A7EN,rDmcRg4d-NDTD,yAGCgGEB-pbTD,25,48996,Hipoteca,8,K07zQGZI-A7EN,"Pessoal ",B,5000,9.88,1,0.1,rDmcRg4d-NDTD,N,2
+2IEaY2jy-aTF5,NQ73uyKS-dMek,dgo4Tpxo-cd6K,2IEaY2jy-aTF5,26,15600,Aluguel,5,NQ73uyKS-dMek,Pagamento_debitos,A,5000,5.99,1,0.32,dgo4Tpxo-cd6K,N,3
+JnpGIexh-eQtO,juhPuMPD-XIs7,yJigAuOm-zGub,JnpGIexh-eQtO,31,36000,Aluguel,2,juhPuMPD-XIs7,"Empreendimento ",D,2800,16,1,0.08,yJigAuOm-zGub,N,9
+1MEtjDqu-a02x,D47ArNkP-AG5L,YNaWsk6G-cUvm,1MEtjDqu-a02x,33,21600,Aluguel,3,D47ArNkP-AG5L,"Pessoal ",B,10000,12.53,1,0.46,YNaWsk6G-cUvm,N,7
+lpY4JW0f-5euU,KSnhkaEl-pxav,Zn7IwBPx-h5Dv,lpY4JW0f-5euU,24,34000,Aluguel,3,KSnhkaEl-pxav,"Pessoal ",D,10800,14.42,1,0.32,Zn7IwBPx-h5Dv,S,4
+PM7gwE7F-Rqtc,Pw4qidD0-Fytp,mB756nyv-6oR2,PM7gwE7F-Rqtc,23,39000,Aluguel,3,Pw4qidD0-Fytp,Pagamento_debitos,D,5000,15.37,1,0.13,mB756nyv-6oR2,S,4
+1cj2ZoP0-LxF7,ues49TGd-YQCZ,iRcBibEh-H1Wd,1cj2ZoP0-LxF7,22,30000,Aluguel,2,ues49TGd-YQCZ,Pagamento_debitos,D,5000,14.54,1,0.17,iRcBibEh-H1Wd,N,4
+UobbUKGT-qOpj,5Oe1SQvj-SFPM,zzuXGYRs-Wbck,UobbUKGT-qOpj,22,36614,Aluguel,5,5Oe1SQvj-SFPM,"Medico ",B,7000,9.99,1,0.19,zzuXGYRs-Wbck,N,4
+K1HuKNWB-Dh1i,NbhsuP54-fgEe,GLLwP8XP-TynP,K1HuKNWB-Dh1i,41,45600,Aluguel,18,NbhsuP54-fgEe,"Medico ",A,NULL,11.36,NULL,0.25,GLLwP8XP-TynP,N,5
+q5QcoxFH-rCf2,uu1xkIpb-8Gg2,LcSh2Rdp-9drz,q5QcoxFH-rCf2,22,21600,Aluguel,3,uu1xkIpb-8Gg2,"Medico ",B,8000,11.49,1,0.37,LcSh2Rdp-9drz,N,3
+Hep71R6m-axSe,JTCswFHL-o0Jf,3xP268su-L00n,Hep71R6m-axSe,24,138000,Aluguel,2,JTCswFHL-o0Jf,"Empreendimento ",D,20000,15.99,1,0.14,3xP268su-L00n,S,3
+OTKMKWZn-q2i6,ykdIIRt0-Ru6t,OevCTq5r-MLp5,OTKMKWZn-q2i6,24,50000,Aluguel,4,ykdIIRt0-Ru6t,"Empreendimento ",A,18000,7.9,1,0.36,OevCTq5r-MLp5,N,4
+sUjhXo0a-F37t,mnmvecRZ-GqZH,770PQir3-loKi,sUjhXo0a-F37t,22,26500,Aluguel,3,mnmvecRZ-GqZH,Pagamento_debitos,A,1900,7.29,1,0.07,770PQir3-loKi,N,3
+BcmxIzL2-0uYc,miLjAUTT-LNfY,BjfSJIdT-ecEH,BcmxIzL2-0uYc,23,24000,Aluguel,4,miLjAUTT-LNfY,"Educativo ",C,12250,13.16,1,0.51,BjfSJIdT-ecEH,N,3
+SyvdU4je-68hJ,Nd5LU2qT-F1hM,ZE1bD28F-Onjh,SyvdU4je-68hJ,23,67000,Aluguel,3,Nd5LU2qT-F1hM,"Educativo ",A,25000,7.9,1,0.37,ZE1bD28F-Onjh,N,4
+PmO1FveK-Z7qO,s0Bcz14E-nWeM,a2tqsUnx-ZW71,PmO1FveK-Z7qO,23,47000,Aluguel,7,s0Bcz14E-nWeM,Pagamento_debitos,D,12000,16.29,1,0.26,a2tqsUnx-ZW71,S,3
+KOlmLfwB-deMs,eeLLkKAT-fCxr,Usmi0MRQ-E3sj,KOlmLfwB-deMs,36,44004,Aluguel,4,eeLLkKAT-fCxr,Pagamento_debitos,C,2000,13.61,1,0.05,Usmi0MRQ-E3sj,S,13
+1EoRJ4d4-9gbP,vGfpZWOE-jjdw,OUni6ImG-A51X,1EoRJ4d4-9gbP,28,56000,Aluguel,7,vGfpZWOE-jjdw,Pagamento_debitos,F,20000,18.25,1,0.36,OUni6ImG-A51X,S,10
+BcM8fH4E-dTWj,bZJSIPHJ-x7Nd,GPISsj21-0HCv,BcM8fH4E-dTWj,23,54000,Aluguel,7,bZJSIPHJ-x7Nd,"Pessoal ",D,10000,14.11,1,0.19,GPISsj21-0HCv,N,2
+bqLUX4rJ-sdZY,09EZ5Ehu-fitp,6sa4MZ0s-k5Jo,bqLUX4rJ-sdZY,25,41000,Hipoteca,9,09EZ5Ehu-fitp,"Educativo ",C,5000,11.78,1,0.12,6sa4MZ0s-k5Jo,S,3
+G4UNjSG9-MYnA,5hPREiyx-KPPG,9u9f4m4R-8XB9,G4UNjSG9-MYnA,28,12000,Aluguel,1,5hPREiyx-KPPG,Melhora_lar,D,1000,16.32,1,0.08,9u9f4m4R-8XB9,S,9
+dQ4ZZDas-08zN,Fg5uaXT2-QfQm,PwLwSUnc-0jii,dQ4ZZDas-08zN,26,64000,Hipoteca,9,Fg5uaXT2-QfQm,Pagamento_debitos,D,8000,12.17,1,0.13,PwLwSUnc-0jii,N,4
+lZcfBQdu-oQkg,jx8rGNoZ-hiyM,xjXYhpaJ-byAu,lZcfBQdu-oQkg,31,56839,Aluguel,15,jx8rGNoZ-hiyM,"Medico ",D,9000,15.33,1,0.16,xjXYhpaJ-byAu,N,6
+okAmWMZ1-Lh4n,ThhIm1QC-gjeS,qu0OS78g-Mcfj,okAmWMZ1-Lh4n,34,45996,Aluguel,NULL,ThhIm1QC-gjeS,Pagamento_debitos,A,6000,14.72,NULL,0.2,qu0OS78g-Mcfj,S,4
+tl1ZbrMQ-8Rh0,5yrF9m2N-AsjZ,JpTgTS4K-qihH,tl1ZbrMQ-8Rh0,40,33600,Aluguel,8,5yrF9m2N-AsjZ,"Educativo ",E,19275,14.5,1,0.57,JpTgTS4K-qihH,N,11
+gQGtavqO-JtL1,2pEsKs1u-m2Q0,64hnZ2R1-McLu,gQGtavqO-JtL1,30,45063,Aluguel,7,2pEsKs1u-m2Q0,"Medico ",D,7500,15.05,1,0.17,64hnZ2R1-McLu,N,6
+0pQYYw6t-ZFAY,3lGp5kB3-ozKz,BLikDpKm-pjjQ,0pQYYw6t-ZFAY,22,32244,Aluguel,2,3lGp5kB3-ozKz,"Empreendimento ",B,11100,12.21,1,0.34,BLikDpKm-pjjQ,N,3
+w667UzHN-u8Km,sAXRAFhh-f0kP,07qJLgHD-9Qyi,w667UzHN-u8Km,29,30000,Hipoteca,13,sAXRAFhh-f0kP,"Pessoal ",B,9000,10.36,1,0.3,07qJLgHD-9Qyi,N,10
+Wgrg0iUJ-mgcf,yX1MLX6L-RY50,1UKMBJqQ-2ZWG,Wgrg0iUJ-mgcf,31,44000,Aluguel,1,yX1MLX6L-RY50,Melhora_lar,B,10000,10.71,1,0.23,1UKMBJqQ-2ZWG,N,9
+XIr31wzm-cZZK,ujyTH1kN-BBqK,H2MDBPHI-5kPb,XIr31wzm-cZZK,26,81000,Aluguel,10,ujyTH1kN-BBqK,"Empreendimento ",E,21000,16.95,1,0.26,H2MDBPHI-5kPb,N,2
+Ns1xzvnB-fIOj,BGHEXHxp-NaNY,kGO9JqcK-fT7P,Ns1xzvnB-fIOj,24,33000,Aluguel,4,BGHEXHxp-NaNY,"Medico ",D,4800,14.91,1,0.15,kGO9JqcK-fT7P,S,4
+oF5yFksF-XOBh,bGs3va2d-J64j,0ZtJ11nO-s4RN,oF5yFksF-XOBh,24,42000,Aluguel,9,bGs3va2d-J64j,Pagamento_debitos,E,3000,NULL,1,0.07,0ZtJ11nO-s4RN,S,3
+Ta3PchXZ-D7ME,0PauvDla-Ri1m,8YZSEcih-Bwus,Ta3PchXZ-D7ME,23,19200,Aluguel,1,0PauvDla-Ri1m,"Medico ",G,6200,19.82,1,0.32,8YZSEcih-Bwus,N,3
+09mgpMgg-5fif,r7rGDuT5-cZ5C,GrbIwJUv-dPC9,09mgpMgg-5fif,25,66800,Hipoteca,3,r7rGDuT5-cZ5C,Pagamento_debitos,A,12000,9.63,1,0.18,GrbIwJUv-dPC9,N,4
+wrYngnD7-NhG8,l4TD4Ryt-hHue,GykEzdct-CTRq,wrYngnD7-NhG8,28,60675,Hipoteca,6,l4TD4Ryt-hHue,Pagamento_debitos,D,14000,15.62,1,0.23,GykEzdct-CTRq,S,10
+cdXboRuY-RaDI,uHd178lQ-MHTF,C6714m8n-XGGk,cdXboRuY-RaDI,22,15000,Aluguel,3,uHd178lQ-MHTF,"Pessoal ",A,4950,8.9,1,0.33,C6714m8n-XGGk,N,4
+Eq5LQlx7-L4eH,rBd7ihr9-dNbe,AIA4Q1UN-Nihb,Eq5LQlx7-L4eH,22,44000,Aluguel,7,rBd7ihr9-dNbe,"Educativo ",C,18000,13.57,1,0.41,AIA4Q1UN-Nihb,S,4
+fuuqrxSo-XCG4,tuuBKdTu-leW2,SyWOpxoz-Jhc2,fuuqrxSo-XCG4,32,31000,Aluguel,2,tuuBKdTu-leW2,"Educativo ",D,7400,16.77,1,0.24,SyWOpxoz-Jhc2,N,6
+Zzpp3lbo-S41o,77KsWlm8-jbbY,fvU6Mhi1-nXes,Zzpp3lbo-S41o,23,54000,Hipoteca,2,77KsWlm8-jbbY,"Medico ",D,7500,15.58,1,0.14,fvU6Mhi1-nXes,N,2
+SG787bLu-Wr66,LRWHQP0k-Fe3n,g93M3lON-wIh2,SG787bLu-Wr66,24,51000,Hipoteca,8,LRWHQP0k-Fe3n,Pagamento_debitos,B,12000,NULL,1,0.24,g93M3lON-wIh2,N,3
+gR2tnB5Y-KUic,56RsEOSq-MxkG,4bB5O40U-x99U,gR2tnB5Y-KUic,27,NULL,Aluguel,1,56RsEOSq-MxkG,"Pessoal ",B,20000,12.18,NULL,0.11,4bB5O40U-x99U,N,4
+hs0uWcGt-zbcn,6qjHgyMW-tNrz,7Khy1lU1-lDw9,hs0uWcGt-zbcn,29,29780,Aluguel,2,6qjHgyMW-tNrz,"Pessoal ",D,1500,12.86,1,0.05,7Khy1lU1-lDw9,S,10
+fzgB43Pd-00AW,y8qB7viQ-SEid,ZzuAcEuO-efwc,fzgB43Pd-00AW,40,8628,Propria,NULL,y8qB7viQ-SEid,Pagamento_debitos,A,2500,NULL,1,0.29,ZzuAcEuO-efwc,N,17
+G7yx3X1J-YUYa,NrTWYDrq-EHmG,Wi9mpRFK-I7HE,G7yx3X1J-YUYa,25,37000,Aluguel,1,NrTWYDrq-EHmG,Pagamento_debitos,F,4200,NULL,1,0.11,Wi9mpRFK-I7HE,S,2
+iwyykc7z-fc3E,bzIlyZPg-vIMx,8BTFeXUX-sv51,iwyykc7z-fc3E,28,33288,Aluguel,2,bzIlyZPg-vIMx,Pagamento_debitos,C,10800,12.09,1,0.32,8BTFeXUX-sv51,N,5
+I8JKYQBG-1Bpz,SCAJUPxt-sazF,XSykDhWj-AHaK,I8JKYQBG-1Bpz,42,73100,Aluguel,4,SCAJUPxt-sazF,"Medico ",D,12000,16.77,1,0.14,XSykDhWj-AHaK,S,13
+Kif10v5M-iKBr,Pv70qr19-evF1,szeWxFmy-wfCB,Kif10v5M-iKBr,21,17916,Aluguel,1,Pv70qr19-evF1,"Medico ",A,3000,6,1,0.17,szeWxFmy-wfCB,N,3
+LCNRM0Pu-lqKa,kczr9Hp5-P3tE,aMiEffZW-avsL,LCNRM0Pu-lqKa,29,40404,Aluguel,4,kczr9Hp5-P3tE,"Empreendimento ",A,1800,NULL,NULL,0.04,aMiEffZW-avsL,S,3
+TnfCuL66-PLlk,DBMz2h92-E0tP,FagcvXNG-TR5D,TnfCuL66-PLlk,22,30000,Aluguel,6,DBMz2h92-E0tP,"Empreendimento ",A,14000,6.99,1,0.47,FagcvXNG-TR5D,N,4
+GqpteuQm-C6rJ,iTtUGkMq-AbI1,B1n4Hspg-BNNT,GqpteuQm-C6rJ,35,26400,Aluguel,2,iTtUGkMq-AbI1,Pagamento_debitos,D,6000,16.29,1,0.23,B1n4Hspg-BNNT,S,8
+pS6H4cdN-mr6W,rHgOdimC-NAl9,P3nzZqhL-9iGv,pS6H4cdN-mr6W,36,180000,Outros,11,rHgOdimC-NAl9,"Pessoal ",B,20000,11.48,1,0.11,P3nzZqhL-9iGv,N,15
+BGWh7OJL-U8WY,0c8KAXTU-ZS3z,b3j6G2RK-aJHe,BGWh7OJL-U8WY,22,29654,Aluguel,3,0c8KAXTU-ZS3z,"Educativo ",C,7000,14.22,1,0.24,b3j6G2RK-aJHe,N,3
+BZ3NyNm3-0j9M,CK50SgA4-6edZ,iSMShc8G-ZWya,BZ3NyNm3-0j9M,24,38001,Aluguel,4,CK50SgA4-6edZ,Pagamento_debitos,A,12000,6.17,1,0.32,iSMShc8G-ZWya,N,3
+EdxQFxSR-JLDl,n4alasuT-fSEw,xwEFId5T-pYWU,EdxQFxSR-JLDl,22,66000,Aluguel,6,n4alasuT-fSEw,Melhora_lar,C,8000,14.65,1,0.12,xwEFId5T-pYWU,S,4
+z3Ke73sT-fY5k,hRyF4vKu-NslC,bNGX8c5e-XnK7,z3Ke73sT-fY5k,29,53313,Aluguel,13,hRyF4vKu-NslC,"Medico ",B,19850,NULL,1,0.37,bNGX8c5e-XnK7,N,7
+0EgfgtnX-YOZ6,ROpQfOPU-Usfa,bMzuDPxW-xx8c,0EgfgtnX-YOZ6,27,62900,Aluguel,3,ROpQfOPU-Usfa,"Medico ",D,12000,15.95,1,0.16,bMzuDPxW-xx8c,N,9
+vBrmyOzx-yirA,W5HDJDxf-Uhnv,TGvgW1nr-r60t,vBrmyOzx-yirA,24,14400,Aluguel,4,W5HDJDxf-Uhnv,"Medico ",A,4050,6.91,1,0.28,TGvgW1nr-r60t,N,4
+y0bY5dNG-1p4g,N0r6xhg5-3EnN,ZRvIAK0L-4FDH,y0bY5dNG-1p4g,24,58668,Aluguel,8,N0r6xhg5-3EnN,"Medico ",D,6000,NULL,NULL,0.12,ZRvIAK0L-4FDH,S,4
+KTxtL1As-YnTF,3IaMyIPR-iQFO,ya3DjJmE-bxmW,KTxtL1As-YnTF,25,46000,Hipoteca,5,3IaMyIPR-iQFO,"Medico ",B,6000,10.99,1,0.13,ya3DjJmE-bxmW,N,3
+hECmPcdI-JRAi,tvRzyFbK-ujWt,2bxbIhRs-BXAL,hECmPcdI-JRAi,22,44582,Aluguel,6,tvRzyFbK-ujWt,Melhora_lar,A,3000,8.88,NULL,NULL,2bxbIhRs-BXAL,N,9
+Rz3PiHG7-znqm,mjd8ZD9r-KbRM,IJyHcaHr-Pcyb,Rz3PiHG7-znqm,24,46000,Hipoteca,6,mjd8ZD9r-KbRM,Pagamento_debitos,D,12000,14.83,1,0.26,IJyHcaHr-Pcyb,S,3
+Z7t6rcYf-U0LY,Cay8ScGk-QlAr,LEMAI0Tr-28yw,Z7t6rcYf-U0LY,40,52000,Aluguel,2,Cay8ScGk-QlAr,"Educativo ",F,15000,18.62,1,0.29,LEMAI0Tr-28yw,S,16
+cdXwkcPn-taBM,y6pGlGEG-YBh5,bRAWXn8s-mScH,cdXwkcPn-taBM,22,31200,Hipoteca,2,y6pGlGEG-YBh5,Pagamento_debitos,A,1050,7.51,1,0.03,bRAWXn8s-mScH,N,4
+rguukmTT-CTRB,iBPG5YrK-NIQq,l0ACTXtI-FJEC,rguukmTT-CTRB,22,52880,Aluguel,6,iBPG5YrK-NIQq,"Medico ",D,5000,14.59,1,0.09,l0ACTXtI-FJEC,N,4
+q11Oy3be-Jrwn,emUEjqn5-KW4F,XM4dIM6r-jmZN,q11Oy3be-Jrwn,27,30000,Aluguel,3,emUEjqn5-KW4F,"Pessoal ",A,13000,7.88,1,0.43,XM4dIM6r-jmZN,N,10
+iR3QQW8x-pRl7,D91CuqZi-y1EC,ecmxLfbi-I2hK,iR3QQW8x-pRl7,22,44004,Hipoteca,3,D91CuqZi-y1EC,"Empreendimento ",D,9000,14.11,1,0.2,ecmxLfbi-I2hK,S,3
+EJ1TxvWZ-8N28,0FUksfHF-3Izu,flj48BKg-U81W,EJ1TxvWZ-8N28,42,101000,Hipoteca,6,0FUksfHF-3Izu,Pagamento_debitos,F,25000,16.15,1,0.25,flj48BKg-U81W,S,17
+NjuwsDum-UhNX,to9OMOKT-y1Tc,zfTOtDyX-BvjN,NjuwsDum-UhNX,24,136000,Hipoteca,9,to9OMOKT-y1Tc,Pagamento_debitos,F,25000,19.13,1,0.18,zfTOtDyX-BvjN,N,3
+RvLPEj8I-QQ9d,YmKUZLit-EFiL,cLO73m3o-UzWx,RvLPEj8I-QQ9d,21,19968,Aluguel,4,YmKUZLit-EFiL,"Educativo ",C,5000,NULL,1,0.25,cLO73m3o-UzWx,N,2
+3gG6mKJu-AWOY,XnvfHqA0-omEn,ChbR6JXj-LX26,3gG6mKJu-AWOY,35,188000,Aluguel,4,XnvfHqA0-omEn,Pagamento_debitos,D,5000,16.49,1,0.03,ChbR6JXj-LX26,N,9
+NYTXhGzG-1Fqw,hhyGhKWv-Q1Jb,Bar1DPDB-JrGe,NYTXhGzG-1Fqw,47,18000,Hipoteca,NULL,hhyGhKWv-Q1Jb,"Pessoal ",A,3000,5.42,1,0.17,Bar1DPDB-JrGe,N,12
+7ePM3ODr-RZJY,AkA0uxlY-lv25,5WXLbzuH-rRxv,7ePM3ODr-RZJY,27,41000,Aluguel,11,AkA0uxlY-lv25,Pagamento_debitos,D,11000,15.33,1,0.27,5WXLbzuH-rRxv,S,7
+wfNSrML3-wwJ3,oyCtxXMr-xTr2,zj39W05s-tiIt,wfNSrML3-wwJ3,40,55000,Aluguel,14,oyCtxXMr-xTr2,Melhora_lar,A,18000,7.88,1,0.33,zj39W05s-tiIt,N,14
+221d6GQi-pEev,hizC1nxA-NYOz,lJRjrpw2-6b6e,221d6GQi-pEev,22,33000,Aluguel,6,hizC1nxA-NYOz,"Pessoal ",B,10000,12.42,1,0.3,lJRjrpw2-6b6e,N,3
+YmEeEsDk-anjk,joaSJhmA-0yER,00dSoeyd-le7C,YmEeEsDk-anjk,22,55000,Aluguel,5,joaSJhmA-0yER,"Pessoal ",D,8000,15.31,1,0.15,00dSoeyd-le7C,N,4
+uIxoAGgx-CN3g,nHJWcBpw-s2um,s6gR2ccl-OubW,uIxoAGgx-CN3g,26,35000,Aluguel,10,nHJWcBpw-s2um,"Medico ",B,12875,NULL,1,0.37,s6gR2ccl-OubW,N,2
+047HzPzb-NBkZ,CXiuvUaE-YlFx,H1Lk1JZE-HnyT,047HzPzb-NBkZ,NULL,100000,Hipoteca,NULL,CXiuvUaE-YlFx,"Pessoal ",D,9000,15.37,1,0.31,H1Lk1JZE-HnyT,N,9
+eetjLp3D-6DWn,g3bmE67d-9Q3z,S8rMBF74-jh2H,eetjLp3D-6DWn,22,31760,Aluguel,3,g3bmE67d-9Q3z,"Pessoal ",B,12875,12.53,1,0.41,S8rMBF74-jh2H,N,4
+L40d1I7p-fZk8,usCGPbLJ-NnC8,0TCXgOoK-wdsT,L40d1I7p-fZk8,27,18000,Aluguel,3,usCGPbLJ-NnC8,"Educativo ",B,8000,10.75,1,0.44,0TCXgOoK-wdsT,N,10
+B6B5cH22-Ikau,OcmSK894-rXlq,wzFcvILl-1CtG,B6B5cH22-Ikau,22,18000,Aluguel,1,OcmSK894-rXlq,"Educativo ",B,7000,10.65,1,0.39,wzFcvILl-1CtG,N,3
+n7wpAG0h-nsPl,IfzUCAUl-7sFr,wXHGNSoN-Zr8D,n7wpAG0h-nsPl,42,68850,Aluguel,8,IfzUCAUl-7sFr,"Medico ",D,24250,15.58,1,0.3,wXHGNSoN-Zr8D,N,14
+vFwRFl9q-3ov5,JpsWg1WT-YdwN,aXaPY7Lt-eJP6,vFwRFl9q-3ov5,41,54000,Hipoteca,6,JpsWg1WT-YdwN,"Empreendimento ",C,5000,13.23,1,0.09,aXaPY7Lt-eJP6,N,12
+LHfIZcjR-wfTz,2qZpEDEz-yr9X,QJG22ucF-Eima,LHfIZcjR-wfTz,23,69000,Aluguel,8,2qZpEDEz-yr9X,"Educativo ",B,9000,9.63,1,0.13,QJG22ucF-Eima,N,4
+i1wrwkJR-b2iU,W3QuCN1J-x00i,8noUtnA7-OsYa,i1wrwkJR-b2iU,29,35000,Aluguel,4,W3QuCN1J-x00i,"Medico ",A,11000,8.59,1,0.31,8noUtnA7-OsYa,N,10
+runpPzbM-9KqC,2jEIkhCf-WZQd,OtMCLXEX-NAK1,runpPzbM-9KqC,23,21000,Aluguel,6,2jEIkhCf-WZQd,Pagamento_debitos,A,7500,6.91,1,0.36,OtMCLXEX-NAK1,N,4
+iK8pCfXG-RbtP,0w1fJyq5-pEQn,k5RBJTx7-2iLO,iK8pCfXG-RbtP,NULL,35000,Aluguel,9,0w1fJyq5-pEQn,"Educativo ",A,7000,11.49,NULL,0.22,k5RBJTx7-2iLO,N,2
+MBj3Xjl6-IFcx,Tt9AvUmL-0SoA,C5u17fYU-Q7fi,MBj3Xjl6-IFcx,36,55200,Aluguel,3,Tt9AvUmL-0SoA,"Medico ",D,9900,14.84,1,0.18,C5u17fYU-Q7fi,S,13
+E7TTiZzU-cjFT,MLc0tMZi-hPy2,2fp6mkJc-YSOh,E7TTiZzU-cjFT,25,47052,Aluguel,5,MLc0tMZi-hPy2,"Educativo ",B,21250,10.99,1,0.45,2fp6mkJc-YSOh,N,2
+TOFrsAtE-CJx2,RckvyQQt-Y1vY,a7G7hZAy-b85q,TOFrsAtE-CJx2,22,89250,Hipoteca,3,RckvyQQt-Y1vY,"Medico ",B,25000,12.53,1,0.24,a7G7hZAy-b85q,N,4
+XfAfEp9B-iNX2,mzIYKdjB-RhQD,tMJZ4QMB-59uE,XfAfEp9B-iNX2,28,34000,Hipoteca,2,mzIYKdjB-RhQD,"Medico ",B,8000,12.69,1,0.24,tMJZ4QMB-59uE,N,9
+FD9x8F9X-RsoI,Qbvl7csq-fLUv,CDuDyx4S-bBme,FD9x8F9X-RsoI,36,52000,Hipoteca,11,Qbvl7csq-fLUv,"Pessoal ",B,1500,11.36,1,0.03,CDuDyx4S-bBme,N,17
+8pf45GZl-3ssB,126fAzmb-C4dA,xsnOXe1Q-XhAO,8pf45GZl-3ssB,23,37700,Hipoteca,7,126fAzmb-C4dA,Pagamento_debitos,A,10000,9.63,1,0.27,xsnOXe1Q-XhAO,N,3
+kUjhdMHH-Khta,QwGOUHeU-1g6h,hnQ8MCTU-FfQw,kUjhdMHH-Khta,27,39996,Aluguel,5,QwGOUHeU-1g6h,"Medico ",D,9600,NULL,1,0.24,hnQ8MCTU-FfQw,N,9
+Qx7CHOxJ-wLF2,9YLF9FgA-Mpbi,ZCf4LWzi-8ZNp,Qx7CHOxJ-wLF2,24,24000,Aluguel,NULL,9YLF9FgA-Mpbi,Melhora_lar,B,2000,12.69,1,0.08,ZCf4LWzi-8ZNp,N,2
+aEP1J13c-EECv,rvS5A6p2-TnBo,FT7qPBak-r0Nc,aEP1J13c-EECv,45,82800,Aluguel,4,rvS5A6p2-TnBo,"Educativo ",C,25000,12.87,1,0.3,FT7qPBak-r0Nc,S,14
+JQojSx7A-4a4k,nCz7bxhP-wXpZ,6ncHYQ6w-T0cr,JQojSx7A-4a4k,30,44500,Aluguel,2,nCz7bxhP-wXpZ,"Medico ",E,13000,16.32,1,0.29,6ncHYQ6w-T0cr,N,6
+ZrrZPWl1-r1Yt,iLCGLbLJ-aLOj,CsPwoZ50-eOGx,ZrrZPWl1-r1Yt,22,31000,Aluguel,5,iLCGLbLJ-aLOj,"Pessoal ",B,14500,11.58,1,0.47,CsPwoZ50-eOGx,N,3
+9WUqifsD-gKAX,ta6j5dJY-FAhj,w1IxJwtQ-1mM0,9WUqifsD-gKAX,25,54000,Hipoteca,NULL,ta6j5dJY-FAhj,Pagamento_debitos,D,10000,16.89,1,0.19,w1IxJwtQ-1mM0,S,2
+K7OJ2WlK-JNAf,voll6GcU-oPtU,PcPnvSKe-jYTy,K7OJ2WlK-JNAf,28,20000,Aluguel,4,voll6GcU-oPtU,"Medico ",B,8000,12.42,1,0.4,PcPnvSKe-jYTy,N,8
+xuJzYOEn-HQn5,YLTixmBX-t6q1,6SIt39zD-YHpc,xuJzYOEn-HQn5,21,31200,Aluguel,1,YLTixmBX-t6q1,"Educativo ",D,6000,16.89,1,0.19,6SIt39zD-YHpc,S,4
+au2glRpf-qg0M,zSMXANrq-vwhI,nHqWgBoS-Ue77,au2glRpf-qg0M,41,32004,Aluguel,2,zSMXANrq-vwhI,Melhora_lar,D,1500,14.74,1,0.05,nHqWgBoS-Ue77,N,17
+7HCP9Fzf-SwJU,nHSFCjv9-biv7,8d4l9AUz-KDHF,7HCP9Fzf-SwJU,29,61455,Hipoteca,1,nHSFCjv9-biv7,"Medico ",F,10000,18.09,1,0.14,8d4l9AUz-KDHF,N,9
+6cgfrumD-utcY,i9sdtzHz-cNxw,PjrI4qul-DBdC,6cgfrumD-utcY,23,47000,Aluguel,1,i9sdtzHz-cNxw,"Empreendimento ",E,25000,17.93,1,0.53,PjrI4qul-DBdC,N,2
+76BssA4Z-Dyyk,kJdP9Nds-b2Em,CjtwmZtT-JHdN,76BssA4Z-Dyyk,33,34000,Hipoteca,8,kJdP9Nds-b2Em,Melhora_lar,D,6000,14.11,1,0.18,CjtwmZtT-JHdN,N,9
+2hNdneQX-sHTY,Y7Ajt2Uz-IK7f,Hlp37EUX-zp5s,2hNdneQX-sHTY,26,39996,Aluguel,10,Y7Ajt2Uz-IK7f,"Medico ",C,15000,13.06,1,0.38,Hlp37EUX-zp5s,S,3
+ew6wDIH6-wASu,wpviscKM-E4C7,s6fPRDAo-bGRY,ew6wDIH6-wASu,26,78000,Hipoteca,10,wpviscKM-E4C7,"Educativo ",A,10000,9.63,1,0.13,s6fPRDAo-bGRY,N,4
+c6jX0hf2-vixp,YbfQTMNT-hW4o,orlOEMdp-ehzs,c6jX0hf2-vixp,28,51000,Hipoteca,1,YbfQTMNT-hW4o,"Pessoal ",A,4775,7.49,1,0.09,orlOEMdp-ehzs,N,6
+Wi5zd1r3-I4bx,HdH2clpv-n9dL,lKX1N56Y-0eBo,Wi5zd1r3-I4bx,22,41000,Aluguel,5,HdH2clpv-n9dL,"Empreendimento ",A,14000,NULL,1,0.34,lKX1N56Y-0eBo,N,3
+vDCGRT2r-dkp7,9KktENuU-do6A,0mbaNBDy-WkN8,vDCGRT2r-dkp7,21,83000,Hipoteca,5,9KktENuU-do6A,"Pessoal ",C,15000,12.84,1,0.18,0mbaNBDy-WkN8,S,4
+gwqvNlOC-eui7,wNoFUgcz-H52r,t9l5GJ0G-6XxG,gwqvNlOC-eui7,28,54400,Hipoteca,12,wNoFUgcz-H52r,"Medico ",C,18000,12.99,1,0.28,t9l5GJ0G-6XxG,S,8
+fQ2DEIXq-r92I,t9H3MsRD-x4pt,n9s7LZjw-mFfu,fQ2DEIXq-r92I,29,45000,Aluguel,9,t9H3MsRD-x4pt,"Pessoal ",B,14000,12.69,1,0.31,n9s7LZjw-mFfu,N,5
+xjyBNsTY-vSOo,Wh0rRrwn-2Lks,N58W4kpE-uu8g,xjyBNsTY-vSOo,30,24000,Aluguel,14,Wh0rRrwn-2Lks,"Educativo ",B,5000,11.11,1,0.21,N58W4kpE-uu8g,N,9
+LiNQJ4Ph-k4Zb,ehnT0sE6-iIv0,NdX0HMsZ-S0pJ,LiNQJ4Ph-k4Zb,29,34900,Aluguel,2,ehnT0sE6-iIv0,"Medico ",B,11200,9.99,1,0.32,NdX0HMsZ-S0pJ,N,10
+Fq62KEaz-3xZS,oE7OxjOb-M0os,3oTt3H7Y-zvaJ,Fq62KEaz-3xZS,25,69000,Aluguel,5,oE7OxjOb-M0os,Melhora_lar,A,8500,6.92,1,0.12,3oTt3H7Y-zvaJ,N,4
+gA6cl68P-MvfN,JsTpSGjh-bt3U,d2sFkALG-zWmL,gA6cl68P-MvfN,33,44400,Hipoteca,3,JsTpSGjh-bt3U,"Medico ",C,2000,14.22,1,0.05,d2sFkALG-zWmL,S,6
+LxAHWzNu-ulAq,wpM16PEr-wA6R,9JwZhTCT-7BlE,LxAHWzNu-ulAq,34,30000,Aluguel,2,wpM16PEr-wA6R,Melhora_lar,A,12000,8.9,1,0.4,9JwZhTCT-7BlE,N,8
+SYDenLf9-vQ1l,FkFWIb1X-Iyqa,Ct34wXQD-r3YL,SYDenLf9-vQ1l,25,78000,Hipoteca,9,FkFWIb1X-Iyqa,Pagamento_debitos,D,8000,16,1,0.1,Ct34wXQD-r3YL,N,2
+sivxvMRL-1mU1,Fn8ZoQo7-uJ56,okv16GaO-5WCN,sivxvMRL-1mU1,31,73000,Hipoteca,4,Fn8ZoQo7-uJ56,Pagamento_debitos,F,16000,19.41,1,0.22,okv16GaO-5WCN,N,7
+EToqO29t-oDLs,chTF8S8o-U89t,wQLFjqjt-ixjY,EToqO29t-oDLs,45,60000,Aluguel,4,chTF8S8o-U89t,"Educativo ",B,25000,9.99,1,0.42,wQLFjqjt-ixjY,N,14
+GAu2k0pS-mN1Y,NkhwLaaW-HStB,DxY4Bi11-aGrQ,GAu2k0pS-mN1Y,25,78000,Aluguel,4,NkhwLaaW-HStB,Pagamento_debitos,D,15000,NULL,1,0.19,DxY4Bi11-aGrQ,S,4
+4lNQthCs-Rn6t,TnABWQ2t-uuQr,UAFHziCy-gaju,4lNQthCs-Rn6t,27,100000,Aluguel,1,TnABWQ2t-uuQr,Pagamento_debitos,C,35000,16.11,1,0.35,UAFHziCy-gaju,N,9
+64GC8sga-hUtu,F6wk54LN-Wi9k,HhzQdFkd-u5JW,64GC8sga-hUtu,23,57800,Aluguel,2,F6wk54LN-Wi9k,"Medico ",B,6000,10.99,1,0.09,HhzQdFkd-u5JW,N,4
+Nvnm9CTH-C7k2,IcetrJpU-E9fw,LkP2tik3-sSnx,Nvnm9CTH-C7k2,28,127500,Hipoteca,5,IcetrJpU-E9fw,"Medico ",E,20000,17.04,1,0.13,LkP2tik3-sSnx,S,8
+ZEcQ54U1-1bpc,0tK2BFBR-1mRw,K3sEqfAQ-p9Ho,ZEcQ54U1-1bpc,29,20688,Aluguel,NULL,0tK2BFBR-1mRw,"Pessoal ",A,10400,8.49,1,0.5,K3sEqfAQ-p9Ho,N,9
+QIcE4EK8-hpdK,5tPYSIag-8C31,hugLbBZl-xKD5,QIcE4EK8-hpdK,25,32200,Aluguel,1,5tPYSIag-8C31,"Empreendimento ",D,10000,16.77,1,0.31,hugLbBZl-xKD5,S,4
+eIfmPq9U-BH5t,sWEO2WMp-xkXf,3jWRLXi7-7pfB,eIfmPq9U-BH5t,23,32900,Aluguel,1,sWEO2WMp-xkXf,"Educativo ",D,20000,16,1,0.61,3jWRLXi7-7pfB,N,2
+SOnjLAUo-JAyL,2oTbYTcH-NPUt,ruJQTS6X-e79F,SOnjLAUo-JAyL,29,42000,Aluguel,5,2oTbYTcH-NPUt,"Pessoal ",B,15000,10.99,1,0.36,ruJQTS6X-e79F,N,9
+cx0fHmje-zo2Y,QhIlX9du-ZevT,El0BRsoG-GZZA,cx0fHmje-zo2Y,23,24000,Aluguel,NULL,QhIlX9du-ZevT,"Pessoal ",B,9600,9.99,1,0.4,El0BRsoG-GZZA,N,4
+a43n9Xkq-CzGd,q9SYszwA-Yscn,0DIRZ5uD-kaAE,a43n9Xkq-CzGd,28,51000,Propria,2,q9SYszwA-Yscn,Pagamento_debitos,E,20400,17.74,1,0.4,0DIRZ5uD-kaAE,S,5
+YQSPRnMp-mlKs,tWeO8aS1-phFZ,H27xlEfQ-4BaU,YQSPRnMp-mlKs,23,75000,Aluguel,3,tWeO8aS1-phFZ,"Pessoal ",E,23575,14.5,1,0.31,H27xlEfQ-4BaU,N,4
+5oGJXtHa-katt,8vnvzkco-X2YX,LJPKMQsw-ZmOG,5oGJXtHa-katt,36,90000,Aluguel,7,8vnvzkco-X2YX,"Pessoal ",D,30000,15.99,1,0.33,LJPKMQsw-ZmOG,S,11
+ASdUMAT0-R5tr,GlMtpxK0-lt9q,LkpdgzQm-9B5l,ASdUMAT0-R5tr,40,158000,Aluguel,2,GlMtpxK0-lt9q,Melhora_lar,E,25000,16.82,1,0.16,LkpdgzQm-9B5l,N,16
+kKXc280Z-jHC2,mQzyCcmQ-PbRL,zHi7KuJf-87Xk,kKXc280Z-jHC2,26,135000,Aluguel,NULL,mQzyCcmQ-PbRL,"Pessoal ",B,10000,10.39,NULL,0.15,zHi7KuJf-87Xk,N,13
+eUiEGY4v-tSDP,38Z1D9cY-jOUE,vekO8KpL-bKu3,eUiEGY4v-tSDP,21,40000,Aluguel,6,38Z1D9cY-jOUE,Pagamento_debitos,C,15000,14.27,1,0.38,vekO8KpL-bKu3,N,3
+QM9wCAy3-R2xE,PInkMnXN-e5CC,xhhf77UP-28Ld,QM9wCAy3-R2xE,22,33996,Aluguel,6,PInkMnXN-e5CC,"Empreendimento ",D,15000,14.96,1,0.44,xhhf77UP-28Ld,S,4
+pQl2gzp2-dKkq,BrTgqUsm-9Cgx,vdKsnX40-uJIB,pQl2gzp2-dKkq,26,30000,Aluguel,5,BrTgqUsm-9Cgx,Pagamento_debitos,C,15000,12.84,1,0.5,vdKsnX40-uJIB,N,3
+YY98igEg-Ue8t,KAMIyway-9JN0,K4kjWnNZ-Hgje,YY98igEg-Ue8t,24,55200,Hipoteca,8,KAMIyway-9JN0,"Educativo ",C,9600,10.78,1,0.17,K4kjWnNZ-Hgje,N,4
+SxNXORPT-6Ask,UrmqA37h-T1SA,mf7YBzMJ-N7dh,SxNXORPT-6Ask,28,18000,Aluguel,9,UrmqA37h-T1SA,Melhora_lar,A,7600,8.49,1,0.42,mf7YBzMJ-N7dh,N,9
+AxR4pcE6-lZ3F,0Wloe8WD-IQF2,Cxp8QIUp-PcYJ,AxR4pcE6-lZ3F,22,58170,Aluguel,1,0Wloe8WD-IQF2,"Educativo ",A,3000,9.07,1,0.05,Cxp8QIUp-PcYJ,N,2
+C0ffx1py-dBX5,pUBfCwBJ-flW8,f5haNpKa-sSB9,C0ffx1py-dBX5,27,81300,Aluguel,3,pUBfCwBJ-flW8,"Empreendimento ",B,29000,12.69,1,0.36,f5haNpKa-sSB9,N,6
+Wenfv7K5-EGJO,7Eka3d90-fm0u,R0KTDmRg-fzbl,Wenfv7K5-EGJO,33,54000,Aluguel,17,7Eka3d90-fm0u,Pagamento_debitos,B,15000,11.86,1,0.28,R0KTDmRg-fzbl,N,7
+sWUug2GU-D8D8,r5yP87Ck-mMip,T4h0B15q-5k9w,sWUug2GU-D8D8,26,30000,Aluguel,2,r5yP87Ck-mMip,"Educativo ",B,2000,11.71,1,0.07,T4h0B15q-5k9w,N,2
+7FzcIfzu-DiL4,bWf3RF4p-bMgp,BbwSF20A-I0LG,7FzcIfzu-DiL4,23,24000,Aluguel,3,bWf3RF4p-bMgp,"Educativo ",A,5250,7.66,1,0.22,BbwSF20A-I0LG,N,3
+6vfPmChu-iHcT,7G2nTxYI-pFRt,RJZchcG0-rlhG,6vfPmChu-iHcT,24,54000,Hipoteca,8,7G2nTxYI-pFRt,"Empreendimento ",D,1500,14.42,1,0.03,RJZchcG0-rlhG,S,2
+BO52mJZy-zept,ypkhj2Kp-FD2a,rUTlgMSC-4C0P,BO52mJZy-zept,34,44000,Hipoteca,8,ypkhj2Kp-FD2a,Pagamento_debitos,C,4500,12.98,1,0.1,rUTlgMSC-4C0P,N,6
+5xQMuiSy-t5Xs,l7QhGRMT-a0GF,9qbiWH40-hYCT,5xQMuiSy-t5Xs,33,44400,Hipoteca,3,l7QhGRMT-a0GF,"Empreendimento ",C,2000,14.22,1,0.05,9qbiWH40-hYCT,S,9
+AnSJDzGh-0qhY,YPfUzn6h-0I8H,dAPK5YtY-b5f6,AnSJDzGh-0qhY,23,30000,Hipoteca,6,YPfUzn6h-0I8H,Melhora_lar,A,6725,6.99,1,0.22,dAPK5YtY-b5f6,N,3
+qrF9bHgH-Tsay,OimcX9UI-KYn8,p2ekzmLK-mHZw,qrF9bHgH-Tsay,32,36500,Aluguel,2,OimcX9UI-KYn8,Melhora_lar,A,5000,6.91,1,0.14,p2ekzmLK-mHZw,N,5
+rtTtxtFh-Tlxd,bOz03I1b-UDFm,KfsHqBOF-g7Jh,rtTtxtFh-Tlxd,29,73000,Aluguel,1,bOz03I1b-UDFm,Melhora_lar,B,20000,11.83,1,0.27,KfsHqBOF-g7Jh,N,9
+wLKMPrNu-yciO,aDfmkLpj-fd4g,iyFKEmIh-TjnW,wLKMPrNu-yciO,26,58650,Hipoteca,3,aDfmkLpj-fd4g,"Medico ",C,17500,NULL,1,0.25,iyFKEmIh-TjnW,N,4
+gFOTj59b-BHAi,rehqqY4H-3eSR,dwbQa3eC-Davr,gFOTj59b-BHAi,28,29000,Aluguel,6,rehqqY4H-3eSR,"Educativo ",C,13000,14.26,1,0.45,dwbQa3eC-Davr,S,8
+O4TKmOGv-8PCv,QFkCfOub-RpoS,7vYgqcHn-0jJ3,O4TKmOGv-8PCv,45,56000,Hipoteca,8,QFkCfOub-RpoS,Pagamento_debitos,D,7000,16.29,1,0.13,7vYgqcHn-0jJ3,S,12
+vxDOtxGp-EA03,mMd1RsKI-o8ih,MKp7rJDv-qkJJ,vxDOtxGp-EA03,24,64000,Aluguel,7,mMd1RsKI-o8ih,Pagamento_debitos,D,3000,15.21,1,0.05,MKp7rJDv-qkJJ,N,4
+o9Yn2ZsZ-OAmM,c3mEtu6o-H9ec,IW9tvdff-aEx5,o9Yn2ZsZ-OAmM,24,40000,Aluguel,NULL,c3mEtu6o-H9ec,"Pessoal ",D,3000,17.27,1,0.07,IW9tvdff-aEx5,S,2
+r5kiIJRS-vQir,hpgMqDUt-GjkO,mo0bHkeK-zmL1,r5kiIJRS-vQir,24,87220,Hipoteca,7,hpgMqDUt-GjkO,"Empreendimento ",C,8000,NULL,1,0.09,mo0bHkeK-zmL1,S,3
+hFHTJ1IN-H8Tq,jOQWMKd1-EYSX,Lz1H96x0-UYtj,hFHTJ1IN-H8Tq,22,31800,Aluguel,NULL,jOQWMKd1-EYSX,Pagamento_debitos,A,12000,5.42,1,0.38,Lz1H96x0-UYtj,N,2
+o2fDbf9w-4CDl,fqmSY2as-eTvY,Ba4cG0nZ-2IS5,o2fDbf9w-4CDl,25,59000,Hipoteca,9,fqmSY2as-eTvY,"Educativo ",B,20000,11.36,1,0.34,Ba4cG0nZ-2IS5,N,2
+MgTCjtdx-rRCK,Oy86Xnl3-TxEr,DlrYStU3-PHPm,MgTCjtdx-rRCK,36,88000,Hipoteca,1,Oy86Xnl3-TxEr,Pagamento_debitos,C,7750,13.23,1,0.09,DlrYStU3-PHPm,N,14
+vGka2NTK-Pzva,IlM6lhiv-azl3,iApKsBjC-pvLX,vGka2NTK-Pzva,28,59004,Hipoteca,1,IlM6lhiv-azl3,"Pessoal ",A,8000,7.37,1,0.14,iApKsBjC-pvLX,N,6
+vUD6etQb-ynG7,1gf1Ukmb-bZHM,4FZRyPF4-Jmom,vUD6etQb-ynG7,21,20000,Aluguel,2,1gf1Ukmb-bZHM,"Empreendimento ",A,9500,8.9,1,0.47,4FZRyPF4-Jmom,N,4
+U9iTiUHO-cTz3,Dvy8LZpB-NoWO,SkljlXur-6eWu,U9iTiUHO-cTz3,26,24000,Aluguel,1,Dvy8LZpB-NoWO,Pagamento_debitos,C,7750,14.35,1,0.32,SkljlXur-6eWu,N,3
+yRKZidEa-h9k5,4Ct8TtMw-2R1v,tC2hz6uz-FE81,yRKZidEa-h9k5,24,54000,Hipoteca,1,4Ct8TtMw-2R1v,Pagamento_debitos,A,1500,5.42,1,0.03,tC2hz6uz-FE81,N,3
+JbeZvHTA-FaNy,Ol2r93Od-REpt,4HoQ7ivd-lu28,JbeZvHTA-FaNy,42,101000,Hipoteca,6,Ol2r93Od-REpt,Pagamento_debitos,F,25000,16.15,1,0.25,4HoQ7ivd-lu28,S,14
+ggBWWfDh-fk99,G1JBCWCt-q5y5,vmYhlsSc-f1GI,ggBWWfDh-fk99,21,12000,Aluguel,5,G1JBCWCt-q5y5,"Empreendimento ",B,5000,11.49,1,0.42,vmYhlsSc-f1GI,N,2
+042HuhgK-vW5P,4xbO6IZz-vMtR,GBmyQhRK-qlmS,042HuhgK-vW5P,22,38004,Aluguel,5,4xbO6IZz-vMtR,"Educativo ",B,12000,10.75,1,0.32,GBmyQhRK-qlmS,N,3
+l5lpOGvx-7v0s,3lrkM0MM-RAaf,D7nPnymK-8hlo,l5lpOGvx-7v0s,26,69000,Hipoteca,10,3lrkM0MM-RAaf,Pagamento_debitos,D,6200,15.99,1,0.09,D7nPnymK-8hlo,S,3
+ZFSYCywr-GiYb,JysRYOCO-Nmvv,lyknJwfo-NCcS,ZFSYCywr-GiYb,24,33996,Aluguel,1,JysRYOCO-Nmvv,Pagamento_debitos,C,7000,13.16,1,0.21,lyknJwfo-NCcS,N,3
+8jTNlIYs-Psn1,5iPD70qL-ogHY,5226Z2NU-DMIn,8jTNlIYs-Psn1,28,18000,Aluguel,NULL,5iPD70qL-ogHY,"Empreendimento ",B,4000,11.12,1,0.22,5226Z2NU-DMIn,N,8
+n97WMvXA-bpZq,vXF6BcQ4-HksM,Kw1bujJi-s4Mv,n97WMvXA-bpZq,28,64000,Hipoteca,10,vXF6BcQ4-HksM,Melhora_lar,E,6000,16.45,1,0.09,Kw1bujJi-s4Mv,S,9
+Mv4fCdsw-xB7l,d97WEz2Z-htpH,NtjEAmru-ywA6,Mv4fCdsw-xB7l,32,44400,Aluguel,13,d97WEz2Z-htpH,"Medico ",A,15000,7.88,1,0.34,NtjEAmru-ywA6,N,9
+5Biwhbwj-RNoo,rZOMahFK-S6oJ,XDtcsnwe-obAO,5Biwhbwj-RNoo,23,30680,Aluguel,7,rZOMahFK-S6oJ,Pagamento_debitos,B,10000,10.37,1,0.33,XDtcsnwe-obAO,N,4
+9QNWUEx1-ciJK,ESF6XdD1-ysZG,iWUfSjfd-QX5h,9QNWUEx1-ciJK,24,85850,Hipoteca,8,ESF6XdD1-ysZG,"Medico ",D,20000,NULL,1,0.2,iWUfSjfd-QX5h,S,4
+JtM6twGq-PygI,0BnnMGMQ-jLq8,CkljybS6-WAvm,JtM6twGq-PygI,28,11029,Hipoteca,12,0BnnMGMQ-jLq8,Pagamento_debitos,C,2150,10.78,1,0.19,CkljybS6-WAvm,S,6
+RoCXGSxX-xfMk,slkTdQNB-Amvp,o6AjEo6C-4Umr,RoCXGSxX-xfMk,25,55315,Aluguel,3,slkTdQNB-Amvp,"Educativo ",B,NULL,10.25,NULL,0.24,o6AjEo6C-4Umr,N,2
+tnPw3LPK-DHnb,b9oKYmN6-rspB,micFxcRH-NeCS,tnPw3LPK-DHnb,22,44000,Aluguel,1,b9oKYmN6-rspB,"Educativo ",E,16000,16.35,1,0.36,micFxcRH-NeCS,N,3
+ulxnvgRe-DjXy,KhzUt8Y1-3tZk,pZy1r0y2-0n1a,ulxnvgRe-DjXy,33,18996,Aluguel,5,KhzUt8Y1-3tZk,Pagamento_debitos,D,3250,16.32,1,0.17,pZy1r0y2-0n1a,N,7
+8Q8nwch7-eQM5,qbChGyUB-oZZi,7lP2dylU-agEU,8Q8nwch7-eQM5,25,49000,Aluguel,9,qbChGyUB-oZZi,Melhora_lar,A,10000,6.62,1,0.2,7lP2dylU-agEU,N,4
+SFBialn9-ZOWH,OrGdLQSq-F9ZM,mK88qIGM-045G,SFBialn9-ZOWH,25,29000,Aluguel,9,OrGdLQSq-F9ZM,"Medico ",B,1000,11.99,1,0.03,mK88qIGM-045G,N,2
+kibcahbs-BrNu,ZLpvAUsK-Pzj7,fe46jl1l-F7JQ,kibcahbs-BrNu,37,58000,Aluguel,9,ZLpvAUsK-Pzj7,"Empreendimento ",B,18200,10.99,1,0.31,fe46jl1l-F7JQ,N,17
+KX9nurGm-G1C5,9cpMlCU6-H6ie,nqJjNbwI-Oarb,KX9nurGm-G1C5,25,59600,Hipoteca,5,9cpMlCU6-H6ie,"Educativo ",E,6000,16.45,1,0.1,nqJjNbwI-Oarb,N,4
+zyGQmI1v-kxO9,6OaqsYkn-21f8,TAirnpRC-xRpg,zyGQmI1v-kxO9,24,56100,Aluguel,7,6OaqsYkn-21f8,"Medico ",D,25000,16.49,1,0.38,TAirnpRC-xRpg,N,4
+r45UCnjW-q11L,AtaFdR9B-stfc,v1QnCyCW-5ZkZ,r45UCnjW-q11L,26,47000,Aluguel,7,AtaFdR9B-stfc,"Pessoal ",A,15000,7.9,1,0.32,v1QnCyCW-5ZkZ,N,3
+qhNnEbF8-zFfg,TXiS0ILB-NaZS,8bdWE4bN-8KjI,qhNnEbF8-zFfg,27,74000,Hipoteca,3,TXiS0ILB-NaZS,"Pessoal ",B,25000,11.46,1,0.34,8bdWE4bN-8KjI,N,5
+mzU9wrnn-FBiJ,KZOpLbD0-3aHk,sGx5a3Jm-5f9w,mzU9wrnn-FBiJ,28,128000,Hipoteca,11,KZOpLbD0-3aHk,Pagamento_debitos,G,14400,22.11,1,0.11,sGx5a3Jm-5f9w,S,8
+WZan9qx8-HP1z,5CQo5jg0-IDGd,CzgFiscR-IvxI,WZan9qx8-HP1z,39,23000,Aluguel,NULL,5CQo5jg0-IDGd,"Medico ",A,7200,NULL,1,0.31,CzgFiscR-IvxI,N,17
+IlaEdIIe-zQx6,T37irvpm-Xh8q,EOmrPbdt-I2tF,IlaEdIIe-zQx6,23,72000,Hipoteca,5,T37irvpm-Xh8q,"Educativo ",F,19000,NULL,1,0.26,EOmrPbdt-I2tF,S,2
+t2Ua3Uzk-4urD,7LR4fG2u-qxJl,qxuww2qj-9Sgz,t2Ua3Uzk-4urD,29,51996,Aluguel,13,7LR4fG2u-qxJl,"Empreendimento ",D,20000,NULL,1,0.38,qxuww2qj-9Sgz,S,5
+Hqd9HHgA-cYYs,U1kZJj0F-cd8v,kmQtKIgg-NxNX,Hqd9HHgA-cYYs,22,18000,Aluguel,6,U1kZJj0F-cd8v,"Medico ",B,4000,11.49,1,0.22,kmQtKIgg-NxNX,N,4
+GRftilNe-rl5w,9cYRNqnU-maNK,APWQhSRD-zCPn,GRftilNe-rl5w,25,47000,Hipoteca,9,9cYRNqnU-maNK,"Educativo ",A,12000,6.62,1,0.26,APWQhSRD-zCPn,N,2
+60Pb2B0X-FCkA,FnFP9Odm-x9K0,k8oPyngs-TP3w,60Pb2B0X-FCkA,25,128000,Hipoteca,4,FnFP9Odm-x9K0,Melhora_lar,B,10000,11.58,1,0.08,k8oPyngs-TP3w,N,2
+yMqn12kg-bCaJ,3X0RurEq-78Yy,LhMeo4ZK-l8L4,yMqn12kg-bCaJ,24,42856,Aluguel,8,3X0RurEq-78Yy,Pagamento_debitos,A,16000,8.9,1,0.37,LhMeo4ZK-l8L4,N,3
+qds8tWhO-LZpG,Piorghiq-AFfv,McQiI7Ui-JIh6,qds8tWhO-LZpG,30,20000,Aluguel,1,Piorghiq-AFfv,"Pessoal ",B,3000,11.49,1,0.15,McQiI7Ui-JIh6,N,8
+IXbf2HTw-8xyI,Wve4F7mi-P4vm,JdxtlgDW-xPJT,IXbf2HTw-8xyI,26,51996,Hipoteca,2,Wve4F7mi-P4vm,"Medico ",E,6500,15.68,1,0.13,JdxtlgDW-xPJT,N,4
+bAmHfqDX-x2gk,rY6jsIYq-ceLi,8UikRwu1-TFGJ,bAmHfqDX-x2gk,22,64000,Aluguel,7,rY6jsIYq-ceLi,"Educativo ",C,12000,12.87,1,0.19,8UikRwu1-TFGJ,S,2
+fu1KyqfP-s3fb,bQkw1NeQ-meKR,8xsTWa0M-bRBl,fu1KyqfP-s3fb,26,73000,Hipoteca,3,bQkw1NeQ-meKR,Pagamento_debitos,D,10000,14.09,1,0.14,8xsTWa0M-bRBl,N,3
+hNzLtZxI-CyTx,DHKaM2SY-KOxX,R3aXkcJ0-ZtrE,hNzLtZxI-CyTx,31,14400,Aluguel,3,DHKaM2SY-KOxX,Melhora_lar,D,4750,14.59,1,0.33,R3aXkcJ0-ZtrE,S,8
+tpWGDOhX-XHuX,pUn5OG99-CU19,vPWy61lj-nC0O,tpWGDOhX-XHuX,38,30500,Aluguel,8,pUn5OG99-CU19,"Educativo ",C,10000,14.22,1,0.33,vPWy61lj-nC0O,N,12
+1JAKxEAY-qEMF,350wkXlk-hzlW,Di8Gkm9Z-RDT3,1JAKxEAY-qEMF,27,19200,Propria,3,350wkXlk-hzlW,"Pessoal ",A,8000,8.9,1,0.42,Di8Gkm9Z-RDT3,N,8
+iorGIEHJ-d9t4,zcs2b7bq-Bm20,ovFYPtXP-GHzl,iorGIEHJ-d9t4,32,74000,Hipoteca,16,zcs2b7bq-Bm20,"Educativo ",B,13650,12.42,1,0.18,ovFYPtXP-GHzl,N,10
+axSgQ2iw-8Jtk,a0oGXLYi-LfIK,b78tGkvQ-FpHL,axSgQ2iw-8Jtk,21,52700,Hipoteca,4,a0oGXLYi-LfIK,"Medico ",D,26400,16.49,1,0.43,b78tGkvQ-FpHL,N,3
+ESon67IE-GZGY,7XtWtPZ2-o8Cq,CDhLNQ1q-rACW,ESon67IE-GZGY,23,60000,Aluguel,2,7XtWtPZ2-o8Cq,"Empreendimento ",B,23000,12.18,1,0.38,CDhLNQ1q-rACW,N,4
+pvswp0NR-dytm,ZiHhhRNn-kiqT,We0DtyC5-j5Aw,pvswp0NR-dytm,22,30996,Aluguel,6,ZiHhhRNn-kiqT,"Educativo ",A,8000,7.14,1,0.26,We0DtyC5-j5Aw,N,4
+wiH0RhFF-QU0r,OfUL4hGz-n27I,oa0WvFnQ-OGpC,wiH0RhFF-QU0r,21,17000,Aluguel,3,OfUL4hGz-n27I,"Medico ",A,5750,8.9,1,0.34,oa0WvFnQ-OGpC,N,2
+bkbYKh1q-juyE,7pOEvYug-8TQR,TXDJu0vR-moH2,bkbYKh1q-juyE,37,12360,Aluguel,3,7pOEvYug-8TQR,"Educativo ",B,4000,9.99,1,0.32,TXDJu0vR-moH2,N,13
+mJGTDjik-rUWE,JbW9lIsa-oNhR,KRrqfEh9-3Fgn,mJGTDjik-rUWE,22,74000,Aluguel,3,JbW9lIsa-oNhR,Pagamento_debitos,C,5000,13.49,1,0.07,KRrqfEh9-3Fgn,S,4
+98JEbmJX-kzKm,560kgZLU-KoG1,426WFG4W-n1kb,98JEbmJX-kzKm,23,43200,Aluguel,2,560kgZLU-KoG1,"Empreendimento ",D,9100,13.24,1,0.21,426WFG4W-n1kb,N,2
+PeFt5OkC-8LZj,9EcIwelK-DZlw,MjbLuWwr-Y94W,PeFt5OkC-8LZj,38,86105,Aluguel,2,9EcIwelK-DZlw,"Medico ",A,8000,6.54,1,0.08,MjbLuWwr-Y94W,N,17
+jBhFvszu-Ywrc,YCcurNCi-13IO,CXKN6Fkm-dvwe,jBhFvszu-Ywrc,24,55000,Hipoteca,8,YCcurNCi-13IO,"Educativo ",B,6000,11.99,1,0.11,CXKN6Fkm-dvwe,N,2
+3vLM1QJq-mjX5,0qHizvT8-hnl9,Sxp8MP9z-99nB,3vLM1QJq-mjX5,29,136000,Hipoteca,4,0qHizvT8-hnl9,Pagamento_debitos,D,7775,14.96,1,0.06,Sxp8MP9z-99nB,S,5
+fGn08QII-obnT,X7sRJlzn-z9UG,YG1IO19x-03Iw,fGn08QII-obnT,29,71400,Hipoteca,1,X7sRJlzn-z9UG,"Medico ",A,8000,8.49,1,0.1,YG1IO19x-03Iw,N,10
+j48dwayy-tbI2,8vnMateK-iEmS,XR5bg2Ox-nb8g,j48dwayy-tbI2,34,54000,Aluguel,2,8vnMateK-iEmS,Melhora_lar,D,15000,14.11,1,0.28,XR5bg2Ox-nb8g,S,7
+hW4RLU1w-HkmL,6LsrMZqk-BXwo,xurACCGE-ot2i,hW4RLU1w-HkmL,32,80000,Aluguel,2,6LsrMZqk-BXwo,"Empreendimento ",B,25000,NULL,1,0.31,xurACCGE-ot2i,N,8
+QW5FluDv-mkAu,rL2cQQyu-pB7q,9TNMw8Os-skxC,QW5FluDv-mkAu,29,42000,Aluguel,6,rL2cQQyu-pB7q,Pagamento_debitos,D,10800,16.29,1,0.26,9TNMw8Os-skxC,S,7
+5IWCwkAL-G0kr,mz0FOsFc-53Sd,fdSZYDzn-qTh2,5IWCwkAL-G0kr,25,101424,Aluguel,6,mz0FOsFc-53Sd,"Pessoal ",A,4000,NULL,NULL,0.15,fdSZYDzn-qTh2,N,2
+Uq1wZoMr-GGMD,kSto3r9Y-G3dt,ozMNJLwk-F7Je,Uq1wZoMr-GGMD,22,18000,Aluguel,1,kSto3r9Y-G3dt,Melhora_lar,B,7000,10.65,1,0.39,ozMNJLwk-F7Je,N,2
+hd3l7ano-WJEG,8rcqDkI3-vHHI,ejLjHOjl-sb9G,hd3l7ano-WJEG,28,16800,Propria,NULL,8rcqDkI3-vHHI,"Medico ",C,5000,13.98,1,0.3,ejLjHOjl-sb9G,N,8
+NeJT8RSM-qxJc,pDEdSISa-juyr,dHbd1n2m-rQXh,NeJT8RSM-qxJc,25,60000,Aluguel,5,pDEdSISa-juyr,"Educativo ",A,21450,7.29,1,0.36,dHbd1n2m-rQXh,N,4
+BobM1zzK-Gm4R,paMstnLI-oIKO,lm28knnu-G88m,BobM1zzK-Gm4R,23,21000,Aluguel,3,paMstnLI-oIKO,Pagamento_debitos,D,3750,15.65,1,0.18,lm28knnu-G88m,N,2
+uMI5lnzZ-YqUr,bzfrW7od-6cXU,5yCsTgGs-EkEf,uMI5lnzZ-YqUr,30,98000,Aluguel,14,bzfrW7od-6cXU,"Pessoal ",C,8525,10.78,1,0.09,5yCsTgGs-EkEf,N,9
+HkHNmRzg-l7R3,q4G58ipY-icSY,PhgEkPRk-G5Sj,HkHNmRzg-l7R3,30,163000,Hipoteca,15,q4G58ipY-icSY,"Pessoal ",B,3500,10.65,1,0.02,PhgEkPRk-G5Sj,N,8
+9XuvJ5No-cd6d,E0r8zWx1-OBzO,1jC8Dzn6-i5Ue,9XuvJ5No-cd6d,28,50400,Aluguel,8,E0r8zWx1-OBzO,"Empreendimento ",D,18500,16.02,1,0.37,1jC8Dzn6-i5Ue,N,6
+DbdInuY2-ztS6,W7Lj234a-D83d,rGmjwjjJ-5sdZ,DbdInuY2-ztS6,24,22680,Aluguel,9,W7Lj234a-D83d,"Empreendimento ",B,7000,10.62,1,0.31,rGmjwjjJ-5sdZ,N,2
+wEp57UeY-FCBD,DjqX0YGS-lXWz,b5rknE2C-lGQ5,wEp57UeY-FCBD,30,72000,Aluguel,5,DjqX0YGS-lXWz,"Empreendimento ",D,25000,16.32,1,0.35,b5rknE2C-lGQ5,S,5
+nckksXdQ-nNvq,IZhSANHW-l8Ib,0d6TELvH-fHhZ,nckksXdQ-nNvq,24,88400,Aluguel,8,IZhSANHW-l8Ib,"Medico ",D,5000,NULL,1,0.05,0d6TELvH-fHhZ,N,4
+INkEF4a2-P3u9,LirBtryD-C6sy,fSmdnKrp-twI5,INkEF4a2-P3u9,36,43000,Aluguel,12,LirBtryD-C6sy,Pagamento_debitos,D,13600,15.58,1,0.32,fSmdnKrp-twI5,S,12
+Ced2oNPi-ewdX,YEBtNsms-GBwx,d5H8TkhC-FMsO,Ced2oNPi-ewdX,24,21600,Aluguel,NULL,YEBtNsms-GBwx,"Empreendimento ",C,6500,14.79,1,0.3,d5H8TkhC-FMsO,S,4
+OhMZzx3v-OG9k,7Dic0l3y-x31N,3FQDN6mp-jaa2,OhMZzx3v-OG9k,31,27000,Aluguel,7,7Dic0l3y-x31N,Melhora_lar,A,6000,8.94,1,0.22,3FQDN6mp-jaa2,N,6
+RfP6X6pT-nBQw,1zTS7CTR-Ewbg,nOHeKTHz-R3m9,RfP6X6pT-nBQw,23,29000,Aluguel,4,1zTS7CTR-Ewbg,"Medico ",D,13450,12.61,1,0.46,nOHeKTHz-R3m9,N,3
+nuQn8NiU-j35Y,qXY684sv-SPNM,tscbRj2y-73tm,nuQn8NiU-j35Y,25,37560,Aluguel,2,qXY684sv-SPNM,Pagamento_debitos,F,12500,18.62,1,0.33,tscbRj2y-73tm,N,3
+Tahda0of-tGdx,rlynsbSt-qkeE,tQU1oEcw-1Ho1,Tahda0of-tGdx,34,54000,Aluguel,5,rlynsbSt-qkeE,"Medico ",D,3000,15.37,1,0.06,tQU1oEcw-1Ho1,S,6
+XrWInuul-i4hx,xEbkCaJg-w9kI,Z4qN9K99-IRDr,XrWInuul-i4hx,27,78000,Aluguel,6,xEbkCaJg-w9kI,Pagamento_debitos,D,17200,17.49,1,0.22,Z4qN9K99-IRDr,S,7
+Ex8zW3rb-dALo,CrFYH6jS-0hcn,Fu7bjcbX-HrGd,Ex8zW3rb-dALo,22,48000,Aluguel,1,CrFYH6jS-0hcn,"Pessoal ",C,14000,13.92,1,0.29,Fu7bjcbX-HrGd,N,3
+geGND1h5-BXlu,Yfe8w0J3-OLKI,np4lGNZm-ElJO,geGND1h5-BXlu,25,110000,Hipoteca,9,Yfe8w0J3-OLKI,Pagamento_debitos,D,12000,15.99,1,0.11,np4lGNZm-ElJO,N,3
+hjqImzH1-eLYz,fuxPwc5O-W3dU,2DR9fs9g-Yxcf,hjqImzH1-eLYz,22,23800,Aluguel,2,fuxPwc5O-W3dU,"Pessoal ",A,8800,9.32,1,0.37,2DR9fs9g-Yxcf,N,2
+msucpsXN-tljf,emmXTK8G-Wab5,xB6J7ppL-jRx3,msucpsXN-tljf,22,40000,Aluguel,6,emmXTK8G-Wab5,"Educativo ",C,14000,13.11,1,0.35,xB6J7ppL-jRx3,S,3
+0uixlYf3-Qrkg,SiR4uz9p-efCO,1A7tM75o-CDcF,0uixlYf3-Qrkg,45,47000,Aluguel,13,SiR4uz9p-efCO,"Medico ",E,15000,16.4,1,0.32,1A7tM75o-CDcF,S,11
+1ZfZsd8O-Ey7Y,mvU3xnJw-RdG9,hgZ7F8fJ-2KMY,1ZfZsd8O-Ey7Y,24,238000,Hipoteca,2,mvU3xnJw-RdG9,Pagamento_debitos,A,7000,7.66,1,0.03,hgZ7F8fJ-2KMY,N,2
+JMsbJPg6-eLk6,P9CDj6Sj-Xu1Y,IEMzIqZc-oJBW,JMsbJPg6-eLk6,25,32400,Aluguel,1,P9CDj6Sj-Xu1Y,"Educativo ",C,2000,14.35,1,0.06,IEMzIqZc-oJBW,N,2
+iy0ciRWR-ksfs,0xQFkQy9-93Ur,5RHLc9x6-fGDX,iy0ciRWR-ksfs,50,NULL,Hipoteca,5,0xQFkQy9-93Ur,"Empreendimento ",A,NULL,19.29,1,0.33,5RHLc9x6-fGDX,N,3
+R1XSHeFF-ZtOy,WelrLng2-vE3q,eb2MgipU-BLA2,R1XSHeFF-ZtOy,23,25920,Aluguel,4,WelrLng2-vE3q,"Pessoal ",D,10000,15.58,1,0.39,eb2MgipU-BLA2,N,4
+O4GKW8yr-c00p,TOL70hGg-Asys,mnnrQWXE-iHiu,O4GKW8yr-c00p,33,54000,Hipoteca,3,TOL70hGg-Asys,"Educativo ",F,16000,18.67,1,0.3,mnnrQWXE-iHiu,S,10
+G88Iwkqa-KezG,r6xQIbIu-Ye9D,FeAzcw2h-kho5,G88Iwkqa-KezG,37,30000,Aluguel,7,r6xQIbIu-Ye9D,"Pessoal ",B,10000,9.25,1,0.33,FeAzcw2h-kho5,N,13
+kAPHixiN-iWt5,T0JY4ejM-HbS6,9HPKWyIx-aC0e,kAPHixiN-iWt5,22,44307,Aluguel,6,T0JY4ejM-HbS6,Melhora_lar,B,10000,11.36,1,0.23,9HPKWyIx-aC0e,N,2
+2rjOROlp-6aqe,2Y2TGrwj-Je3s,wLvaCyJv-G07a,2rjOROlp-6aqe,23,37000,Aluguel,7,2Y2TGrwj-Je3s,"Educativo ",B,3000,10.75,1,0.08,wLvaCyJv-G07a,N,4
+5tqSKiSf-e1Rj,Ytbm8mPI-JUZJ,DPNxByMF-khaG,5tqSKiSf-e1Rj,23,92004,Aluguel,6,Ytbm8mPI-JUZJ,"Medico ",C,30000,15.23,1,0.33,DPNxByMF-khaG,S,2
+xe69tJ1C-zhAW,3MZe8jlH-tPpP,fOMMgnNT-ysI6,xe69tJ1C-zhAW,31,31323,Hipoteca,6,3MZe8jlH-tPpP,Pagamento_debitos,C,4500,NULL,NULL,0.11,fOMMgnNT-ysI6,S,6
+DO2eaTSD-oANO,77Affnnp-B5rn,4yUM55L0-dqXQ,DO2eaTSD-oANO,22,32400,Aluguel,2,77Affnnp-B5rn,"Medico ",D,10400,14.84,1,0.32,4yUM55L0-dqXQ,N,2
+rK1Us5xg-CYBF,v6lNOQy1-QJor,6r1HJkCX-ZGEp,rK1Us5xg-CYBF,23,61836,Hipoteca,4,v6lNOQy1-QJor,Pagamento_debitos,D,1700,16.77,1,0.03,6r1HJkCX-ZGEp,N,4
+Irgl5vCX-R6Jn,mIAEMbtS-MErv,YU6CiH9Y-LOyb,Irgl5vCX-R6Jn,40,52000,Hipoteca,6,mIAEMbtS-MErv,Melhora_lar,C,7000,14.65,1,0.13,YU6CiH9Y-LOyb,N,14
+71FUYsqj-e7oA,lGb8yKX5-Ep4g,ORK0XWqr-2r1i,71FUYsqj-e7oA,29,58500,Aluguel,1,lGb8yKX5-Ep4g,"Medico ",D,22000,13.67,1,0.38,ORK0XWqr-2r1i,N,6
+12axshiw-Dg7O,0BiyHrGU-5xfd,hozutuqa-pilB,12axshiw-Dg7O,29,28000,Aluguel,2,0BiyHrGU-5xfd,"Pessoal ",D,5000,16.07,1,0.18,hozutuqa-pilB,N,8
+CTK60uAU-77X0,oaFXUu1R-QiWy,zRIjdoNv-lemT,CTK60uAU-77X0,25,49200,Aluguel,NULL,oaFXUu1R-QiWy,"Empreendimento ",D,18250,14.83,1,0.37,zRIjdoNv-lemT,N,3
+ROZYPg5M-rRZ8,y5Cv0UZX-lpqt,6JKbX04h-vSDt,ROZYPg5M-rRZ8,36,60072,Aluguel,14,y5Cv0UZX-lpqt,Melhora_lar,B,2500,11.49,1,0.04,6JKbX04h-vSDt,N,16
+RsgzwCfH-5jsG,L3N1ukH1-HctB,PI07luxQ-3tY7,RsgzwCfH-5jsG,23,30000,Hipoteca,7,L3N1ukH1-HctB,Melhora_lar,A,2200,NULL,1,0.07,PI07luxQ-3tY7,N,3
+jBOnAjEQ-z20s,5h2xJ1OB-T1OM,2OunmCfT-Wrkv,jBOnAjEQ-z20s,40,34500,Aluguel,2,5h2xJ1OB-T1OM,"Pessoal ",D,5400,12.61,1,0.16,2OunmCfT-Wrkv,N,13
+kewXpiUp-jnm0,x1spAXaQ-cnRw,rtTX2iD2-TUIx,kewXpiUp-jnm0,26,18000,Aluguel,2,x1spAXaQ-cnRw,Pagamento_debitos,C,8500,14.27,1,0.47,rtTX2iD2-TUIx,N,3
+icUd66xk-ffKw,3C3uMleh-1SSU,2FcspddI-MHLA,icUd66xk-ffKw,24,79631,Aluguel,8,3C3uMleh-1SSU,"Pessoal ",D,25000,15.7,1,0.31,2FcspddI-MHLA,S,2
+XO5U4W0e-OqRW,rAtk3R9Y-TBlq,alFkQLUi-LiDY,XO5U4W0e-OqRW,37,21600,Aluguel,4,rAtk3R9Y-TBlq,Pagamento_debitos,D,3800,NULL,1,0.18,alFkQLUi-LiDY,S,13
+MjQvtemE-zgyu,2ToC22Gf-74mo,cXDvF0Lu-iLmA,MjQvtemE-zgyu,29,30000,Aluguel,3,2ToC22Gf-74mo,Pagamento_debitos,C,3000,NULL,1,0.1,cXDvF0Lu-iLmA,S,6
+WB9YiD35-9yL6,GJY59Lsb-zGMG,yKLtaZ9x-hp5s,WB9YiD35-9yL6,28,58650,Aluguel,13,GJY59Lsb-zGMG,"Medico ",B,20000,10.59,1,0.29,yKLtaZ9x-hp5s,N,8
+Pq2zTs95-5NQG,TdRcGDR6-2bua,5f6xWGuZ-AAXN,Pq2zTs95-5NQG,23,44000,Aluguel,1,TdRcGDR6-2bua,"Educativo ",E,13000,18.39,1,0.3,5f6xWGuZ-AAXN,S,3
+BnNjPSBT-jrrd,4cDCyCWa-6A9u,G1asYtc9-fdje,BnNjPSBT-jrrd,31,34000,Aluguel,2,4cDCyCWa-6A9u,Melhora_lar,D,7500,15.58,1,0.22,G1asYtc9-fdje,N,5
+WS6MFwa5-DIZQ,ERin3X3Q-50wo,Gk3qnS2M-r3Fh,WS6MFwa5-DIZQ,NULL,NULL,Aluguel,1,ERin3X3Q-50wo,"Pessoal ",A,7000,13.16,1,0.21,Gk3qnS2M-r3Fh,N,3
+DO3Wn3sP-DRvn,Igp7B2sJ-fIgc,21I8yCJS-E5QJ,DO3Wn3sP-DRvn,23,34255,Aluguel,7,Igp7B2sJ-fIgc,"Empreendimento ",G,6000,22.11,1,0.18,21I8yCJS-E5QJ,S,3
+zqYTS9m7-7xUi,IRdzE2Pj-ddZY,pBgvsNTE-HRHl,zqYTS9m7-7xUi,NULL,168000,Aluguel,2,IRdzE2Pj-ddZY,Melhora_lar,E,10000,13.57,NULL,0.16,pBgvsNTE-HRHl,N,15
+o8MJQJNE-Finv,ffr3kplw-61FF,GhYJdT43-IBBK,o8MJQJNE-Finv,27,98000,Aluguel,11,ffr3kplw-61FF,Melhora_lar,D,20000,16,1,0.2,GhYJdT43-IBBK,N,8
+eN3jng2O-YFQz,OpiIRh8R-YP8J,rBNINuvR-y0IB,eN3jng2O-YFQz,23,9600,Aluguel,3,OpiIRh8R-YP8J,Pagamento_debitos,B,2100,10.62,1,0.22,rBNINuvR-y0IB,N,3
+fdb7naaj-0EfB,ZEsBzrWt-mmte,EPyK7BKn-yPoO,fdb7naaj-0EfB,29,38004,Aluguel,2,ZEsBzrWt-mmte,"Pessoal ",C,1500,12.53,1,0.04,EPyK7BKn-yPoO,S,7
+ZmrSRhAD-8bJX,W9jjtK9v-7K4W,av5l7RKP-SJar,ZmrSRhAD-8bJX,22,24000,Aluguel,1,W9jjtK9v-7K4W,"Pessoal ",C,15000,12.73,1,0.63,av5l7RKP-SJar,S,4
+8kwQORpo-p5LF,QNIR7QNx-xILP,XDH0cJ8d-1y4e,8kwQORpo-p5LF,23,42000,Hipoteca,7,QNIR7QNx-xILP,"Educativo ",A,10500,7.66,1,0.25,XDH0cJ8d-1y4e,N,2
+rfb33oD5-xnid,AcPlTlkt-ANQF,vMDflHvo-St29,rfb33oD5-xnid,22,33600,Aluguel,6,AcPlTlkt-ANQF,"Pessoal ",D,9000,NULL,1,0.27,vMDflHvo-St29,N,4
+mHJOfNs6-q928,JwUMNUdT-5PKf,Dc9KvkYH-CNtQ,mHJOfNs6-q928,22,31000,Aluguel,4,JwUMNUdT-5PKf,"Pessoal ",A,10000,NULL,1,0.32,Dc9KvkYH-CNtQ,N,4
+Dp12Q2Jx-0tWP,uXvCQ4tU-X7Tu,EW4fhjGD-ExsZ,Dp12Q2Jx-0tWP,21,30000,Aluguel,5,uXvCQ4tU-X7Tu,"Empreendimento ",B,10000,11.99,1,0.33,EW4fhjGD-ExsZ,N,4
+gfdarnoi-TCrS,tERMsxMh-bslI,u8cxqJmY-Q82Z,gfdarnoi-TCrS,23,42000,Aluguel,2,tERMsxMh-bslI,"Pessoal ",C,6000,12.41,1,0.14,u8cxqJmY-Q82Z,N,4
+0b6mt3Tm-aFBt,l133EYit-M38k,BDSTvLie-vSst,0b6mt3Tm-aFBt,25,113000,Aluguel,8,l133EYit-M38k,Pagamento_debitos,B,14400,11.71,1,0.13,BDSTvLie-vSst,N,4
+JGBjDgjR-zlhy,x5L8gNy8-W1sK,KXBxeSun-u3KL,JGBjDgjR-zlhy,24,29000,Aluguel,2,x5L8gNy8-W1sK,"Medico ",D,2500,NULL,1,0.09,KXBxeSun-u3KL,N,4
+N1DlWdlA-hJaF,ZukWobxi-Zt1p,4HfxWeTh-qf2k,N1DlWdlA-hJaF,24,56100,Hipoteca,4,ZukWobxi-Zt1p,"Medico ",D,4900,15.95,1,0.07,4HfxWeTh-qf2k,S,4
+rZTgakws-cJAO,bMiEbIRW-9EcE,N5Qls6LM-x1n6,rZTgakws-cJAO,25,32000,Aluguel,9,bMiEbIRW-9EcE,"Empreendimento ",C,5000,14.27,1,0.16,N5Qls6LM-x1n6,S,4
+iqNKleOF-7Ln7,7mUeDRt6-uO7w,YBfW5AR6-C5aY,iqNKleOF-7Ln7,29,28800,Aluguel,1,7mUeDRt6-uO7w,"Empreendimento ",C,4000,13.92,1,0.14,YBfW5AR6-C5aY,N,10
+GPZEs6Ru-v54c,h37QhQ8N-Hqbb,ZYn1YWOg-UMWF,GPZEs6Ru-v54c,22,30000,Aluguel,1,h37QhQ8N-Hqbb,"Medico ",C,10000,12.53,1,0.33,ZYn1YWOg-UMWF,N,4
+imxnq1vQ-90m4,fWjwxX3p-IYUl,UBRKQ3T8-XEbO,imxnq1vQ-90m4,38,83000,Aluguel,3,fWjwxX3p-IYUl,Melhora_lar,G,22250,23.22,1,0.27,UBRKQ3T8-XEbO,S,12
+YYcOgftx-OaCT,luDduPbw-YyvQ,GM6TbF12-EvMG,YYcOgftx-OaCT,29,72000,Aluguel,4,luDduPbw-YyvQ,"Educativo ",A,24000,7.66,1,0.33,GM6TbF12-EvMG,N,6
+vPBuEttg-GPWo,RtpQ77sI-2RWQ,6ksSX1nx-v3oe,vPBuEttg-GPWo,23,39000,Hipoteca,7,RtpQ77sI-2RWQ,"Empreendimento ",C,16000,14.26,1,0.41,6ksSX1nx-v3oe,N,3
+enHFeSHF-fPk6,xaCZ0isG-leAP,UNYccoet-Hyga,enHFeSHF-fPk6,24,10000,Aluguel,2,xaCZ0isG-leAP,Pagamento_debitos,B,2000,10.25,1,0.2,UNYccoet-Hyga,N,2
+3G5vmhs3-7J8O,2CbIcMuu-awfc,NDXjd9CQ-eyqe,3G5vmhs3-7J8O,21,21000,Aluguel,2,2CbIcMuu-awfc,"Educativo ",B,10000,11.71,1,0.48,NDXjd9CQ-eyqe,N,2
+iNdoWHYo-ZFDf,NiM2jmq0-tpH4,CxX24FnB-IivX,iNdoWHYo-ZFDf,42,47000,Aluguel,2,NiM2jmq0-tpH4,"Medico ",B,25000,12.18,1,0.53,CxX24FnB-IivX,N,15
+jg35T4xI-pmAd,11rA9T8u-fOcy,2mQ02FqY-Xjzb,jg35T4xI-pmAd,23,24000,Hipoteca,1,11rA9T8u-fOcy,Pagamento_debitos,D,2800,16.07,1,0.12,2mQ02FqY-Xjzb,N,3
+6KeD803G-esjg,64xabghl-kfYh,joQyF1rk-hDhz,6KeD803G-esjg,27,51600,Aluguel,2,64xabghl-kfYh,"Empreendimento ",C,13800,13.57,1,0.27,joQyF1rk-hDhz,S,6
+IFoCZ4sz-o31s,rsYOpCbl-8kqg,D2yKPfSs-ag6f,IFoCZ4sz-o31s,24,56100,Aluguel,4,rsYOpCbl-8kqg,"Medico ",D,20000,14.74,1,0.3,D2yKPfSs-ag6f,S,4
+GcMdQytt-RiDk,jLf4w7ic-LtIq,IXED4HIj-AfDg,GcMdQytt-RiDk,26,44000,Aluguel,4,jLf4w7ic-LtIq,Melhora_lar,G,12500,22.11,1,0.28,IXED4HIj-AfDg,S,2
+kg67lHNf-vcEM,JjINYm9f-dU2y,TCvNscUt-XYSZ,kg67lHNf-vcEM,21,34000,Aluguel,2,JjINYm9f-dU2y,"Pessoal ",D,5000,14.59,1,0.15,TCvNscUt-XYSZ,N,4
+InDOYcZ2-8YTC,vx2tRHvf-wdi5,iwFGt6aB-5gef,InDOYcZ2-8YTC,23,49635,Hipoteca,6,vx2tRHvf-wdi5,"Pessoal ",A,12000,7.29,1,0.24,iwFGt6aB-5gef,N,3
+kryym1cH-heh5,BNeCLtE8-FOIz,5dY99y6b-xBfR,kryym1cH-heh5,26,54000,Hipoteca,8,BNeCLtE8-FOIz,"Medico ",D,5000,15.62,1,0.09,5dY99y6b-xBfR,S,4
+uvzAs1ja-3LAA,UcyOCxZv-P36C,TzK85X3b-q8Bq,uvzAs1ja-3LAA,21,33600,Aluguel,5,UcyOCxZv-P36C,"Pessoal ",B,9000,11.86,1,0.27,TzK85X3b-q8Bq,N,4
+BCxmZONp-U96D,leP8qNen-egxX,8vfks68h-7K97,BCxmZONp-U96D,23,24000,Aluguel,7,leP8qNen-egxX,"Pessoal ",A,8000,7.29,1,0.33,8vfks68h-7K97,N,2
+nlSDyWvd-YoM3,mNrucw9Z-Xl0T,8qXbFmSJ-1jWC,nlSDyWvd-YoM3,37,79992,Hipoteca,2,mNrucw9Z-Xl0T,"Pessoal ",C,9000,NULL,1,0.11,8qXbFmSJ-1jWC,S,14
+fxf94ulM-J04P,TrJeIwk7-4Aac,y3zgoCyD-7bwQ,fxf94ulM-J04P,33,36000,Aluguel,10,TrJeIwk7-4Aac,"Medico ",A,12325,6.54,1,0.34,y3zgoCyD-7bwQ,N,10
+oWqAC6bo-uHRI,NSqyAwNO-Aytm,sLHa0ymx-2jrs,oWqAC6bo-uHRI,21,60000,Aluguel,6,NSqyAwNO-Aytm,"Educativo ",B,25000,10.99,1,0.42,sLHa0ymx-2jrs,N,4
+bvvESWMp-GGAY,0UBbjXyv-0ed3,ZXvXY2R5-6Xfz,bvvESWMp-GGAY,24,50000,Aluguel,3,0UBbjXyv-0ed3,"Pessoal ",C,17000,13.79,1,0.34,ZXvXY2R5-6Xfz,N,3
+E5WBtMTw-TLbv,4iP7Wx3e-zF2K,bKCsu8EP-d8KI,E5WBtMTw-TLbv,42,42000,Aluguel,6,4iP7Wx3e-zF2K,"Educativo ",D,14500,15.57,1,0.35,bKCsu8EP-d8KI,N,14
+Ke6ylAMb-fvaw,ZIfJ8tLk-6K5z,D6wLHxAj-kPSy,Ke6ylAMb-fvaw,23,59004,Aluguel,5,ZIfJ8tLk-6K5z,Pagamento_debitos,B,20000,10.83,1,0.34,D6wLHxAj-kPSy,N,2
+Du5AB1e2-0BSt,kWRQMguT-jO4H,Ma59jYCI-5WZ0,Du5AB1e2-0BSt,22,36000,Aluguel,1,kWRQMguT-jO4H,Melhora_lar,B,3000,10.37,1,0.08,Ma59jYCI-5WZ0,N,3
+RwTfXLa5-5GfP,R2SpWzlN-NX2a,MbZA5b8G-X8En,RwTfXLa5-5GfP,NULL,36708,Aluguel,2,R2SpWzlN-NX2a,Melhora_lar,D,25000,17.19,1,NULL,MbZA5b8G-X8En,S,8
+ExPF3SnM-Cm3k,Yo6L4BXZ-lSCB,63BOY8O0-4Iq5,ExPF3SnM-Cm3k,24,83000,Aluguel,8,Yo6L4BXZ-lSCB,"Pessoal ",D,9000,15.05,1,0.11,63BOY8O0-4Iq5,S,3
+iGGeAv5q-jDOq,jwazv6YE-rgG8,lEJKmago-KPf3,iGGeAv5q-jDOq,26,29364,Aluguel,4,jwazv6YE-rgG8,Melhora_lar,C,6000,13.35,1,0.2,lEJKmago-KPf3,S,4
+yhiCWedA-stjR,rhaTgJmJ-AJmO,exDD9H9v-jP8C,yhiCWedA-stjR,37,145124,Hipoteca,21,rhaTgJmJ-AJmO,"Pessoal ",B,11375,10.99,1,0.08,exDD9H9v-jP8C,N,11
+vcAQPtbb-AlrX,bDcyuRcg-Z8et,CkfEKY3H-vWK9,vcAQPtbb-AlrX,29,88000,Hipoteca,6,bDcyuRcg-Z8et,Pagamento_debitos,E,16000,16.45,1,0.18,CkfEKY3H-vWK9,N,8
+6ffXxPft-Mgw3,lyh1jQWH-0CnA,tu7PKWjj-GsCX,6ffXxPft-Mgw3,NULL,70000,Aluguel,3,lyh1jQWH-0CnA,"Pessoal ",B,6000,7.68,NULL,0.08,tu7PKWjj-GsCX,N,10
+vxA7asFF-CjYG,amT2BbRq-rnvM,XeAOOgGA-ePDe,vxA7asFF-CjYG,24,103044,Hipoteca,8,amT2BbRq-rnvM,"Medico ",D,11600,15.05,1,0.1,XeAOOgGA-ePDe,S,2
+Yh8NMi89-fINf,EjcdpjCl-Hh2r,ggBpbnWy-Tkuz,Yh8NMi89-fINf,24,70550,Aluguel,8,EjcdpjCl-Hh2r,"Medico ",D,9000,15.05,1,0.11,ggBpbnWy-Tkuz,S,2
+92ayCIRa-qOAg,OpqzaDLE-AsQr,2CRWhL1e-ICaT,92ayCIRa-qOAg,29,44500,Aluguel,3,OpqzaDLE-AsQr,"Empreendimento ",C,14400,13.61,1,0.32,2CRWhL1e-ICaT,S,10
+1j5hFy8U-cMQ2,Z7FgSk8P-RpzS,qY8vDt1u-11C8,1j5hFy8U-cMQ2,25,49963,Hipoteca,9,Z7FgSk8P-RpzS,"Educativo ",B,2100,11.49,1,0.04,qY8vDt1u-11C8,N,3
+QctDNSA1-2IuG,F27KPczE-AYGR,anfmfUtW-z2bA,QctDNSA1-2IuG,32,32004,Aluguel,1,F27KPczE-AYGR,Pagamento_debitos,D,3400,NULL,1,0.11,anfmfUtW-z2bA,N,7
+5N9KvArA-uiLb,vTYPB64N-n37i,lqUy9gBA-KNqP,5N9KvArA-uiLb,29,33000,Aluguel,5,vTYPB64N-n37i,Melhora_lar,A,8000,5.79,1,0.24,lqUy9gBA-KNqP,N,8
+PyG9fpBT-t4IY,FMb12ZY2-5PGa,gmreAdjt-3BIn,PyG9fpBT-t4IY,23,25200,Aluguel,1,FMb12ZY2-5PGa,Pagamento_debitos,C,8000,12.73,1,0.32,gmreAdjt-3BIn,N,4
+SmCjBZmB-7WJ9,8LII1Oak-PZMW,PuBtlfXa-7CCY,SmCjBZmB-7WJ9,24,67524,Hipoteca,4,8LII1Oak-PZMW,"Pessoal ",B,10000,9.99,1,0.15,PuBtlfXa-7CCY,N,2
+jQadlMh8-9gtl,MHz0pf9K-oZxW,Kg8Haao9-8l0J,jQadlMh8-9gtl,21,37947,Aluguel,5,MHz0pf9K-oZxW,"Pessoal ",A,14000,7.9,1,0.37,Kg8Haao9-8l0J,N,2
+sQNHxKNK-410Q,1N7aA5fZ-d7oj,y3QrWMYP-xAzs,sQNHxKNK-410Q,28,26400,Aluguel,7,1N7aA5fZ-d7oj,"Pessoal ",C,5000,13.11,1,0.19,y3QrWMYP-xAzs,S,6
+i0QwS0Ez-KeRW,5CoCn9LN-k0W8,wOH59A98-L1Ap,i0QwS0Ez-KeRW,26,24000,Hipoteca,10,5CoCn9LN-k0W8,"Medico ",A,5000,7.66,1,0.21,wOH59A98-L1Ap,N,3
+wWnevDHl-PXXF,Uqlv3cAe-ZvcI,DzRO04Uz-pQjk,wWnevDHl-PXXF,26,108000,Aluguel,2,Uqlv3cAe-ZvcI,"Pessoal ",D,25000,15.05,1,0.23,DzRO04Uz-pQjk,N,2
+nsTljDou-mvdi,5vBOEjBj-mYCq,Ztlym970-MnY4,nsTljDou-mvdi,28,61350,Aluguel,12,5vBOEjBj-mYCq,Pagamento_debitos,C,7000,12.98,1,0.11,Ztlym970-MnY4,S,8
+75B4IPw4-LbPZ,o0qJig9m-H8NP,AOh6y9CG-aFlo,75B4IPw4-LbPZ,22,65000,Propria,6,o0qJig9m-H8NP,"Medico ",C,12000,6.92,NULL,NULL,AOh6y9CG-aFlo,N,14
+rFA0MI4U-7P7X,5yzDQvQl-3FMC,Y5oAeAEn-p0Z1,rFA0MI4U-7P7X,24,52000,Aluguel,8,5yzDQvQl-3FMC,"Educativo ",D,20000,15.65,1,0.38,Y5oAeAEn-p0Z1,S,2
+mOMy4arC-tE4c,r638j0B7-cHci,RsGIps3I-0CqJ,mOMy4arC-tE4c,25,56950,Hipoteca,9,r638j0B7-cHci,"Medico ",C,25000,10.91,1,0.37,RsGIps3I-0CqJ,S,3
+ONgXexPH-FlJF,2B3ADEjJ-ekFz,x9SH2Lsh-mKFM,ONgXexPH-FlJF,23,54000,Aluguel,1,2B3ADEjJ-ekFz,"Empreendimento ",B,20000,11.83,1,0.37,x9SH2Lsh-mKFM,N,4
+CNqZBHSb-qDrK,R7emDQAG-hFte,AHF6UqEh-AxXl,CNqZBHSb-qDrK,27,30000,Aluguel,5,R7emDQAG-hFte,"Educativo ",B,12000,11.36,1,0.4,AHF6UqEh-AxXl,N,9
+gdHvHMj6-Kwuz,Wqc3Z2Ep-rIyQ,BW7pGBc4-C6Fl,gdHvHMj6-Kwuz,23,37000,Hipoteca,3,Wqc3Z2Ep-rIyQ,"Medico ",D,3600,15.62,1,0.1,BW7pGBc4-C6Fl,N,4
+SWiIGmFJ-9O2p,vFUXndwK-Wn6z,rbOXYs38-xaHK,SWiIGmFJ-9O2p,24,59000,Hipoteca,3,vFUXndwK-Wn6z,"Educativo ",C,6800,12.53,1,0.12,rbOXYs38-xaHK,N,2
+FXo7hB04-CTrr,ojElr39a-mdPn,T43mZ0DJ-d9pK,FXo7hB04-CTrr,29,26004,Hipoteca,13,ojElr39a-mdPn,Pagamento_debitos,D,4000,14.74,1,0.15,T43mZ0DJ-d9pK,S,9
+4fqKD49g-EnlT,19BqPfko-UhfZ,3Qr6Sxv1-rG97,4fqKD49g-EnlT,27,48000,Aluguel,2,19BqPfko-UhfZ,"Pessoal ",C,25000,10.59,1,0.52,3Qr6Sxv1-rG97,N,7
+3UzKdQbt-PeAK,7JZcCkh2-SJFS,EtHgikJc-0dOc,3UzKdQbt-PeAK,27,44004,Aluguel,4,7JZcCkh2-SJFS,Pagamento_debitos,D,10000,NULL,1,0.23,EtHgikJc-0dOc,S,10
+YHbYlf0t-cucT,jbuCkSOM-1NzG,jrIoexRz-L6ZG,YHbYlf0t-cucT,28,15000,Aluguel,1,jbuCkSOM-1NzG,"Medico ",B,4800,10.99,1,0.32,jrIoexRz-L6ZG,N,8
+jlTq7OEa-R9zJ,gGAk7HFn-tP7B,Obr6nEoQ-CFGW,jlTq7OEa-R9zJ,23,30500,Hipoteca,6,gGAk7HFn-tP7B,"Medico ",D,3000,14.96,1,0.1,Obr6nEoQ-CFGW,S,2
+6kvUfNFI-N7KQ,NPCz9x2t-ZNUp,8Eq0WfnY-xCxE,6kvUfNFI-N7KQ,27,60000,Hipoteca,NULL,NPCz9x2t-ZNUp,Melhora_lar,C,8400,12.73,1,0.14,8Eq0WfnY-xCxE,N,9
+OszY7vsP-cYyv,zXgHJN2m-rcA9,6rHQ0a3Y-6jDn,OszY7vsP-cYyv,42,45000,Aluguel,1,zXgHJN2m-rcA9,Pagamento_debitos,B,18200,10.83,1,0.4,6rHQ0a3Y-6jDn,N,14
+hQPfhXmD-pNCd,wx8X1o1D-3Ica,9rqzNHb4-p18b,hQPfhXmD-pNCd,43,62900,Aluguel,22,wx8X1o1D-3Ica,"Medico ",D,18000,17.27,1,0.24,9rqzNHb4-p18b,S,14
+3yRbFF0R-NXBH,AmTH6xRj-19yg,PMw3ADpA-vC6e,3yRbFF0R-NXBH,24,23700,Aluguel,8,AmTH6xRj-19yg,"Empreendimento ",A,10000,9.32,1,0.42,PMw3ADpA-vC6e,N,4
+yZKAzhvI-8m9h,xJP6DYi3-aB54,CqttDKNE-ejQ3,yZKAzhvI-8m9h,25,19200,Aluguel,5,xJP6DYi3-aB54,Melhora_lar,B,4000,NULL,1,0.21,CqttDKNE-ejQ3,N,3
+F74qLWwY-82rz,vKl0cYNA-uqEk,PHvqEFJw-6wID,F74qLWwY-82rz,23,31000,Aluguel,1,vKl0cYNA-uqEk,Pagamento_debitos,B,6000,11.71,1,0.19,PHvqEFJw-6wID,N,2
+F91qoNQm-GSZp,RZcIK3yH-PHg9,l5MWMdX5-qzkZ,F91qoNQm-GSZp,29,80000,Aluguel,2,RZcIK3yH-PHg9,Pagamento_debitos,C,35000,12.68,1,0.44,l5MWMdX5-qzkZ,S,10
+KNa1PRqi-SSO7,UmHxafKA-iEEg,Fm0Kf6lw-au08,KNa1PRqi-SSO7,37,55000,Aluguel,19,UmHxafKA-iEEg,Pagamento_debitos,B,30000,9.91,1,0.55,Fm0Kf6lw-au08,N,15
+YgB7Y3mF-s6G8,IXXRUUPp-HThw,4swDrNcT-e4Z2,YgB7Y3mF-s6G8,25,31800,Outros,1,IXXRUUPp-HThw,Melhora_lar,C,10000,12.53,1,0.31,4swDrNcT-e4Z2,N,3
+QWxbCRlZ-2TiS,zdOC4qyF-osYg,RJ9TW6P7-p3xq,QWxbCRlZ-2TiS,24,9600,Propria,2,zdOC4qyF-osYg,"Empreendimento ",A,3200,7.88,1,0.33,RJ9TW6P7-p3xq,N,2
+Aszyt0us-FIBT,962bta8Y-oJ0n,brgKenyh-RHaB,Aszyt0us-FIBT,34,45600,Aluguel,NULL,962bta8Y-oJ0n,"Pessoal ",B,23500,11.36,1,0.52,brgKenyh-RHaB,N,9
+LFrE4Pi7-sMiT,XNJMK9ed-Z6FM,XumABn64-Me98,LFrE4Pi7-sMiT,30,54000,Hipoteca,3,XNJMK9ed-Z6FM,Pagamento_debitos,C,5000,12.61,1,0.09,XumABn64-Me98,N,9
+86dnleoi-G4a3,3HdocLEJ-WBzs,nqC3IFzs-Zy5P,86dnleoi-G4a3,25,49000,Aluguel,2,3HdocLEJ-WBzs,"Empreendimento ",C,3000,12.68,1,0.06,nqC3IFzs-Zy5P,S,3
+bnqvWMeb-i2hW,ErJT5imt-bz4c,CCXQl7aU-jplb,bnqvWMeb-i2hW,29,16800,Aluguel,4,ErJT5imt-bz4c,Melhora_lar,A,5000,6.92,1,0.3,CCXQl7aU-jplb,N,10
+gBGhZQCP-fvPe,yskrCuGZ-eQ27,ucQH7loD-C8C0,gBGhZQCP-fvPe,27,64000,Aluguel,3,yskrCuGZ-eQ27,"Pessoal ",A,3600,7.49,1,0.06,ucQH7loD-C8C0,N,5
+cvLemZtz-G3Im,zoQsaaY0-tGDE,4xEPfZBu-Zl6Q,cvLemZtz-G3Im,24,38400,Aluguel,8,zoQsaaY0-tGDE,"Pessoal ",E,9000,NULL,NULL,NULL,4xEPfZBu-Zl6Q,N,7
+8nHte9PF-y6l5,XF7ogTTA-vZCp,RagDTprj-bkyv,8nHte9PF-y6l5,25,45996,Aluguel,2,XF7ogTTA-vZCp,"Empreendimento ",G,5000,NULL,1,0.11,RagDTprj-bkyv,S,2
+IuS3I51A-p9Ae,m2RwAlFF-2DAQ,0EuDdfgj-EaLa,IuS3I51A-p9Ae,23,46500,Hipoteca,1,m2RwAlFF-2DAQ,"Medico ",A,5000,7.49,1,0.11,0EuDdfgj-EaLa,N,3
+3BKOi5jN-I6DF,g4EFeAT9-HtQ2,Ncc3CbUr-wYJI,3BKOi5jN-I6DF,27,39600,Hipoteca,4,g4EFeAT9-HtQ2,"Empreendimento ",G,2500,20.86,1,0.06,Ncc3CbUr-wYJI,S,8
+4OyRp8JO-aPkl,WhXlHEZM-MrWk,pIBAMBQe-GRtX,4OyRp8JO-aPkl,21,36500,Aluguel,1,WhXlHEZM-MrWk,"Pessoal ",D,14400,15.05,1,0.39,pIBAMBQe-GRtX,N,4
+X8qOJUHT-ZnGh,kKqqnDB8-CbGO,Al4yn82R-4Lqo,X8qOJUHT-ZnGh,23,67000,Aluguel,3,kKqqnDB8-CbGO,"Educativo ",A,25000,7.9,1,0.37,Al4yn82R-4Lqo,N,3
+iePMaBQs-cGLE,RQ2ZDkIk-Ab45,bNiq85Za-SNgv,iePMaBQs-cGLE,23,44000,Aluguel,5,RQ2ZDkIk-Ab45,"Educativo ",C,8000,13.49,1,0.18,bNiq85Za-SNgv,S,2
+1QnOzAoH-8pJc,RQ1LENav-di4q,q71FhGYl-BRyz,1QnOzAoH-8pJc,70,30000,Aluguel,NULL,RQ1LENav-di4q,"Medico ",B,10800,13.57,NULL,0.27,q71FhGYl-BRyz,N,7
+7wgJtyI0-onS2,sNjZNNLX-7ZHC,HRy8grRr-f4al,7wgJtyI0-onS2,31,150000,Aluguel,NULL,sNjZNNLX-7ZHC,"Educativo ",D,35000,18.25,1,0.23,HRy8grRr-f4al,N,6
+bBJHJdgE-0nft,KP4HlGHm-PSZW,giZCeEWr-9kAq,bBJHJdgE-0nft,27,30000,Aluguel,8,KP4HlGHm-PSZW,"Pessoal ",B,11000,9.91,1,0.37,giZCeEWr-9kAq,N,6
+bMh3qHrs-YnLZ,XZOMh8qj-SAr1,yjnuhQND-P5hz,bMh3qHrs-YnLZ,30,19200,Hipoteca,2,XZOMh8qj-SAr1,Melhora_lar,C,4750,13.61,1,0.25,yjnuhQND-P5hz,S,8
+bbLRZc2o-e9Yk,hvyIxZp2-1Atq,RwvL13ZN-FDKQ,bbLRZc2o-e9Yk,22,19200,Aluguel,2,hvyIxZp2-1Atq,Pagamento_debitos,A,6250,7.51,1,0.33,RwvL13ZN-FDKQ,N,3
+J92vnAl0-2g5X,sT7ulWuS-BeKv,6Cc2fc12-1DMq,J92vnAl0-2g5X,25,22000,Aluguel,3,sT7ulWuS-BeKv,"Pessoal ",E,5000,16.32,1,0.23,6Cc2fc12-1DMq,N,3
+GvPaza7c-06cg,zZGAqIuP-Jody,B8ZzhhKd-Rl2j,GvPaza7c-06cg,25,58313,Hipoteca,9,zZGAqIuP-Jody,"Medico ",E,5300,19.91,1,0.08,B8ZzhhKd-Rl2j,S,2
+KdWxzEAP-8DuE,BoBldss7-cWgB,XutBI9fH-RjOs,KdWxzEAP-8DuE,25,96000,Aluguel,2,BoBldss7-cWgB,Melhora_lar,E,25000,15.68,1,0.26,XutBI9fH-RjOs,S,4
+H1meYb5c-rKnq,9GBc6Jsg-gM1j,5OXQebwn-TXuu,H1meYb5c-rKnq,24,34400,Aluguel,8,9GBc6Jsg-gM1j,Pagamento_debitos,D,14000,16,1,0.41,5OXQebwn-TXuu,S,3
+2wt9z0qJ-LpjG,9UswRTJo-YKGt,GbSjMnFy-buqN,2wt9z0qJ-LpjG,47,59827,Hipoteca,9,9UswRTJo-YKGt,"Educativo ",D,6000,15.58,1,0.1,GbSjMnFy-buqN,N,15
+Av0IT3iL-S1hH,JIKMsJ13-GJSi,dbXgqTMS-4NSc,Av0IT3iL-S1hH,37,91800,Hipoteca,21,JIKMsJ13-GJSi,"Medico ",D,20000,14.84,1,0.19,dbXgqTMS-4NSc,S,12
+z9wcGPTf-kyIT,nWGNTNF3-4ZXy,lKyCNAle-pEzT,z9wcGPTf-kyIT,27,32160,Aluguel,1,nWGNTNF3-4ZXy,"Medico ",D,4000,15.99,1,0.12,lKyCNAle-pEzT,N,9
+dAkbvPCO-94w5,EcDvQxWo-dD6N,4UIOgsXG-2C2j,dAkbvPCO-94w5,23,8628,Propria,NULL,EcDvQxWo-dD6N,"Educativo ",A,1400,NULL,1,0.16,4UIOgsXG-2C2j,N,2
+oGMlLurE-TdgN,4hcfUlWP-t0fO,LXY39b3O-BGJQ,oGMlLurE-TdgN,25,44000,Aluguel,2,4hcfUlWP-t0fO,"Medico ",D,10000,15.65,1,0.23,LXY39b3O-BGJQ,S,4
+nLho59jQ-ptcU,No4cOD1C-LWJc,hdvLDbRX-ysnF,nLho59jQ-ptcU,23,39000,Aluguel,7,No4cOD1C-LWJc,"Medico ",D,15000,15.28,1,0.38,hdvLDbRX-ysnF,N,3
+duBK87n9-kGRC,nxTPHyNi-Iiol,69yXuZ3c-sB07,duBK87n9-kGRC,29,61200,Hipoteca,2,nxTPHyNi-Iiol,"Medico ",F,15000,17.58,1,0.21,69yXuZ3c-sB07,N,5
+D5IekU06-C4l2,Tiasb8qj-rZQv,2jw8W0oS-gQxn,D5IekU06-C4l2,29,39000,Aluguel,2,Tiasb8qj-rZQv,"Pessoal ",E,3000,16.7,1,0.08,2jw8W0oS-gQxn,S,7
+wspoKamI-F85I,ZDgOS4KD-4qti,r1NA69Kx-XlhW,wspoKamI-F85I,41,49000,Aluguel,4,ZDgOS4KD-4qti,Melhora_lar,E,25000,17.04,1,0.51,r1NA69Kx-XlhW,N,13
+bdFwRjFC-XfBU,3ACAOfZz-Z5pR,h96ZrmXm-2M4t,bdFwRjFC-XfBU,21,31680,Aluguel,5,3ACAOfZz-Z5pR,"Medico ",C,15000,12.61,1,0.47,h96ZrmXm-2M4t,S,4
+cIzUaFEI-YJ8L,SEmtucbZ-dnlE,OMNU0b1u-ul8Q,cIzUaFEI-YJ8L,23,55000,Aluguel,5,SEmtucbZ-dnlE,Pagamento_debitos,B,20000,12.53,1,0.36,OMNU0b1u-ul8Q,N,2
+7UeCq7Aa-Gdj1,r1vJlIgD-ugjL,M3a6NOvr-1eg3,7UeCq7Aa-Gdj1,28,50400,Aluguel,8,r1vJlIgD-ugjL,"Educativo ",D,18500,16.02,1,0.37,M3a6NOvr-1eg3,N,5
+QUkRCkoq-z9pb,bsPEoph6-pX06,QbF9q3yN-Jimk,QUkRCkoq-z9pb,28,64049,Hipoteca,7,bsPEoph6-pX06,"Educativo ",B,NULL,9.32,NULL,0.08,QbF9q3yN-Jimk,N,7
+LTqAHvlv-nEPo,Dx4CvyuJ-gSjU,z3JItQDw-2xOF,LTqAHvlv-nEPo,26,73008,Hipoteca,4,Dx4CvyuJ-gSjU,Pagamento_debitos,E,15000,15.68,1,0.21,z3JItQDw-2xOF,S,3
+yFes1lLx-FuBD,ElbkhBLq-d7iG,Wx8Iex55-5sI8,yFes1lLx-FuBD,24,39000,Aluguel,4,ElbkhBLq-d7iG,Pagamento_debitos,C,8000,NULL,1,0.21,Wx8Iex55-5sI8,N,2
+SoNFdkEJ-AitS,CwSPJ89E-wGTE,KODCLzun-eWhk,SoNFdkEJ-AitS,23,39000,Aluguel,7,CwSPJ89E-wGTE,"Medico ",A,12300,NULL,1,0.32,KODCLzun-eWhk,N,2
+01lFJ6f4-Sb2E,Az3WnpHW-IUsu,wfzOarvK-1cOX,01lFJ6f4-Sb2E,28,51200,Aluguel,12,Az3WnpHW-IUsu,Pagamento_debitos,B,12000,NULL,1,0.23,wfzOarvK-1cOX,N,7
+EDleAH72-51Ew,09UOG1dj-7tPc,YZMOBrrU-0wu0,EDleAH72-51Ew,23,83000,Hipoteca,7,09UOG1dj-7tPc,"Educativo ",B,24175,11.11,1,0.29,YZMOBrrU-0wu0,N,2
+mdLr5MF9-jX3f,3b6UsLB5-Sib7,lMvJ0EmS-BM5S,mdLr5MF9-jX3f,43,46000,Aluguel,2,3b6UsLB5-Sib7,"Medico ",D,13000,15.7,1,0.28,lMvJ0EmS-BM5S,N,13
+sJxQtgas-n0dk,JACb283o-xGmE,kX3zuTO3-pwG7,sJxQtgas-n0dk,22,17760,Hipoteca,6,JACb283o-xGmE,"Educativo ",C,4975,NULL,1,0.28,kX3zuTO3-pwG7,S,3
+XPgTUAOo-aYOL,2Gb9NkoU-Nuck,YYllrqzc-jqE2,XPgTUAOo-aYOL,23,30000,Aluguel,7,2Gb9NkoU-Nuck,"Educativo ",C,10000,13.99,1,0.33,YYllrqzc-jqE2,N,2
+pAuqJzM0-0pIl,5zhhlgEZ-jDrp,ZpQkkEgF-fsyf,pAuqJzM0-0pIl,26,39000,Aluguel,1,5zhhlgEZ-jDrp,"Empreendimento ",D,15000,16.07,1,0.38,ZpQkkEgF-fsyf,S,4
+Is0moZqO-ICLm,ufwa5BWT-mt0w,YWoMgL5A-49D9,Is0moZqO-ICLm,24,39000,Aluguel,NULL,ufwa5BWT-mt0w,"Educativo ",B,13000,10.75,1,0.33,YWoMgL5A-49D9,N,4
+YnlT0rhK-5mYc,JkyHUMni-LOzq,J2xQZAwF-zGW5,YnlT0rhK-5mYc,37,88000,Aluguel,4,JkyHUMni-LOzq,"Pessoal ",G,25000,19.66,1,0.28,J2xQZAwF-zGW5,S,12
+pJgaBWEo-zbzY,wRZzsJfS-vKvR,qdPlmHoP-Zgxq,pJgaBWEo-zbzY,27,70000,Aluguel,11,wRZzsJfS-vKvR,"Pessoal ",B,25000,11.71,1,0.36,qdPlmHoP-Zgxq,N,7
+4wRtwAOD-fdNb,p3xDLa1M-ZX8p,tML5tppy-RyL8,4wRtwAOD-fdNb,22,27000,Aluguel,3,p3xDLa1M-ZX8p,"Medico ",A,2800,7.51,1,0.1,tML5tppy-RyL8,N,3
+LPuCqbuO-LNHm,rs492bhP-25yy,QszmRdAr-nzP2,LPuCqbuO-LNHm,38,18000,Aluguel,4,rs492bhP-25yy,"Educativo ",C,3000,13.23,1,0.17,QszmRdAr-nzP2,S,14
+p7tjwIBF-zHQI,HBiq2y3I-Z6hF,ct8dM7aU-fzjB,p7tjwIBF-zHQI,27,13500,Aluguel,2,HBiq2y3I-Z6hF,"Medico ",B,8000,12.18,1,0.59,ct8dM7aU-fzjB,N,5
+CKUHsc4m-JJ9w,UBy35Czx-9ALZ,KyxD3f6Q-xH94,CKUHsc4m-JJ9w,33,77100,Aluguel,6,UBy35Czx-9ALZ,Pagamento_debitos,A,35000,8.49,1,0.45,KyxD3f6Q-xH94,N,9
+fZu0g2RQ-7d4F,ULKduhNw-8LdY,Y7LWPR31-JxtO,fZu0g2RQ-7d4F,33,18000,Aluguel,3,ULKduhNw-8LdY,"Educativo ",C,3300,11.97,1,0.18,Y7LWPR31-JxtO,N,8
+4iFsCuH8-jqzF,EXdY2AYB-BNkl,toBZ4sMR-nKo4,4iFsCuH8-jqzF,27,32000,Aluguel,6,EXdY2AYB-BNkl,"Educativo ",B,10000,12.42,1,0.31,toBZ4sMR-nKo4,N,8
+luzTyU1O-HwGP,CxnUAYrh-D7ys,SjA5dDht-BlZz,luzTyU1O-HwGP,27,54000,Aluguel,1,CxnUAYrh-D7ys,Melhora_lar,F,12750,NULL,1,0.24,SjA5dDht-BlZz,S,7
+Fd2S9FMw-L0Ql,LgYIykzb-IOAL,iFtetIzK-x4kv,Fd2S9FMw-L0Ql,40,31504,Aluguel,13,LgYIykzb-IOAL,"Medico ",E,10000,NULL,1,0.32,iFtetIzK-x4kv,N,13
+c2UzEMa2-Qm8d,CoYDBpPE-ALjN,CFnAhz56-3mIa,c2UzEMa2-Qm8d,24,76000,Hipoteca,9,CoYDBpPE-ALjN,Pagamento_debitos,D,7000,12.92,1,0.09,CFnAhz56-3mIa,N,3
+OjQzC0lS-xF2L,YfRoRjDA-84Nu,vnl12AoR-Pm0T,OjQzC0lS-xF2L,41,52106,Aluguel,4,YfRoRjDA-84Nu,Pagamento_debitos,C,5000,12.84,1,0.1,vnl12AoR-Pm0T,N,17
+vdcbGf6M-plmB,42atCq3R-1uC5,jBX7xf1B-zlcn,vdcbGf6M-plmB,25,19200,Propria,4,42atCq3R-1uC5,"Educativo ",B,3000,11.99,1,0.16,jBX7xf1B-zlcn,N,4
+Q7jXBO5U-fGEQ,SWsuYywC-RvZu,rH6tU9gw-Xvq8,Q7jXBO5U-fGEQ,28,56000,Hipoteca,5,SWsuYywC-RvZu,Melhora_lar,C,5050,12.29,1,0.09,rH6tU9gw-Xvq8,S,5
+CaMlE0JL-PfLe,8zrF4evG-TCkS,KeHX23uj-MG5g,CaMlE0JL-PfLe,34,19600,Aluguel,3,8zrF4evG-TCkS,"Pessoal ",B,4500,10.59,1,0.23,KeHX23uj-MG5g,N,9
+uNbUGLez-1r5s,UCNzrxYC-n5sm,CvxSoWO9-38f2,uNbUGLez-1r5s,27,31513,Aluguel,11,UCNzrxYC-n5sm,Melhora_lar,A,5000,6.62,1,0.16,CvxSoWO9-38f2,N,7
+MzUg7GJW-iGmI,QhN9t3QJ-4aUi,nfu8sSRA-ahH0,MzUg7GJW-iGmI,27,30000,Aluguel,5,QhN9t3QJ-4aUi,"Medico ",D,7000,15.62,1,0.23,nfu8sSRA-ahH0,N,6
+fdv1iTWC-DQm7,OKmCcDBr-FObx,FJfPLpeg-R8mk,fdv1iTWC-DQm7,27,72000,Aluguel,9,OKmCcDBr-FObx,"Educativo ",B,25000,10.75,1,0.35,FJfPLpeg-R8mk,N,8
+hgxAu1ar-OHeY,igTgYiU7-8Rlh,oOCk7urZ-gYZ3,hgxAu1ar-OHeY,25,26000,Aluguel,4,igTgYiU7-8Rlh,"Medico ",C,8000,12.87,1,0.31,oOCk7urZ-gYZ3,N,4
+m3gGmzcZ-3Poy,nOgHcOPh-igy4,WLaZQRfw-KyY3,m3gGmzcZ-3Poy,29,82438,Aluguel,14,nOgHcOPh-igy4,"Pessoal ",B,3600,10.99,1,0.04,WLaZQRfw-KyY3,N,9
+fd48DQox-LS8o,dFM2FnpC-v09j,5G6DtG6J-Wol1,fd48DQox-LS8o,25,32000,Aluguel,9,dFM2FnpC-v09j,"Medico ",E,NULL,7.88,NULL,0.16,5G6DtG6J-Wol1,N,5
+fBQ8QazD-pmH2,TOjH7xOi-mTBW,nIKhtExS-ZOx3,fBQ8QazD-pmH2,22,25920,Aluguel,1,TOjH7xOi-mTBW,"Medico ",C,9000,10.59,1,0.35,nIKhtExS-ZOx3,N,2
+SYjn4BnP-aRJ5,kK6iv5KF-vXT7,0uhsJweU-Iqwk,SYjn4BnP-aRJ5,32,58650,Aluguel,6,kK6iv5KF-vXT7,"Medico ",D,17400,15.05,1,0.25,0uhsJweU-Iqwk,N,6
+TwEKdNKB-gG5x,xOLNd7Fe-1vMl,Q5Zufo0D-ddlA,TwEKdNKB-gG5x,22,30000,Aluguel,7,xOLNd7Fe-1vMl,"Medico ",A,7200,8.9,1,0.24,Q5Zufo0D-ddlA,N,2
+s3GL4nB8-WEcB,HRWe2fpt-t2Dr,hpJcFnzR-Lu04,s3GL4nB8-WEcB,24,90100,Aluguel,6,HRWe2fpt-t2Dr,"Medico ",B,13000,12.69,1,0.12,hpJcFnzR-Lu04,N,4
+3tN5ipTG-5Et8,ucMbBdey-uqDu,62sXqwg0-388X,3tN5ipTG-5Et8,29,24000,Aluguel,NULL,ucMbBdey-uqDu,"Empreendimento ",C,7750,13.85,1,0.32,62sXqwg0-388X,N,8
+TucpfT4t-OtZg,iya6DZqm-jK5t,xoicQd2H-1LCJ,TucpfT4t-OtZg,26,44000,Aluguel,5,iya6DZqm-jK5t,Pagamento_debitos,C,4600,13.99,1,0.1,xoicQd2H-1LCJ,N,4
+XWWNREUL-lU3v,22ZCnE9s-kAil,9Opx6bNp-fkfW,XWWNREUL-lU3v,28,33000,Aluguel,10,22ZCnE9s-kAil,"Pessoal ",A,15000,NULL,1,0.45,9Opx6bNp-fkfW,N,6
+yaDRZcQl-707P,Ccn6cIUi-Iq70,yXCtc4IK-3trp,yaDRZcQl-707P,36,64000,Hipoteca,20,Ccn6cIUi-Iq70,Pagamento_debitos,E,6800,18.39,1,0.11,yXCtc4IK-3trp,S,12
+PwLDl0it-usNr,LRLR03uY-R4iv,z0Jdp7Oj-PxhH,PwLDl0it-usNr,26,28000,Aluguel,5,LRLR03uY-R4iv,"Empreendimento ",A,9800,7.29,1,0.35,z0Jdp7Oj-PxhH,N,4
+Rpc2XzFd-Z4y3,KITEfwDq-NXMY,XguTrX7o-Pd2z,Rpc2XzFd-Z4y3,23,95000,Aluguel,2,KITEfwDq-NXMY,"Empreendimento ",A,35000,7.9,1,0.37,XguTrX7o-Pd2z,N,2
+3diiawqm-5L6M,zcP64gJ1-NRgE,fzxlbKfp-com5,3diiawqm-5L6M,25,36996,Aluguel,2,zcP64gJ1-NRgE,"Educativo ",E,12450,16.32,1,0.34,fzxlbKfp-com5,N,2
+lurjad7H-HoAK,gXFus8i2-Ew0A,s5Lr66PI-Lfz9,lurjad7H-HoAK,22,78700,Hipoteca,6,gXFus8i2-Ew0A,Pagamento_debitos,A,7000,7.68,1,0.09,s5Lr66PI-Lfz9,N,3
+afYwYANE-SKp0,BjGu3fKF-lBCr,CZX3OkbS-qjoG,afYwYANE-SKp0,23,42000,Aluguel,3,BjGu3fKF-lBCr,Melhora_lar,D,8000,15.58,1,0.19,CZX3OkbS-qjoG,N,2
+EyXiM6wK-aUvb,Xki3yNvm-MRYj,rdyC4zmx-INsY,EyXiM6wK-aUvb,24,32000,Aluguel,5,Xki3yNvm-MRYj,"Educativo ",C,12000,13.85,1,0.38,rdyC4zmx-INsY,N,3
+m5pFFwqC-1WQR,DZHlC7M0-m5Qo,h3graqDS-6Gyi,m5pFFwqC-1WQR,55,50000,Aluguel,2,DZHlC7M0-m5Qo,Pagamento_debitos,A,20000,7.51,1,0.4,h3graqDS-6Gyi,N,28
+BfPB7wzM-pjvo,6QrpGHbv-KzYX,3pIipMaU-9x8C,BfPB7wzM-pjvo,25,78000,Hipoteca,8,6QrpGHbv-KzYX,Pagamento_debitos,D,6000,15.62,1,0.08,3pIipMaU-9x8C,N,3
+OzsnPo6z-Irw2,m2knercx-yufc,UYaIvf9m-Gb98,OzsnPo6z-Irw2,27,18000,Aluguel,2,m2knercx-yufc,"Pessoal ",D,2500,14.74,1,0.14,UYaIvf9m-Gb98,N,8
+beM6F3Wc-vsUG,lbtlsnXG-XodK,iaLnp5vt-OBj8,beM6F3Wc-vsUG,27,49600,Aluguel,2,lbtlsnXG-XodK,"Empreendimento ",D,8400,NULL,1,0.17,iaLnp5vt-OBj8,S,5
+vryAyP7a-tCnf,BGM3oL9R-R0xa,7QUDuedD-53Tv,vryAyP7a-tCnf,35,17640,Propria,NULL,BGM3oL9R-R0xa,"Medico ",D,4000,16.29,1,0.23,7QUDuedD-53Tv,N,7
+kjT1DsKX-QYTY,Jxg84FbA-fBzs,f9PnTqe9-lnfD,kjT1DsKX-QYTY,22,48000,Aluguel,3,Jxg84FbA-fBzs,Melhora_lar,A,13000,7.88,1,0.27,f9PnTqe9-lnfD,N,3
+xh4Yju6p-eHk0,9nWDM7vl-e1KB,NE5CFsBi-9Zq6,xh4Yju6p-eHk0,25,75000,Aluguel,9,9nWDM7vl-e1KB,Pagamento_debitos,B,25000,10.36,1,0.33,NE5CFsBi-9Zq6,N,2
+Fx6AvEpC-3OCl,O4IksAsw-DbvL,BBfvaRyr-H2HG,Fx6AvEpC-3OCl,22,36000,Aluguel,6,O4IksAsw-DbvL,Pagamento_debitos,B,13000,11.14,1,0.36,BBfvaRyr-H2HG,N,4
+QUORAnym-9z5c,7QEZdm7E-tA5R,7yBsnkoi-A3Pf,QUORAnym-9z5c,28,38000,Aluguel,7,7QEZdm7E-tA5R,"Pessoal ",C,5000,13.49,1,0.13,7yBsnkoi-A3Pf,N,6
+krmMias0-Qfp4,Fvq7kLAH-RnIg,irzSaGQW-EkTT,krmMias0-Qfp4,24,13000,Aluguel,4,Fvq7kLAH-RnIg,"Pessoal ",B,4000,9.88,1,0.31,irzSaGQW-EkTT,N,2
+mfdQg2Ar-sEJy,5tCjsrwG-tYv1,YqQvc0K0-Rrad,mfdQg2Ar-sEJy,24,30000,Hipoteca,4,5tCjsrwG-tYv1,"Medico ",D,10000,15.99,1,0.33,YqQvc0K0-Rrad,S,2
+XR9qPw2N-gNCk,GSCykxhu-2jyx,C46oyTDS-Rlm9,XR9qPw2N-gNCk,27,53550,Aluguel,3,GSCykxhu-2jyx,"Medico ",B,4200,11.99,1,0.07,C46oyTDS-Rlm9,N,8
+uhzmEAco-HHBo,8uC6kNgn-HCWw,rko5AiN2-SQ2P,uhzmEAco-HHBo,25,31008,Aluguel,2,8uC6kNgn-HCWw,Pagamento_debitos,C,12000,13.79,1,0.39,rko5AiN2-SQ2P,N,4
+k892F3RW-F22m,uNUTkfc3-DL2C,RA6KUqnJ-IbNB,k892F3RW-F22m,31,17000,Aluguel,3,uNUTkfc3-DL2C,"Empreendimento ",B,4575,11.48,1,0.27,RA6KUqnJ-IbNB,N,7
+GjqvNfp6-rutK,Qy9wwh32-s5D6,PHENDMvi-s8Hh,GjqvNfp6-rutK,30,15600,Hipoteca,NULL,Qy9wwh32-s5D6,Pagamento_debitos,A,6250,5.79,1,0.4,PHENDMvi-s8Hh,N,6
+BJB5UYda-1JkH,4CB7XA8P-6zJS,sB4zWhgi-tDTU,BJB5UYda-1JkH,23,50000,Hipoteca,7,4CB7XA8P-6zJS,"Medico ",D,7500,15.62,1,0.15,sB4zWhgi-tDTU,N,3
+qTFEBiKS-PloR,t6NlTz2B-WrGl,Pzg5SeCX-uJyr,qTFEBiKS-PloR,24,61200,Hipoteca,8,t6NlTz2B-WrGl,"Educativo ",C,2500,NULL,1,0.04,Pzg5SeCX-uJyr,N,4
+aemAq0Kz-Cht0,FaI8nhlg-HHD8,8C3gKEdM-aqlq,aemAq0Kz-Cht0,22,34000,Hipoteca,4,FaI8nhlg-HHD8,"Pessoal ",D,7750,15.21,1,0.23,8C3gKEdM-aqlq,N,2
+0FWvbQqZ-zbh9,rhgOxOXd-I3Ro,Qlox83UJ-9J7r,0FWvbQqZ-zbh9,40,38000,Aluguel,4,rhgOxOXd-I3Ro,Pagamento_debitos,D,7000,15.99,1,0.18,Qlox83UJ-9J7r,N,16
+0FIMaAm6-xFsK,1QCY01El-ubrY,687IPyYp-jcig,0FIMaAm6-xFsK,28,50000,Aluguel,2,1QCY01El-ubrY,"Educativo ",D,2000,16.89,1,0.04,687IPyYp-jcig,N,5
+ogK8YOOe-nqfu,uIiydoRz-Yc3l,nU7KIn2b-WUUe,ogK8YOOe-nqfu,27,55000,Aluguel,3,uIiydoRz-Yc3l,Pagamento_debitos,C,20000,13.48,1,0.36,nU7KIn2b-WUUe,N,9
+BgyJaXyT-FYvX,D08w603M-opwE,UnIwcZlS-AKBH,BgyJaXyT-FYvX,24,24148,Aluguel,1,D08w603M-opwE,"Educativo ",B,9975,11.48,1,0.41,UnIwcZlS-AKBH,N,4
+0LLA4h62-FxpD,DArwTcCo-UvP5,HlptQ9QY-Fe2v,0LLA4h62-FxpD,22,45000,Aluguel,1,DArwTcCo-UvP5,Pagamento_debitos,C,20000,13.92,1,0.44,HlptQ9QY-Fe2v,S,3
+eh8znsvt-5zlj,s3usWEHI-GKvf,fU7fuzR4-tFQY,eh8znsvt-5zlj,23,62900,Aluguel,1,s3usWEHI-GKvf,"Medico ",E,16000,16.35,1,0.22,fU7fuzR4-tFQY,N,4
+hN1owdTN-ONvu,xRq4qRLq-zL0N,jXkoWcqK-upDF,hN1owdTN-ONvu,26,29000,Hipoteca,1,xRq4qRLq-zL0N,Melhora_lar,B,NULL,NULL,1,0.13,jXkoWcqK-upDF,N,3
+OULZEbmG-xnuS,B8LEFMjM-A8CQ,6SheX71X-L9PJ,OULZEbmG-xnuS,40,38000,Aluguel,4,B8LEFMjM-A8CQ,Pagamento_debitos,D,7000,15.99,1,0.18,6SheX71X-L9PJ,N,16
+tsZPodZy-7a1W,lYSXEBeJ-IlBX,ao5d3JB9-lyIe,tsZPodZy-7a1W,29,19200,Propria,7,lYSXEBeJ-IlBX,"Empreendimento ",A,6000,NULL,1,0.31,ao5d3JB9-lyIe,N,5
+ozxQGUie-1eIC,wJsQkwBi-eCvw,fCbqQQCB-CLMq,ozxQGUie-1eIC,24,39000,Aluguel,5,wJsQkwBi-eCvw,"Medico ",D,20000,14.74,1,0.51,fCbqQQCB-CLMq,N,2
+xkvS5KuG-0udY,jZqfuHHo-hDzH,Hg8Sf36h-d4sb,xkvS5KuG-0udY,30,36432,Aluguel,1,jZqfuHHo-hDzH,"Educativo ",D,19000,15.21,1,0.52,Hg8Sf36h-d4sb,S,5
+IrRgPlM4-I4uf,0xm86pTX-tS43,r4ezJll1-Tyzd,IrRgPlM4-I4uf,22,18000,Aluguel,1,0xm86pTX-tS43,"Medico ",B,1800,12.18,1,0.1,r4ezJll1-Tyzd,N,3
+JDWUrrmT-vyDR,3Q6Q8KLz-J0bY,2vx998h7-zz6E,JDWUrrmT-vyDR,26,88000,Aluguel,2,3Q6Q8KLz-J0bY,"Empreendimento ",D,25000,15.65,1,0.28,2vx998h7-zz6E,N,3
+K6fKNrSe-csWI,cC8eI8v1-Kxot,gQs29Fc5-ORmX,K6fKNrSe-csWI,43,60000,Aluguel,2,cC8eI8v1-Kxot,"Educativo ",D,10000,13.24,1,0.17,gQs29Fc5-ORmX,S,15
+cikxDXAu-Ix6s,u3qeYCYM-qCwy,GTfuhamB-TbA9,cikxDXAu-Ix6s,28,66725,Aluguel,3,u3qeYCYM-qCwy,"Medico ",D,9000,16.29,1,0.11,GTfuhamB-TbA9,N,8
+F9s2xwXx-tQfp,WmIJmj8u-geOm,I8vS2nX4-P1zg,F9s2xwXx-tQfp,23,45000,Hipoteca,6,WmIJmj8u-geOm,"Medico ",B,5000,10.74,1,0.11,I8vS2nX4-P1zg,N,2
+8PrERSqK-zpxO,doOjzEvv-pntz,wmBasIQZ-T3n8,8PrERSqK-zpxO,29,32108,Aluguel,4,doOjzEvv-pntz,"Empreendimento ",E,2500,15.68,1,0.08,wmBasIQZ-T3n8,S,5
+11Qs2CFk-WT4S,S9RXgTYX-sJYE,IgJmGau6-biYz,11Qs2CFk-WT4S,28,38295,Aluguel,5,S9RXgTYX-sJYE,"Pessoal ",C,12000,NULL,1,0.31,IgJmGau6-biYz,N,7
+dxkYnL7E-l5yB,Nc62hX5m-mKiY,DZSwLxa5-aDDi,dxkYnL7E-l5yB,22,69000,Aluguel,6,Nc62hX5m-mKiY,Pagamento_debitos,B,20000,10.99,1,0.29,DZSwLxa5-aDDi,N,4
+RlgMnfsL-Wg4D,67FnuLlI-ZMEk,cwSo7vBl-hDDJ,RlgMnfsL-Wg4D,33,26000,Hipoteca,1,67FnuLlI-ZMEk,Pagamento_debitos,B,15000,9.76,1,0.58,cwSo7vBl-hDDJ,N,6
+yAYEB6DC-fA9Q,T5jyuGbZ-WAqz,lkXklYMD-pPeL,yAYEB6DC-fA9Q,27,75805,Aluguel,1,T5jyuGbZ-WAqz,Pagamento_debitos,E,13450,16.32,1,0.18,lkXklYMD-pPeL,N,8
+T3O1IOUK-Abjo,f7g0k06d-N7zK,revzlTeE-AAiW,T3O1IOUK-Abjo,27,91800,Hipoteca,5,f7g0k06d-N7zK,"Medico ",D,25000,15.95,1,0.23,revzlTeE-AAiW,N,9
+agPQltMg-bPUc,oPSL86HL-OIE9,kE7GkfY5-zO7N,agPQltMg-bPUc,25,58650,Aluguel,7,oPSL86HL-OIE9,"Medico ",D,5600,14.84,1,0.08,kE7GkfY5-zO7N,N,4
+0BxkI26g-Du5P,qwUE83Af-P0SD,DEpHkEMW-kJTZ,0BxkI26g-Du5P,21,29000,Aluguel,5,qwUE83Af-P0SD,Pagamento_debitos,B,11325,9.91,1,0.39,DEpHkEMW-kJTZ,N,3
+PpPeS9UF-0dBP,Sw2PQXme-DsIO,yCHbrx5m-1Cde,PpPeS9UF-0dBP,27,37440,Aluguel,5,Sw2PQXme-DsIO,"Pessoal ",A,15000,7.9,1,0.4,yCHbrx5m-1Cde,N,8
+BUxjPn2l-TzMK,djDr0n10-AxHt,YuWFt4pP-YLpE,BUxjPn2l-TzMK,25,20000,Aluguel,2,djDr0n10-AxHt,"Pessoal ",D,2500,15.7,1,0.13,YuWFt4pP-YLpE,N,2
+8Ezbl5EF-le6m,uz3MJnvb-wsQt,PnB04pWW-5U3M,8Ezbl5EF-le6m,26,35652,Aluguel,5,uz3MJnvb-wsQt,Pagamento_debitos,B,1400,11.49,1,0.04,PnB04pWW-5U3M,N,4
+YX1XFG6g-xFIG,oBKaPN11-Bp0B,3dPnHbcb-8cFF,YX1XFG6g-xFIG,23,50000,Aluguel,1,oBKaPN11-Bp0B,"Empreendimento ",B,25000,11.83,1,0.5,3dPnHbcb-8cFF,N,4
+gtDSrSOc-kYcu,ceAgKh8n-3CmZ,i1sOmpwW-YouD,gtDSrSOc-kYcu,23,47800,Hipoteca,4,ceAgKh8n-3CmZ,"Medico ",B,18000,10.95,1,0.38,i1sOmpwW-YouD,N,3
+PpHlkMHL-1RqP,Iz4eaj27-xk0L,kfRHEjEk-veme,PpHlkMHL-1RqP,22,17720,Aluguel,6,Iz4eaj27-xk0L,Melhora_lar,B,5000,9.62,1,0.28,kfRHEjEk-veme,N,4
+wUFbxdAw-XXgj,1HsoQ87j-cPsJ,WNka4PsG-i9SI,wUFbxdAw-XXgj,23,35000,Aluguel,2,1HsoQ87j-cPsJ,Pagamento_debitos,A,11900,7.66,1,0.34,WNka4PsG-i9SI,N,3
+wKtel7MK-SQXu,a9KkL8JH-WEQc,JnggBLH2-Tjlj,wKtel7MK-SQXu,23,28800,Aluguel,1,a9KkL8JH-WEQc,"Pessoal ",D,1675,15.21,1,0.06,JnggBLH2-Tjlj,S,2
+CjbfZANO-i1h6,tsDD3atp-iiYj,75qt3o7I-ias0,CjbfZANO-i1h6,30,76500,Aluguel,11,tsDD3atp-iiYj,"Medico ",D,12000,17.27,1,0.13,75qt3o7I-ias0,N,10
+H30kaYTs-hARM,G9FprmH3-gUdx,a3cFB2fz-khH0,H30kaYTs-hARM,27,54400,Hipoteca,NULL,G9FprmH3-gUdx,"Medico ",D,15000,15.65,1,0.23,a3cFB2fz-khH0,S,9
+0CmbPtSf-aknU,YONPL4oZ-orAu,SXhJckXG-OyMH,0CmbPtSf-aknU,26,47000,Aluguel,7,YONPL4oZ-orAu,"Medico ",A,15000,7.9,1,0.32,SXhJckXG-OyMH,N,4
+IFosmpcn-RH5k,3T5L3JbR-dSI0,QOcLpQcm-xRHa,IFosmpcn-RH5k,32,41000,Aluguel,2,3T5L3JbR-dSI0,"Medico ",D,6400,15.65,1,0.16,QOcLpQcm-xRHa,S,6
+cGOW1ZDQ-vOrW,AXZS4hP9-TUSL,SrOiRbvc-LwDd,cGOW1ZDQ-vOrW,27,33600,Aluguel,NULL,AXZS4hP9-TUSL,"Medico ",D,3000,16.89,1,0.09,SrOiRbvc-LwDd,N,8
+qvGzhlqa-IDgI,ofFXNAfH-z9st,mogyWRRa-rU2I,qvGzhlqa-IDgI,24,39000,Aluguel,1,ofFXNAfH-z9st,Pagamento_debitos,E,5000,16.77,1,0.13,mogyWRRa-rU2I,S,3
+GrQRoQz4-rqyi,IhfZXxg0-Kj0x,QdGzLYxH-9dIs,GrQRoQz4-rqyi,22,49000,Aluguel,7,IhfZXxg0-Kj0x,Pagamento_debitos,C,3000,12.23,1,0.06,QdGzLYxH-9dIs,S,2
+hnnJ38Nn-iLck,HkzKy41D-yKWN,ExP9u9oO-lFNu,hnnJ38Nn-iLck,29,58800,Hipoteca,13,HkzKy41D-yKWN,"Empreendimento ",B,NULL,14.18,NULL,0.11,ExP9u9oO-lFNu,S,3
+aRmkvvIZ-RfTB,7noNw3Ow-sxzK,oEutuw47-jPIr,aRmkvvIZ-RfTB,25,36000,Aluguel,9,7noNw3Ow-sxzK,"Pessoal ",C,8000,12.73,1,0.22,oEutuw47-jPIr,S,2
+53UF7NIY-TR61,OczvolIm-ciWh,MK8DTj2e-8g47,53UF7NIY-TR61,23,39325,Hipoteca,3,OczvolIm-ciWh,"Educativo ",C,2800,12.87,1,0.07,MK8DTj2e-8g47,N,4
+2Ohglu3s-YlPB,2Hd5F9aC-NEyL,IwOcdhGP-mLQB,2Ohglu3s-YlPB,22,26784,Aluguel,6,2Hd5F9aC-NEyL,Pagamento_debitos,D,5500,14.74,1,0.21,IwOcdhGP-mLQB,N,4
+ZTdmiTQM-wLgf,BBYNCwA8-kT6C,gajEgexp-sqGD,ZTdmiTQM-wLgf,35,648000,Hipoteca,6,BBYNCwA8-kT6C,"Pessoal ",E,10000,17.19,1,0.02,gajEgexp-sqGD,S,8
+UvW5S1gL-UBY3,ZOmRgUAz-ZJyM,yt0Pg3Pi-3ha8,UvW5S1gL-UBY3,29,40404,Aluguel,4,ZOmRgUAz-ZJyM,"Empreendimento ",A,14000,8.49,1,0.35,yt0Pg3Pi-3ha8,N,10
+yTnfcp2I-X4CD,293hrAIC-Dssl,hq5SQELr-b1pr,yTnfcp2I-X4CD,27,32000,Outros,10,293hrAIC-Dssl,"Educativo ",C,15000,NULL,1,0.47,hq5SQELr-b1pr,N,7
+UheUio1P-rFI1,jhlHU7Li-iYF0,xp5M8ljX-0gY0,UheUio1P-rFI1,30,30809,Aluguel,1,jhlHU7Li-iYF0,"Medico ",B,11200,11.99,1,0.36,xp5M8ljX-0gY0,N,8
+JnDKWg0j-z89p,0KgbxTX4-M8ht,dZFEZ7Df-RAJE,JnDKWg0j-z89p,24,70000,Aluguel,3,0KgbxTX4-M8ht,"Educativo ",B,25000,11.86,1,0.36,dZFEZ7Df-RAJE,N,4
+74JOTgMS-5pfl,UoK5vp54-4gHp,nMnJSJ0I-eBys,74JOTgMS-5pfl,24,134000,Hipoteca,2,UoK5vp54-4gHp,Pagamento_debitos,D,25000,14.83,1,0.19,nMnJSJ0I-eBys,N,4
+E24tdG2E-XSjf,aqKurn4w-Nzei,lSIr04Er-zx2e,E24tdG2E-XSjf,28,225000,Hipoteca,11,aqKurn4w-Nzei,"Educativo ",E,9000,16.95,1,0.04,lSIr04Er-zx2e,S,8
+nNFD4g9k-qS30,W4v4oe1U-umCA,txFLZC2A-rprG,nNFD4g9k-qS30,25,84000,Hipoteca,9,W4v4oe1U-umCA,Pagamento_debitos,D,5000,16.02,1,0.06,txFLZC2A-rprG,N,3
+ifBTmAQp-rjNp,WhhzIpfg-1baf,M2yQtjxn-gIzr,ifBTmAQp-rjNp,33,16620,Propria,NULL,WhhzIpfg-1baf,Melhora_lar,A,3000,5.99,1,0.18,M2yQtjxn-gIzr,N,6
+Wdl1lCx4-QUS0,ajsOBYFy-9m0f,5GO8igkz-bP72,Wdl1lCx4-QUS0,25,86004,Hipoteca,3,ajsOBYFy-9m0f,"Pessoal ",A,15000,6.91,1,0.17,5GO8igkz-bP72,N,4
+hbF2wr7y-0bzm,tavKKaun-M4QZ,c205XEpZ-y7vP,hbF2wr7y-0bzm,23,39000,Aluguel,2,tavKKaun-M4QZ,Melhora_lar,D,10000,15.2,1,0.26,c205XEpZ-y7vP,N,4
+5HpYCenb-AMxn,qDXNbGa6-t7sX,MDeN8iHe-uBrY,5HpYCenb-AMxn,36,48000,Aluguel,8,qDXNbGa6-t7sX,"Medico ",C,15000,13.98,1,0.31,MDeN8iHe-uBrY,N,15
+xNTEC7Lf-2ZaF,OjBc2ZNS-lvm3,kuGmG3EZ-OA8f,xNTEC7Lf-2ZaF,26,60000,Hipoteca,9,OjBc2ZNS-lvm3,"Pessoal ",B,10000,12.21,1,0.17,kuGmG3EZ-OA8f,N,4
+xsjYpBPv-AbIK,db8nE6ny-NNOJ,9rn58Rlj-bWj0,xsjYpBPv-AbIK,22,26400,Aluguel,3,db8nE6ny-NNOJ,"Pessoal ",B,10000,9.88,1,0.38,9rn58Rlj-bWj0,N,2
+P60uPZD8-fNgP,qMuXEKkj-MTpJ,RK9DqcRN-n7HA,P60uPZD8-fNgP,29,36000,Aluguel,6,qMuXEKkj-MTpJ,"Empreendimento ",A,12000,7.49,1,0.33,RK9DqcRN-n7HA,N,7
+t5Q9r6y3-qexA,Z40Me1z8-X4PI,vNWt5pNJ-UDky,t5Q9r6y3-qexA,34,50000,Aluguel,4,Z40Me1z8-X4PI,"Pessoal ",B,18000,8.88,1,0.36,vNWt5pNJ-UDky,N,9
+nIF362OC-JSO6,7Ncgg59S-rNux,brYD4PKU-93AQ,nIF362OC-JSO6,22,14400,Aluguel,1,7Ncgg59S-rNux,"Empreendimento ",D,5600,14.59,1,0.39,brYD4PKU-93AQ,S,2
+itJNgJBN-b8uo,GtIRz2wl-oy56,ac0ELqei-yUiq,itJNgJBN-b8uo,24,27600,Aluguel,4,GtIRz2wl-oy56,"Pessoal ",D,7000,15.62,1,0.25,ac0ELqei-yUiq,S,4
+my8zwz9D-YkJJ,KAvYsKKX-FFkm,KmuonKdy-JaId,my8zwz9D-YkJJ,26,62900,Hipoteca,4,KAvYsKKX-FFkm,"Medico ",A,11000,7.9,1,0.15,KmuonKdy-JaId,N,3
+y4HNWi07-kFsL,Jl12F6Bd-MaDw,xI6zrbRz-4aJA,y4HNWi07-kFsL,22,44000,Aluguel,NULL,Jl12F6Bd-MaDw,"Pessoal ",D,4500,14.46,1,0.1,xI6zrbRz-4aJA,S,2
+jH2183qq-FU2W,CpbYPJsp-HUuz,DacIgjYY-d9Cu,jH2183qq-FU2W,27,20000,Aluguel,4,CpbYPJsp-HUuz,"Pessoal ",C,3250,NULL,1,0.16,DacIgjYY-d9Cu,N,5
+vm9oCPiu-t6Wi,teiOJnuJ-RdZO,2brsKYgp-RuDu,vm9oCPiu-t6Wi,29,56500,Aluguel,3,teiOJnuJ-RdZO,"Medico ",B,7000,NULL,1,0.12,2brsKYgp-RuDu,N,8
+U1KvJMHY-tL2T,GPFE0xo7-aLK5,Evni9ShU-P2kQ,U1KvJMHY-tL2T,24,36000,Aluguel,2,GPFE0xo7-aLK5,Melhora_lar,D,2500,16.77,1,0.07,Evni9ShU-P2kQ,N,3
+pELY9TdQ-SeuE,S7Ds7B43-q9Gj,cN6vWyjS-pN5h,pELY9TdQ-SeuE,25,55200,Aluguel,7,S7Ds7B43-q9Gj,"Empreendimento ",B,20000,NULL,1,0.36,cN6vWyjS-pN5h,N,4
+HOJWjAmm-pS2Z,d4BneHMg-ZZHL,hNw8eZZ4-6MZt,HOJWjAmm-pS2Z,23,93000,Aluguel,6,d4BneHMg-ZZHL,"Pessoal ",C,20000,13.22,1,0.22,hNw8eZZ4-6MZt,N,3
+aTFJaGeT-P7oJ,pbFZASA6-8nv6,9MBAhoMo-EW7u,aTFJaGeT-P7oJ,28,27050,Aluguel,NULL,pbFZASA6-8nv6,"Empreendimento ",C,8500,15.96,1,0.31,9MBAhoMo-EW7u,S,10
+PB9LPDXz-B5kR,36INMjmK-GjJG,UgId82Rn-n7uK,PB9LPDXz-B5kR,28,14400,Aluguel,2,36INMjmK-GjJG,"Empreendimento ",C,4800,14.65,1,0.33,UgId82Rn-n7uK,S,9
+EkNMricS-DiSg,1BXKMwYs-ukf8,y65bqEmP-nLhr,EkNMricS-DiSg,28,276000,Aluguel,NULL,1BXKMwYs-ukf8,"Pessoal ",A,NULL,12.21,1,0.36,y65bqEmP-nLhr,N,14
+o6DTU5eu-X7Ou,3XT8QHat-eFuD,YGi0PFAs-4OTW,o6DTU5eu-X7Ou,23,82800,Hipoteca,1,3XT8QHat-eFuD,Melhora_lar,B,12000,9.76,1,0.14,YGi0PFAs-4OTW,N,2
+xWhnWhZ4-jdSn,QHQUERFA-PufL,5Ov9ogJJ-XOgT,xWhnWhZ4-jdSn,25,54000,Aluguel,1,QHQUERFA-PufL,Pagamento_debitos,D,20000,14.11,1,0.37,5Ov9ogJJ-XOgT,N,4
+ar0WMM5s-vay2,yL1ZqUjk-g8ht,KpXShv89-sJP6,ar0WMM5s-vay2,37,73000,Aluguel,21,yL1ZqUjk-g8ht,Pagamento_debitos,D,14000,16.02,1,0.19,KpXShv89-sJP6,N,17
+t32gnjou-ZJ3Q,KCeyZTHe-YaUI,pWMilwZl-lzxu,t32gnjou-ZJ3Q,34,60000,Hipoteca,18,KCeyZTHe-YaUI,"Educativo ",B,3000,11.99,1,0.05,pWMilwZl-lzxu,N,10
+f9oOKewr-5OAZ,3QfmGPBL-4YUC,4OC2oUD0-3gKr,f9oOKewr-5OAZ,36,54000,Aluguel,2,3QfmGPBL-4YUC,Melhora_lar,C,2225,10.59,1,0.04,4OC2oUD0-3gKr,N,14
+g6E24rIw-lrqF,lm99On82-BIQw,YJ3CEcEj-ood2,g6E24rIw-lrqF,54,53700,Aluguel,1,lm99On82-BIQw,Melhora_lar,D,29850,NULL,1,0.56,YJ3CEcEj-ood2,S,28
+B6pI4RcS-9Fqj,o4epWNZB-1YmJ,1hO6pX9X-iveu,B6pI4RcS-9Fqj,22,39000,Aluguel,2,o4epWNZB-1YmJ,"Pessoal ",A,7000,8.9,1,0.18,1hO6pX9X-iveu,N,3
+AAH4HhjJ-qDOb,KglPfbHd-aWHk,rdHGMw04-0Xbd,AAH4HhjJ-qDOb,28,44104,Aluguel,4,KglPfbHd-aWHk,"Empreendimento ",B,15000,NULL,1,0.34,rdHGMw04-0Xbd,N,10
+7rocmjao-SRqW,xkz6MTTY-cKim,PHh5QLf3-yPRK,7rocmjao-SRqW,25,54000,Hipoteca,4,xkz6MTTY-cKim,"Educativo ",D,12000,17.49,1,0.22,PHh5QLf3-yPRK,N,4
+R7C5Ko1j-Z7c8,u9grqO2I-1GPH,K3L9l3IG-YtCY,R7C5Ko1j-Z7c8,22,51000,Aluguel,5,u9grqO2I-1GPH,"Educativo ",B,20000,12.53,1,0.39,K3L9l3IG-YtCY,N,3
+NxmHzMq5-LKzZ,8bZESkS1-Sttf,RoB8ymjd-p5Kw,NxmHzMq5-LKzZ,24,74000,Aluguel,1,8bZESkS1-Sttf,Melhora_lar,D,10000,14.54,1,0.14,RoB8ymjd-p5Kw,N,2
+rrSUvj65-M3Ug,UN79Bb1b-lqco,vDlFOJHY-Gieq,rrSUvj65-M3Ug,25,34000,Aluguel,10,UN79Bb1b-lqco,Melhora_lar,B,20000,8.88,1,0.59,vDlFOJHY-Gieq,N,4
+yjDm3AvT-zyCy,xj9v9K9k-s3Wk,9BESIcGP-BjAs,yjDm3AvT-zyCy,22,48000,Aluguel,6,xj9v9K9k-s3Wk,"Educativo ",C,15000,15.96,1,0.31,9BESIcGP-BjAs,N,3
+dQ7OIswo-9R1L,04z2S1YS-WwJn,IUel1Mih-Rtot,dQ7OIswo-9R1L,30,54000,Aluguel,2,04z2S1YS-WwJn,Melhora_lar,E,5000,15.13,1,0.09,IUel1Mih-Rtot,N,7
+uWgndJz7-iU7J,UFlzUELx-Dhbf,9iPDgAyc-DIK6,uWgndJz7-iU7J,29,89000,Aluguel,1,UFlzUELx-Dhbf,"Educativo ",A,28800,7.49,1,0.32,9iPDgAyc-DIK6,N,6
+fBe6HTvG-x3KQ,oH2PxRk3-91gS,JKERLCv1-N5nf,fBe6HTvG-x3KQ,23,24216,Aluguel,1,oH2PxRk3-91gS,"Educativo ",D,3600,16.49,1,0.15,JKERLCv1-N5nf,N,3
+ZYbszmir-uLWj,F9R1Ap6o-RGLp,BQdbF8Po-F0RQ,ZYbszmir-uLWj,24,55000,Aluguel,8,F9R1Ap6o-RGLp,"Medico ",B,16800,NULL,1,0.31,BQdbF8Po-F0RQ,N,4
+hKEYi5g0-chAC,mI0EqG5i-UDYt,HSPj6ZhP-sRvx,hKEYi5g0-chAC,34,31000,Aluguel,5,mI0EqG5i-UDYt,"Medico ",A,14500,7.88,1,0.47,HSPj6ZhP-sRvx,N,10
+zLfXY1cl-q0Z1,ioUt83G3-O71X,fW8SK39r-GFhG,zLfXY1cl-q0Z1,45,49000,Propria,5,ioUt83G3-O71X,"Medico ",E,24250,19.03,1,0.49,fW8SK39r-GFhG,S,11
+GvQPcwwv-IFSU,47RRDdR0-P8mE,W3GsSFzb-liph,GvQPcwwv-IFSU,27,60000,Aluguel,11,47RRDdR0-P8mE,"Pessoal ",B,25000,NULL,1,0.42,W3GsSFzb-liph,N,9
+EKuwggcp-8GMg,k81y3LGl-sIXv,qvHL82pl-4S3S,EKuwggcp-8GMg,30,24000,Aluguel,6,k81y3LGl-sIXv,"Medico ",D,5000,NULL,1,0.21,qvHL82pl-4S3S,S,8
+mwMuTa46-rWpW,UeuDLumF-hDGn,O39bLdNF-Wit2,mwMuTa46-rWpW,30,37800,Aluguel,4,UeuDLumF-hDGn,"Medico ",B,15050,9.99,1,0.4,O39bLdNF-Wit2,N,7
+SPy3PWDs-PdfP,WmC7otP3-lqUk,wMbMd5kh-8HBD,SPy3PWDs-PdfP,28,30144,Aluguel,NULL,WmC7otP3-lqUk,"Educativo ",D,15000,15.95,1,0.5,wMbMd5kh-8HBD,S,7
+v9iaylja-URHI,Tz1bB9Mp-gqJy,FaByfNSX-MIH2,v9iaylja-URHI,28,51500,Aluguel,2,Tz1bB9Mp-gqJy,Pagamento_debitos,D,20000,15.65,1,0.39,FaByfNSX-MIH2,S,8
+OKEkFXES-3Qmz,1MPH98Ng-cey7,2X8nZXTL-kiRh,OKEkFXES-3Qmz,24,78000,Hipoteca,8,1MPH98Ng-cey7,"Empreendimento ",C,24000,15.96,1,0.31,2X8nZXTL-kiRh,N,4
+tCp6OlZO-I27j,yZ11OYy6-LGbv,YCU3Q7A7-odIR,tCp6OlZO-I27j,24,74004,Hipoteca,8,yZ11OYy6-LGbv,Pagamento_debitos,D,8000,15.21,1,0.11,YCU3Q7A7-odIR,N,3
+BMdIi2Dl-4SOY,G2dDdyEH-aT6y,glhYFk5Y-JNyG,BMdIi2Dl-4SOY,22,57800,Aluguel,6,G2dDdyEH-aT6y,Pagamento_debitos,C,11200,13.16,1,0.19,glhYFk5Y-JNyG,N,3
+xL5DhHK6-WSTA,5rw8GOHe-oP9d,qjpZiuWE-oi9C,xL5DhHK6-WSTA,29,63600,Aluguel,5,5rw8GOHe-oP9d,Pagamento_debitos,B,12000,12.42,1,0.19,qjpZiuWE-oi9C,N,8
+uxeuJoCJ-Lxh1,sGUueWJp-hllY,CKkwfMGA-6lqD,uxeuJoCJ-Lxh1,35,33996,Aluguel,2,sGUueWJp-hllY,"Medico ",D,3600,16.32,1,0.11,CKkwfMGA-6lqD,N,5
+2aabCXGX-8hnj,u2B5cREv-2wsy,RUbEJKlN-Oeck,2aabCXGX-8hnj,22,26400,Hipoteca,NULL,u2B5cREv-2wsy,"Pessoal ",B,1000,NULL,1,0.04,RUbEJKlN-Oeck,N,2
+O0KGj4rY-DSFZ,wMHH72pO-fkuO,4PGZMfjS-3DiW,O0KGj4rY-DSFZ,22,39000,Hipoteca,6,wMHH72pO-fkuO,"Educativo ",A,7000,8.94,1,0.18,4PGZMfjS-3DiW,N,3
+hybdOYlt-AuZ7,Feo6URHQ-NxxQ,ZBOA9Ag9-HDuo,hybdOYlt-AuZ7,26,52800,Aluguel,4,Feo6URHQ-NxxQ,"Pessoal ",B,4000,9.99,1,0.08,ZBOA9Ag9-HDuo,N,3
+IBcJogmW-yPYw,7pMXchwy-xeAd,Mul4zOZ4-KY9i,IBcJogmW-yPYw,21,12000,Aluguel,NULL,7pMXchwy-xeAd,Melhora_lar,B,4000,10.99,1,0.33,Mul4zOZ4-KY9i,N,3
+H9owiUl1-bjDy,6ZcacGJ0-3FiF,uGmTDrTc-4xQv,H9owiUl1-bjDy,28,69000,Hipoteca,5,6ZcacGJ0-3FiF,Pagamento_debitos,D,20000,14.91,1,0.29,uGmTDrTc-4xQv,S,5
+y8Irx1xG-omFN,byBQZGEl-4KXc,6G4lvumH-ttGC,y8Irx1xG-omFN,31,10200,Aluguel,NULL,byBQZGEl-4KXc,"Medico ",D,1000,NULL,1,0.1,6G4lvumH-ttGC,S,10
+9Dim283Z-uoGR,oux2Dqe8-6Ppp,jqZX6Poz-DjYI,9Dim283Z-uoGR,28,25200,Aluguel,5,oux2Dqe8-6Ppp,"Pessoal ",D,11500,14.46,1,0.46,jqZX6Poz-DjYI,S,6
+9jkuTFOq-Uc93,iU4IyNdS-Kx2f,irBgGZWB-Gkuw,9jkuTFOq-Uc93,23,33000,Aluguel,8,iU4IyNdS-Kx2f,Pagamento_debitos,A,12000,8.49,1,0.36,irBgGZWB-Gkuw,N,3
+9a0jdwaJ-GddC,eu5Zj3wK-BcdG,lCuXjyy3-roLR,9a0jdwaJ-GddC,22,35325,Aluguel,2,eu5Zj3wK-BcdG,Melhora_lar,D,6500,15.95,1,0.18,lCuXjyy3-roLR,N,2
+j6nMLQjA-jx8r,mC2v5rBp-pfda,slG0EH14-KGIl,j6nMLQjA-jx8r,33,41277,Aluguel,3,mC2v5rBp-pfda,"Educativo ",B,3000,10,1,0.07,slG0EH14-KGIl,N,8
+g6Zbe5GH-KExK,I65aJMU9-Mqn0,z1qXPfkJ-X2Ha,g6Zbe5GH-KExK,34,37000,Aluguel,2,I65aJMU9-Mqn0,"Medico ",D,16000,12.99,1,0.43,z1qXPfkJ-X2Ha,S,9
+siZXIBa5-x19X,3DOJSuvh-kMQT,pqzwdK8Z-yFI1,siZXIBa5-x19X,NULL,21600,Aluguel,NULL,3DOJSuvh-kMQT,"Empreendimento ",C,3500,15.58,NULL,0.1,pqzwdK8Z-yFI1,N,6
+CvskIpLc-BR72,UT8UOrIv-KsaB,oRgA5M7s-6ml6,CvskIpLc-BR72,22,45012,Aluguel,6,UT8UOrIv-KsaB,"Medico ",D,6500,13.99,1,0.14,oRgA5M7s-6ml6,N,2
+BFBsvJKz-ZT5Z,busuDqGv-O2vG,m39OHg6y-0Zk4,BFBsvJKz-ZT5Z,25,58000,Aluguel,9,busuDqGv-O2vG,"Medico ",B,19900,11.83,1,0.34,m39OHg6y-0Zk4,N,4
+RawIuZ5b-H5Ef,uWJe6NYA-N31j,cQF72iaa-ilwv,RawIuZ5b-H5Ef,29,64000,Aluguel,3,uWJe6NYA-N31j,"Educativo ",C,15000,15.27,1,0.23,cQF72iaa-ilwv,N,6
+tKEtcA7x-AHrt,Bov8hGRT-9HX4,2HniWkfd-dyll,tKEtcA7x-AHrt,30,65000,Aluguel,4,Bov8hGRT-9HX4,Melhora_lar,A,24000,7.9,1,0.37,2HniWkfd-dyll,N,5
+j1feZBOx-H9UO,WxengUBY-EbkA,B3laBgNm-qj6B,j1feZBOx-H9UO,32,12000,Aluguel,2,WxengUBY-EbkA,"Educativo ",A,6200,6.17,1,0.52,B3laBgNm-qj6B,N,9
+UhXGdmJs-Cl1P,uxxZNWCN-XgHr,bjFAbeQC-oLnM,UhXGdmJs-Cl1P,25,50000,Hipoteca,6,uxxZNWCN-XgHr,"Pessoal ",A,12800,7.49,1,0.26,bjFAbeQC-oLnM,N,4
+MvQLojJX-Wpro,5Xvbh6uE-JNcM,qG3qNfox-OY6H,MvQLojJX-Wpro,27,60174,Hipoteca,11,5Xvbh6uE-JNcM,"Medico ",B,3025,10.99,1,0.04,qG3qNfox-OY6H,N,10
+nW9jIBre-DZXf,xgKrrdyp-4d0E,rUo5SZf5-xxxp,nW9jIBre-DZXf,33,118000,Hipoteca,12,xgKrrdyp-4d0E,Pagamento_debitos,D,35000,17.49,1,0.3,rUo5SZf5-xxxp,S,7
+9BW780DW-JvZB,fIl2dGsS-UZ56,wnRWz3CR-x62K,9BW780DW-JvZB,23,15000,Propria,4,fIl2dGsS-UZ56,Pagamento_debitos,C,4000,13.98,1,0.27,wnRWz3CR-x62K,N,4
+Zvv0hwQn-H90y,Lo3joWBk-rvYj,TFc6UD3z-Ze8W,Zvv0hwQn-H90y,40,45996,Aluguel,4,Lo3joWBk-rvYj,Pagamento_debitos,D,20000,14.61,1,0.43,TFc6UD3z-Ze8W,S,13
+Nk97l1tX-gxt9,nhh1Hj4l-tmyS,3nIDrnDf-2KrY,Nk97l1tX-gxt9,25,30000,Aluguel,10,nhh1Hj4l-tmyS,"Empreendimento ",A,11400,7.51,1,0.38,3nIDrnDf-2KrY,N,4
+vNxRyGx3-xnqy,XdSHdPnl-YwHS,O2anvYiK-M4J0,vNxRyGx3-xnqy,24,29000,Aluguel,1,XdSHdPnl-YwHS,"Empreendimento ",B,10000,10.74,1,0.34,O2anvYiK-M4J0,N,2
+EajeuxCY-Irst,Gs3bIftd-OoZ1,xZsM3hhn-Dlz4,EajeuxCY-Irst,NULL,33000,Aluguel,4,Gs3bIftd-OoZ1,"Medico ",B,10000,9.63,1,NULL,xZsM3hhn-Dlz4,N,4
+gpMhlW24-kCij,yO4gvBNx-cR5W,GTf7U5Oc-uLDS,gpMhlW24-kCij,23,32000,Aluguel,2,yO4gvBNx-cR5W,"Empreendimento ",E,5000,13.93,1,0.16,GTf7U5Oc-uLDS,N,4
+QM5xgvYT-cldE,NMLEPTiG-wYL4,onsHdvSM-mYU6,QM5xgvYT-cldE,26,52704,Hipoteca,8,NMLEPTiG-wYL4,Melhora_lar,B,3000,10.95,1,0.06,onsHdvSM-mYU6,N,4
+0rhZxxlW-axcC,O818OxY6-4ewR,A3FkNT2G-bOIA,0rhZxxlW-axcC,26,44000,Aluguel,5,O818OxY6-4ewR,"Medico ",C,4600,13.99,1,0.1,A3FkNT2G-bOIA,N,3
+vz33iypm-Mx15,oFW1ChGN-NC7o,SH7HIIEf-0pOb,vz33iypm-Mx15,22,14400,Aluguel,2,oFW1ChGN-NC7o,"Pessoal ",E,2500,NULL,1,0.17,SH7HIIEf-0pOb,N,2
+5I5zaqge-KPb3,Rz5hstMh-hPfm,3HW3PWav-kutr,5I5zaqge-KPb3,28,36000,Aluguel,2,Rz5hstMh-hPfm,Melhora_lar,B,7500,10.39,1,0.21,3HW3PWav-kutr,N,9
+e0pEqTnq-ig5J,Yqb9ueeQ-4Ks0,TewSk2pu-IQ1P,e0pEqTnq-ig5J,22,39000,Aluguel,2,Yqb9ueeQ-4Ks0,"Medico ",C,5000,12.23,1,0.13,TewSk2pu-IQ1P,S,3
+RINyBzUf-hH2K,2rK64RGH-bYHQ,DL7lIYqD-veSb,RINyBzUf-hH2K,25,48500,Outros,1,2rK64RGH-bYHQ,"Educativo ",E,19500,15.57,1,0.4,DL7lIYqD-veSb,N,4
+d7HUzApn-wBcp,krM5sfIn-eqhM,szGpLGdF-Anpo,d7HUzApn-wBcp,24,148000,Hipoteca,8,krM5sfIn-eqhM,Pagamento_debitos,D,25000,15.31,1,0.17,szGpLGdF-Anpo,S,2
+9Ho3tpmh-LpGz,MHaWsLah-0Q5F,Z5pLlbDm-Zwx7,9Ho3tpmh-LpGz,40,32000,Aluguel,2,MHaWsLah-0Q5F,Pagamento_debitos,D,8000,14.96,1,0.25,Z5pLlbDm-Zwx7,S,17
+BcPbEFGb-F2eh,kvwbc7QU-2om5,1KS0GLgv-BI6T,BcPbEFGb-F2eh,32,80000,Aluguel,1,kvwbc7QU-2om5,"Medico ",C,25000,12.87,1,0.31,1KS0GLgv-BI6T,N,9
+A9lKMgcz-poQt,4uOHxBx6-HuE4,d7WDY3er-TwXo,A9lKMgcz-poQt,22,54000,Aluguel,7,4uOHxBx6-HuE4,"Medico ",F,2000,18.3,1,0.04,d7WDY3er-TwXo,S,4
+suKGFwcX-2l6h,RWx47s7c-pWet,Pdic5d8o-dRO4,suKGFwcX-2l6h,24,16800,Aluguel,2,RWx47s7c-pWet,Pagamento_debitos,D,6000,14.84,1,0.36,Pdic5d8o-dRO4,S,4
+2mFUswaL-EriQ,GAtwXRoZ-w5Rz,HqNirgxz-Yvwp,2mFUswaL-EriQ,31,46000,Hipoteca,5,GAtwXRoZ-w5Rz,"Educativo ",C,8000,13.49,1,0.17,HqNirgxz-Yvwp,S,5
+INoi5trz-ucZe,HYp8x22g-YvpX,5X7CH1F5-jrLH,INoi5trz-ucZe,31,73000,Aluguel,8,HYp8x22g-YvpX,"Educativo ",E,35000,19.29,1,0.48,5X7CH1F5-jrLH,S,10
+8K1nG6bg-EO81,rnjm1JWT-KiCZ,Hsuhb2up-qL4q,8K1nG6bg-EO81,27,54000,Aluguel,2,rnjm1JWT-KiCZ,"Medico ",B,20000,10.99,1,0.37,Hsuhb2up-qL4q,N,8
+tfCta9ya-q49e,JvUjgE1x-g475,JHwvbo2S-ZrAh,tfCta9ya-q49e,22,30000,Aluguel,2,JvUjgE1x-g475,"Empreendimento ",D,4200,15.31,1,0.14,JHwvbo2S-ZrAh,S,2
+aeyIXrMN-41Pi,zF3axdAv-OonF,vScOksN5-lmC3,aeyIXrMN-41Pi,29,62050,Hipoteca,13,zF3axdAv-OonF,"Medico ",E,3600,17.99,1,0.05,vScOksN5-lmC3,N,9
+ZGsKLAJr-zOWL,2MBACE4P-IHOn,RpD9XcRE-q7B5,ZGsKLAJr-zOWL,37,25000,Aluguel,5,2MBACE4P-IHOn,"Medico ",D,10000,16.29,1,0.4,RpD9XcRE-q7B5,N,11
+vwoc5ARi-kE4J,WIThhlGN-YeGx,HGfHsOIG-529z,vwoc5ARi-kE4J,24,36000,Aluguel,4,WIThhlGN-YeGx,"Empreendimento ",B,18200,8.88,1,0.51,HGfHsOIG-529z,N,4
+bPYqq3iQ-QSdZ,GIseBQ1q-qxFs,5xHcGGAj-Kp9m,bPYqq3iQ-QSdZ,23,54000,Propria,4,GIseBQ1q-qxFs,Pagamento_debitos,D,4000,9.63,NULL,NULL,5xHcGGAj-Kp9m,N,4
+C90BIY96-WkGg,Oc6k6aj7-huOv,EBD23iYT-Ifjy,C90BIY96-WkGg,23,13200,Propria,3,Oc6k6aj7-huOv,Pagamento_debitos,A,4950,7.9,1,0.38,EBD23iYT-Ifjy,N,4
+JWFSnzIb-cfgW,jlkfoEIv-edQZ,QslvxYcz-Tf9z,JWFSnzIb-cfgW,29,40000,Aluguel,2,jlkfoEIv-edQZ,Pagamento_debitos,B,23500,11.12,1,0.59,QslvxYcz-Tf9z,N,8
+2B96AqIt-ud2X,k4Tp01Sl-mgcG,QNZgXl6d-BTKP,2B96AqIt-ud2X,49,15000,Aluguel,6,k4Tp01Sl-mgcG,"Medico ",B,2400,9.91,1,0.16,QNZgXl6d-BTKP,N,13
+r6sJqvrI-2dtq,U8eqj1NX-1SJO,HLBbeZnY-lOHe,r6sJqvrI-2dtq,24,238000,Aluguel,2,U8eqj1NX-1SJO,"Empreendimento ",D,10000,13.67,1,0.04,HLBbeZnY-lOHe,N,2
+X4fdMmqn-xwK4,ycgQmUNy-dP03,GtFp6U2Y-W0pE,X4fdMmqn-xwK4,24,12000,Propria,4,ycgQmUNy-dP03,"Pessoal ",B,2500,12.69,1,0.21,GtFp6U2Y-W0pE,N,4
+cFjfjEYk-jG2i,3XbOa0ZK-JZyB,F35rt41I-CLZW,cFjfjEYk-jG2i,29,54000,Hipoteca,8,3XbOa0ZK-JZyB,Pagamento_debitos,A,7500,7.49,1,0.14,F35rt41I-CLZW,N,9
+g3OiM1PA-yyjc,bezfmFkO-fJzg,1I0UHbAp-pG8Y,g3OiM1PA-yyjc,24,18500,Hipoteca,8,bezfmFkO-fJzg,"Pessoal ",A,5000,9.32,1,0.27,1I0UHbAp-pG8Y,N,3
+QoqdLSIE-yQqR,gdrAk95S-dKXS,tzDpfAH5-sly6,QoqdLSIE-yQqR,25,54000,Hipoteca,7,gdrAk95S-dKXS,Pagamento_debitos,D,8400,14.59,1,0.16,tzDpfAH5-sly6,N,2
+JQWDNrWl-0MRq,uy384hb3-scP8,vite2tsz-wbnS,JQWDNrWl-0MRq,24,33000,Hipoteca,8,uy384hb3-scP8,Melhora_lar,C,2050,13.49,1,0.06,vite2tsz-wbnS,N,2
+jvZkpBPe-geqO,HrifMQ5h-8zsm,2l22Dxbz-cDal,jvZkpBPe-geqO,22,26400,Aluguel,1,HrifMQ5h-8zsm,"Educativo ",A,10000,7.49,1,0.38,2l22Dxbz-cDal,N,3
+KgvR5FTy-kN4O,GSWspYzF-gvTo,Jyua6Cyw-JkBG,KgvR5FTy-kN4O,23,46852,Aluguel,3,GSWspYzF-gvTo,"Educativo ",B,6800,10.65,1,0.15,Jyua6Cyw-JkBG,N,4
+SgjsTf1I-1Xg8,icnPNWbr-zBW3,UTzTsGDd-aubE,SgjsTf1I-1Xg8,21,32400,Aluguel,2,icnPNWbr-zBW3,"Empreendimento ",C,10000,13.23,1,0.31,UTzTsGDd-aubE,S,3
+8qWwGyPj-Rnec,KmfNEJOq-U9t6,QUkYgmxj-ACPn,8qWwGyPj-Rnec,28,42000,Aluguel,4,KmfNEJOq-U9t6,Pagamento_debitos,D,2000,14.96,1,0.05,QUkYgmxj-ACPn,S,6
+xgwpTmal-fd7H,yJhpzWr8-Hvi9,XeOp5ww3-SPZc,xgwpTmal-fd7H,24,10800,Hipoteca,8,yJhpzWr8-Hvi9,"Educativo ",B,1750,10.99,1,0.16,XeOp5ww3-SPZc,N,2
+cg5jn6CI-KdSr,7ZCSMHSD-fuvj,4L1uRJF6-N5LY,cg5jn6CI-KdSr,25,54000,Aluguel,5,7ZCSMHSD-fuvj,Melhora_lar,D,9600,15.62,1,0.18,4L1uRJF6-N5LY,N,2
+uj5p4141-lfFo,50sU8wGx-f7S7,szRSM5s3-Z1pH,uj5p4141-lfFo,23,35000,Aluguel,6,50sU8wGx-f7S7,Pagamento_debitos,B,13475,10.65,1,0.39,szRSM5s3-Z1pH,N,3
+OSEIqq7y-H08N,cINmRq89-ipeS,AMFicg0f-dLtK,OSEIqq7y-H08N,25,32000,Aluguel,7,cINmRq89-ipeS,Pagamento_debitos,A,11000,7.66,1,0.34,AMFicg0f-dLtK,N,3
+NuTCiQE0-TnYQ,rQUYllNM-oCRB,H3W2r5p1-vTDk,NuTCiQE0-TnYQ,22,71000,Hipoteca,6,rQUYllNM-oCRB,Pagamento_debitos,B,3200,10.25,1,0.05,H3W2r5p1-vTDk,N,3
+Teh6k9gj-Cvcl,xQJfCKLp-j0WS,5JSRlfTk-Zxsx,Teh6k9gj-Cvcl,22,14400,Propria,2,xQJfCKLp-j0WS,"Medico ",B,4000,10.99,1,0.28,5JSRlfTk-Zxsx,N,3
+MBobbiNd-LP7t,bnReMQ27-umBY,SLW4ZYya-Jbki,MBobbiNd-LP7t,26,24000,Aluguel,1,bnReMQ27-umBY,Melhora_lar,B,3625,11.11,1,0.15,SLW4ZYya-Jbki,N,4
+GudTIbKA-j0Rp,FdYCIap6-2yfO,7QYwvIuM-34ZK,GudTIbKA-j0Rp,31,35000,Aluguel,1,FdYCIap6-2yfO,"Empreendimento ",A,11400,6.91,1,0.33,7QYwvIuM-34ZK,N,8
+XYwz2yh9-lr84,sKFpfgYS-jPfl,OJ6J4lwO-ixkg,XYwz2yh9-lr84,29,85000,Aluguel,1,sKFpfgYS-jPfl,"Pessoal ",B,35000,11.99,1,0.41,OJ6J4lwO-ixkg,N,8
+z7O5S4LO-0Y5x,9DhHSBkb-oqps,smrhla6g-C6RO,z7O5S4LO-0Y5x,24,65450,Hipoteca,8,9DhHSBkb-oqps,"Medico ",D,5000,16.77,1,0.06,smrhla6g-C6RO,N,4
+mi12W7Io-RiXM,XxE4tlgi-zeEN,EPlKwqSA-p02z,mi12W7Io-RiXM,31,72000,Hipoteca,4,XxE4tlgi-zeEN,"Educativo ",C,9000,15.96,1,0.13,EPlKwqSA-p02z,S,5
+gyFuRnu9-dPNp,EdbMiU9l-TLWL,vX0QTZ7h-YCuM,gyFuRnu9-dPNp,30,10800,Aluguel,1,EdbMiU9l-TLWL,"Pessoal ",B,1500,11.48,1,0.14,vX0QTZ7h-YCuM,N,9
+vnNmr2pN-4eeu,ey7skbKo-xBS3,ePTcDB1Y-5JUZ,vnNmr2pN-4eeu,36,16908,Hipoteca,NULL,ey7skbKo-xBS3,"Medico ",A,3000,5.42,1,0.18,ePTcDB1Y-5JUZ,N,11
+Ccp9DxUn-EOAQ,JcPomgvx-GcOs,u4JOfDBM-pNuh,Ccp9DxUn-EOAQ,24,71004,Hipoteca,8,JcPomgvx-GcOs,Pagamento_debitos,D,5000,14.96,1,0.07,u4JOfDBM-pNuh,S,3
+LZq1lA3Y-eAIH,vtFPursr-grNC,gxgRWQp0-CUoZ,LZq1lA3Y-eAIH,38,54000,Aluguel,2,vtFPursr-grNC,"Medico ",D,14000,NULL,1,0.26,gxgRWQp0-CUoZ,N,17
+MJM4MgHt-qALI,HxOU05l1-Xgog,KcEr7eNG-jW0e,MJM4MgHt-qALI,23,57000,Aluguel,3,HxOU05l1-Xgog,"Educativo ",D,20000,16.89,1,0.35,KcEr7eNG-jW0e,N,2
+0Oryhf8n-8IgF,pTYcMedF-PU4U,RQeboLS2-N9w3,0Oryhf8n-8IgF,27,39996,Aluguel,7,pTYcMedF-PU4U,Pagamento_debitos,D,2500,15.65,1,0.06,RQeboLS2-N9w3,N,8
+4fKLgdC1-yF7m,NclfY3hT-6Aey,oeJb3pPy-uh7M,4fKLgdC1-yF7m,24,59000,Aluguel,2,NclfY3hT-6Aey,"Medico ",E,16000,16.45,1,0.27,oeJb3pPy-uh7M,N,2
+L7b4WzY7-m9MO,PXgRuoOC-QhS4,ffZ661Jf-WOQx,L7b4WzY7-m9MO,27,69000,Hipoteca,3,PXgRuoOC-QhS4,"Educativo ",B,4000,11.49,1,0.06,ffZ661Jf-WOQx,N,8
+dOWbKJIK-jWix,QrJPU1v0-EmlF,hxg6DOrY-vl48,dOWbKJIK-jWix,22,20000,Aluguel,3,QrJPU1v0-EmlF,"Educativo ",D,6250,NULL,1,0.31,hxg6DOrY-vl48,S,3
+Ta1v1RZp-4xN5,uvAEBJsX-MMO9,UbFUuIu2-yd0v,Ta1v1RZp-4xN5,31,40000,Hipoteca,2,uvAEBJsX-MMO9,Pagamento_debitos,D,9500,16.77,1,0.24,UbFUuIu2-yd0v,N,10
+SDPNBRKj-Zisw,XlZOwFxr-vHmn,ff9L6BCe-LZ7C,SDPNBRKj-Zisw,21,30067,Aluguel,5,XlZOwFxr-vHmn,"Empreendimento ",C,10750,12.68,1,0.36,ff9L6BCe-LZ7C,N,3
+US2fFXuU-SX8T,xs9UEeP0-hAz9,PkwL0yxv-3qXT,US2fFXuU-SX8T,22,19008,Propria,NULL,xs9UEeP0-hAz9,"Empreendimento ",A,12000,5.42,1,0.63,PkwL0yxv-3qXT,N,2
+qF7Mh5AD-jumf,QskYp3xB-Ljf2,oRpyjJRb-28oW,qF7Mh5AD-jumf,26,51600,Aluguel,1,QskYp3xB-Ljf2,Melhora_lar,A,5000,8.94,1,0.1,oRpyjJRb-28oW,N,2
+d7g78Z1J-d6jS,KDUjaQwu-lC10,idNkfHga-RDlU,d7g78Z1J-d6jS,28,30000,Aluguel,10,KDUjaQwu-lC10,"Medico ",B,6000,10.37,1,0.2,idNkfHga-RDlU,N,6
+YMwaLOn1-h2B9,7hCzSN7T-v8OC,1XSrTexC-LZKY,YMwaLOn1-h2B9,22,32000,Aluguel,6,7hCzSN7T-v8OC,"Educativo ",B,15000,9.88,1,0.47,1XSrTexC-LZKY,N,4
+h77ktrLh-lluC,cGLHLSq0-eXqa,gYpJbjyu-WZkO,h77ktrLh-lluC,22,30000,Aluguel,7,cGLHLSq0-eXqa,"Educativo ",C,6000,14.27,1,0.2,gYpJbjyu-WZkO,N,3
+qgfNC7U5-mkjp,c6QG4DD6-iFLD,2AO4IPUK-uf09,qgfNC7U5-mkjp,23,39000,Aluguel,7,c6QG4DD6-iFLD,"Medico ",D,6000,14.09,1,0.15,2AO4IPUK-uf09,S,3
+EiLqvW9T-M4wZ,UjNqRxtK-silz,QP4PtfgC-jMDT,EiLqvW9T-M4wZ,33,30000,Aluguel,3,UjNqRxtK-silz,Pagamento_debitos,B,11975,9.99,1,0.4,QP4PtfgC-jMDT,N,8
+vTvXZh7O-7HgC,JnaDqsBH-wYh5,yKWMYkfH-Neal,vTvXZh7O-7HgC,22,56400,Hipoteca,6,JnaDqsBH-wYh5,"Pessoal ",E,25000,16.4,1,0.44,yKWMYkfH-Neal,N,3
+R1CmXIgk-GH6u,FQfy5uEZ-SE71,Qw52SGiD-xabh,R1CmXIgk-GH6u,26,NULL,Aluguel,4,FQfy5uEZ-SE71,"Educativo ",A,10000,14.72,NULL,0.13,Qw52SGiD-xabh,S,3
+RnzUnhl7-TDvQ,inNswnu4-JP3J,Q5xs9SPO-JsWw,RnzUnhl7-TDvQ,26,85000,Aluguel,2,inNswnu4-JP3J,"Empreendimento ",A,28000,7.49,1,0.33,Q5xs9SPO-JsWw,N,3
+WZxfKHBK-lKGE,LZdPDESd-IxIQ,8tW2uW77-D3B2,WZxfKHBK-lKGE,27,17000,Aluguel,6,LZdPDESd-IxIQ,"Pessoal ",B,2875,11.71,1,0.17,8tW2uW77-D3B2,N,10
+u4vbsjFG-ZGFP,fsGgh0zn-NrDi,sGN21KxU-3nR5,u4vbsjFG-ZGFP,48,39915,Aluguel,15,fsGgh0zn-NrDi,"Empreendimento ",A,20000,7.49,1,0.5,sGN21KxU-3nR5,N,12
+BXbls2M7-tq33,Hst9kp8p-90x5,4f148Tbk-y9xh,BXbls2M7-tq33,32,18072,Aluguel,NULL,Hst9kp8p-90x5,Pagamento_debitos,A,3000,6.03,1,0.17,4f148Tbk-y9xh,N,7
+MIKnFDdT-DxYR,u3suvalE-37Eg,SOy5Ueio-KqLG,MIKnFDdT-DxYR,25,51850,Aluguel,2,u3suvalE-37Eg,"Medico ",C,3600,13.99,1,0.06,SOy5Ueio-KqLG,N,2
+aH3Q2sY2-guq2,bW8TAJgs-Ar1o,BGi512MG-r4MZ,aH3Q2sY2-guq2,23,54000,Hipoteca,7,bW8TAJgs-Ar1o,Pagamento_debitos,D,5000,14.96,1,0.09,BGi512MG-r4MZ,S,2
+fD5o4PeB-fwAk,SC292x02-AEIB,tC8INQbc-5pN0,fD5o4PeB-fwAk,34,263004,Hipoteca,2,SC292x02-AEIB,Pagamento_debitos,D,25000,16.32,1,0.1,tC8INQbc-5pN0,S,9
+6OcNN6kU-jHNT,ZKN7Gu0D-z4nz,SnaeqwoH-w49Z,6OcNN6kU-jHNT,25,77000,Hipoteca,1,ZKN7Gu0D-z4nz,Pagamento_debitos,F,7200,18.53,1,0.09,SnaeqwoH-w49Z,N,3
+kRvYb16u-5HuF,fJaxT6BI-sa5p,IrpgC8ul-y2EK,kRvYb16u-5HuF,29,98000,Hipoteca,2,fJaxT6BI-sa5p,Melhora_lar,B,7925,10.59,1,0.08,IrpgC8ul-y2EK,N,9
+ReScnfeI-NcRj,N0uvOlNc-CpzQ,INa67TaL-O1qE,ReScnfeI-NcRj,NULL,42996,Propria,15,N0uvOlNc-CpzQ,"Educativo ",D,NULL,14.09,1,0.06,INa67TaL-O1qE,N,5
+GC4RsptY-hD6N,8BYXA1wc-m6hy,hYI9I5nJ-HZT4,GC4RsptY-hD6N,36,42000,Aluguel,7,8BYXA1wc-m6hy,"Pessoal ",B,15600,NULL,1,0.37,hYI9I5nJ-HZT4,N,14
+JC0MyXKL-X9H6,Y9CT7FSr-OF7x,mqWU4WFh-suM0,JC0MyXKL-X9H6,31,30000,Aluguel,4,Y9CT7FSr-OF7x,Pagamento_debitos,B,12000,10.39,1,0.4,mqWU4WFh-suM0,N,9
+ePGnRsZ9-Xkxv,2tF2XE85-tC3b,cKbx2N4L-eLcW,ePGnRsZ9-Xkxv,22,80000,Aluguel,3,2tF2XE85-tC3b,"Pessoal ",D,33950,14.54,1,0.42,cKbx2N4L-eLcW,S,4
+OOM6KyRJ-Z3LB,PTewB2LL-8ZON,9wWUBc9M-gymO,OOM6KyRJ-Z3LB,24,136000,Hipoteca,9,PTewB2LL-8ZON,"Pessoal ",F,25000,19.13,1,0.18,9wWUBc9M-gymO,N,3
+raev2AcX-iv3N,QO3TTpS6-GWGC,igWoA6uF-IJOj,raev2AcX-iv3N,22,30000,Aluguel,6,QO3TTpS6-GWGC,"Medico ",B,7000,9.62,1,0.23,igWoA6uF-IJOj,N,4
+pEdAErpG-NFvJ,zQ4KwPEP-rC18,WqUZyCfB-pxAh,pEdAErpG-NFvJ,21,24000,Aluguel,4,zQ4KwPEP-rC18,Melhora_lar,C,9600,14.27,1,0.4,WqUZyCfB-pxAh,N,4
+gnEgOIEj-8ato,LhOctYN4-la2N,TfUlan3h-KTk5,gnEgOIEj-8ato,22,32000,Aluguel,2,LhOctYN4-la2N,"Empreendimento ",C,10000,13.22,1,0.31,TfUlan3h-KTk5,N,3
+wFe9kO6d-XR1F,DWKWSlwk-jpK3,z1EsWSji-rYpj,wFe9kO6d-XR1F,26,59000,Aluguel,3,DWKWSlwk-jpK3,"Educativo ",A,9600,7.49,1,0.16,z1EsWSji-rYpj,N,3
+wgoJLtEA-zfli,y91BYm96-ynq3,ee61vWqC-mPI0,wgoJLtEA-zfli,24,59000,Aluguel,1,y91BYm96-ynq3,Melhora_lar,D,18000,14.96,1,0.31,ee61vWqC-mPI0,S,4
+fRTstakn-piQ3,2Aqpr1GO-vkir,pxWeefAh-GRf2,fRTstakn-piQ3,26,108000,Aluguel,9,2Aqpr1GO-vkir,"Educativo ",G,24000,20.16,1,0.22,pxWeefAh-GRf2,N,3
+SAk9mFbQ-vOYx,57FElPXJ-NC5j,ijgcYjYU-LSFt,SAk9mFbQ-vOYx,30,62900,Hipoteca,2,57FElPXJ-NC5j,"Medico ",B,10000,NULL,1,0.14,ijgcYjYU-LSFt,N,6
+1lIr1BNg-bf9Q,OWtLdZxZ-S6yy,ChyMTqP5-W1yj,1lIr1BNg-bf9Q,26,71400,Aluguel,10,OWtLdZxZ-S6yy,"Medico ",D,16000,NULL,1,0.19,ChyMTqP5-W1yj,S,4
+fMsGc7Y3-0sNA,neByrJ6h-HOSp,33P2j7FN-h0s6,fMsGc7Y3-0sNA,24,62400,Aluguel,8,neByrJ6h-HOSp,Melhora_lar,B,20000,11.12,1,0.32,33P2j7FN-h0s6,N,2
+2PWPwIay-36Uf,rLH7y39D-kFj7,L2dFCIaG-F96c,2PWPwIay-36Uf,31,43000,Aluguel,15,rLH7y39D-kFj7,"Medico ",B,13350,12.42,1,0.31,L2dFCIaG-F96c,N,9
+e5GIi3dZ-WqID,D6BiKwK4-PZkX,gM4qp882-7KIR,e5GIi3dZ-WqID,22,15600,Aluguel,5,D6BiKwK4-PZkX,"Empreendimento ",E,3200,17.93,1,0.21,gM4qp882-7KIR,N,4
+CbJA645P-Q1Au,st2pT92K-uvxb,GUDsckPT-dIjc,CbJA645P-Q1Au,29,36000,Aluguel,1,st2pT92K-uvxb,"Empreendimento ",B,12000,12.21,1,0.33,GUDsckPT-dIjc,N,10
+4RmeW9pU-6s8u,zrAkFQ5k-zCvp,ZNNdm1Cw-uzpx,4RmeW9pU-6s8u,25,18000,Aluguel,1,zrAkFQ5k-zCvp,"Pessoal ",B,5500,11.71,1,0.31,ZNNdm1Cw-uzpx,N,2
+Wz2Qv33A-8FvI,TGecoRcA-s7G7,9KuS2sF2-bE4X,Wz2Qv33A-8FvI,49,64600,Hipoteca,4,TGecoRcA-s7G7,"Medico ",D,10000,16.49,1,0.13,9KuS2sF2-bE4X,N,12
+QzzW4e5N-wzhS,slwRbUvu-9YEt,PkWiA0i1-Fa1J,QzzW4e5N-wzhS,25,44000,Aluguel,2,slwRbUvu-9YEt,"Pessoal ",D,10000,15.65,1,0.23,PkWiA0i1-Fa1J,N,2
+KQ3Nk9c2-3USb,vztMKhNG-ODM8,N1yQlXWC-DHZM,KQ3Nk9c2-3USb,23,59000,Aluguel,7,vztMKhNG-ODM8,"Educativo ",C,20000,12.29,1,0.34,N1yQlXWC-DHZM,N,2
+cc3wv8uE-fRxD,xjqEnye2-0mE0,CoBbS8rp-fkxK,cc3wv8uE-fRxD,30,10800,Propria,NULL,xjqEnye2-0mE0,"Educativo ",B,2400,9.99,1,0.22,CoBbS8rp-fkxK,N,7
+1wbqWFvM-OaZT,CUgTBahN-KhHY,5HYfYYY0-5uNA,1wbqWFvM-OaZT,32,22000,Aluguel,9,CUgTBahN-KhHY,"Medico ",E,10000,18.39,1,0.45,5HYfYYY0-5uNA,S,6
+WPlqOkmd-oXTe,ekEZBncY-G14x,wMRzykKF-7yr9,WPlqOkmd-oXTe,43,68400,Hipoteca,9,ekEZBncY-G14x,"Empreendimento ",C,9600,13.49,1,0.14,wMRzykKF-7yr9,N,16
+Jnw0fypP-AQQb,GvslCfLZ-pm4G,MXXsJJYp-u4aU,Jnw0fypP-AQQb,22,30000,Aluguel,4,GvslCfLZ-pm4G,Melhora_lar,D,8500,15.05,1,0.28,MXXsJJYp-u4aU,S,4
+wwLKi4Ro-GUJg,kwy8l6Nb-49JU,mLmhEHhI-hOuM,wwLKi4Ro-GUJg,32,68000,Hipoteca,6,kwy8l6Nb-49JU,"Educativo ",C,1000,14.72,1,0.01,mLmhEHhI-hOuM,S,9
+1I6R7Zn0-P7Gf,3Kmucxp4-NvL3,lHvScycu-2623,1I6R7Zn0-P7Gf,38,48384,Aluguel,4,3Kmucxp4-NvL3,"Medico ",D,19000,14.96,1,0.39,lHvScycu-2623,S,16
+la4b2wE5-02u0,WG9ZF8DP-R4O8,DetGig4j-92fb,la4b2wE5-02u0,35,30000,Aluguel,4,WG9ZF8DP-R4O8,"Medico ",C,14125,12.99,1,0.47,DetGig4j-92fb,S,10
+vcYxbwkv-n8JD,HoYqACFs-A2TN,hpeHmHtO-Yutn,vcYxbwkv-n8JD,43,27036,Aluguel,1,HoYqACFs-A2TN,"Pessoal ",D,13750,15.31,1,0.51,hpeHmHtO-Yutn,S,15
+l9E1bREC-7EwI,4AGmZUoT-W5Rs,eeZ6ufCf-5IYs,l9E1bREC-7EwI,28,39000,Aluguel,6,4AGmZUoT-W5Rs,Pagamento_debitos,A,5000,5.99,1,0.13,eeZ6ufCf-5IYs,N,7
+8DjBJzyW-T2gr,Gvk24dtd-kvqi,PaXTMIhc-0Uxn,8DjBJzyW-T2gr,25,45996,Aluguel,2,Gvk24dtd-kvqi,Pagamento_debitos,G,5000,NULL,1,0.11,PaXTMIhc-0Uxn,S,4
+gOkqXiBv-JD4W,RZJeyM9H-4uT2,41CoFBHy-LlcK,gOkqXiBv-JD4W,21,19140,Aluguel,NULL,RZJeyM9H-4uT2,"Empreendimento ",A,5000,8.49,1,0.26,41CoFBHy-LlcK,N,4
+M9QWhY8i-9PtN,ie5ATLXh-Xi5T,XOP555pU-K6f0,M9QWhY8i-9PtN,24,10000,Aluguel,8,ie5ATLXh-Xi5T,"Pessoal ",A,3000,7.9,1,0.3,XOP555pU-K6f0,N,3
+H7H8P28o-U04c,2b1Hillh-SFtm,tIEkbT9O-ua3c,H7H8P28o-U04c,23,18720,Aluguel,2,2b1Hillh-SFtm,"Educativo ",D,4000,15.62,1,0.21,tIEkbT9O-ua3c,N,4
+hmv9sg6v-P1ix,kHSXzTtz-QyfQ,1Y4xXFRa-4fBN,hmv9sg6v-P1ix,23,52000,Aluguel,5,kHSXzTtz-QyfQ,"Pessoal ",D,4600,14.96,1,0.09,1Y4xXFRa-4fBN,N,2
+0yy5hLJb-oUFy,NdoaUAMy-f6Ib,BdAwAZYs-l3zp,0yy5hLJb-oUFy,22,46000,Aluguel,1,NdoaUAMy-f6Ib,Pagamento_debitos,D,6200,NULL,1,0.13,BdAwAZYs-l3zp,N,4
+FSFmbFy1-ZwNg,T6RoEHSP-Aj2I,0zMJc6qN-YJJH,FSFmbFy1-ZwNg,24,24000,Aluguel,3,T6RoEHSP-Aj2I,Pagamento_debitos,B,10000,10.38,1,0.42,0zMJc6qN-YJJH,N,4
+K2T3onFW-KuPO,t1G5RMhE-yG5N,IwFERD7d-kb6Z,K2T3onFW-KuPO,41,24000,Aluguel,24,t1G5RMhE-yG5N,"Pessoal ",A,2000,7.75,1,0.08,IwFERD7d-kb6Z,N,17
+qmqAUnnI-FblZ,hrmcRRJd-ny8Y,bMq5EUnp-zIWG,qmqAUnnI-FblZ,22,83000,Aluguel,6,hrmcRRJd-ny8Y,Pagamento_debitos,E,24000,19.69,1,0.29,bMq5EUnp-zIWG,N,3
