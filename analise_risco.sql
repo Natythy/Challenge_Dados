@@ -20,7 +20,7 @@ alter table emprestimos change loan_percent_income renda_percentual double;
 
 select * from historicos_banco;
 alter table historicos_banco change cb_id id_historico_banco varchar(16);
-alter table historicos_banco change cb_person_default_on_file inadiplencia_anteior varchar(1);
+alter table historicos_banco change cb_person_default_on_file inadimplencia_anteior varchar(1);
 alter table historicos_banco change cb_person_cred_hist_length tempo_primeira_solicitacao int;
 
 select * from ids;
@@ -42,32 +42,7 @@ update emprestimos SET motivo = 'Empreendimento ' where motivo = 'Venture';
 update emprestimos SET motivo = 'Melhora_lar' where motivo = 'Homeimprovement';
 update emprestimos SET motivo = 'Pagamento_debitos' where motivo = 'Debtconsolidation';
 
-update historicos_banco SET inadiplencia_anteior = 'S' where inadiplencia_anteior = 'Y';
-
-
-delete from dados_mutuarios where id_solicitante = '';
-delete from dados_mutuarios where idade = '';
-delete from dados_mutuarios where salario = '';
-delete from dados_mutuarios where situacao_imovel = '';
-delete from dados_mutuarios where tempo_trabalho = '';
-
-delete from emprestimos where id_solicitacao_emprestimo = '';
-delete from emprestimos where motivo = '';
-delete from emprestimos where pontuacao = '';
-delete from emprestimos where valor_total_solicitado = '';
-delete from emprestimos where taxa_juros = '';
-delete from emprestimos where possibilidade_inadiplencia = '';
-delete from emprestimos where renda_percentual = '';
-
-delete from historicos_banco where id_historico_banco = '';
-delete from historicos_banco where inadiplencia_anteior = '';
-delete from historicos_banco where tempo_primeira_solicitacao = '';
-
-delete from dados_mutuarios where id_solicitante = '';
-delete from emprestimos where id_solicitacao_emprestimo = '';
-delete from historicos_banco where id_historico_banco = '';
-set sql_safe_updates = 1;
-
+update historicos_banco SET inadimplencia_anteior = 'S' where inadimplencia_anteior = 'Y';
 
 select * from ids a
 inner join dados_mutuarios b on a.id_solicitante = b.id_solicitante
