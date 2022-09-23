@@ -15,4 +15,4 @@
 A semana 1 é dedicada à análise e estruturação dos dados oferecidos pelo banco com MySQL. E posteriormente a tabela de dados foi exportada do MySQL como csv e será utilizada nas próximas semanas.
 
 ### Semana 2
-Construir um modelo de ML que pudesse predizer de acordo com os dados bancários de cada cliente, se essa pessoa pode ou não se tornar inadimplente.
+Construir um modelo de ML que pudesse predizer de acordo com os dados bancários de cada cliente, se essa pessoa pode ou não se tornar inadimplente. Utilizando o Google Colab e exportando os modelos feitos.
